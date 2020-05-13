@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
-    "image": "images/features/noun_branding_1885335.svg"
-  },
-  {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Professional Engineers",
+    "description": "Years of experiance producing and recording",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Radio Ready Sound",
+    "description": "Quality sound no matter what genre",
     "image": "images/features/noun_3d modeling_1885342.svg"
+  },
+    {
+    "title": "Book A Free Tour",
+    "description": "Come in and check out our studio spaces for yourself",
+    "image": "images/features/noun_branding_1885335.svg"
   }
 ]

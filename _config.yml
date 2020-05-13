@@ -1,7 +1,8 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Sounds Like Soma'
+footer: Sounds Like Soma, LLC
 
 collections:
   services:
