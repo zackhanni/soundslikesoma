@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'futura-pt';
+    font-style: normal;
+    font-weight: normal;
+    src: url('#{$baseurl}/assets/css/fonts/futura-pt-book.eot');
+    src: url('#{$baseurl}/assets/css/fonts/futura-pt-book.eot#iefix') format("embedded-opentype"),url('#{$baseurl}/assets/css/fonts/futura-pt-book.woff2') format("woff2"),url('#{$baseurl}/assets/css/fonts/futura-pt-book.woff') format("woff"),url('#{$baseurl}/assets/css/fonts/futura-pt-book.ttf') format("truetype"),url('#{$baseurl}/assets/css/fonts/futura-pt-book.svg#FuturaPTWeb-Book') format("svg")
+}
+
+@font-face {
+    font-family: 'futura-pt';
+    font-style: italic;
+    font-weight: normal;
+    src: url('#{$baseurl}/assets/css/fonts/futura-pt-book-oblique.eot');
+    src: url('#{$baseurl}/assets/css/fonts/futura-pt-book-oblique.eot#iefix') format("embedded-opentype"),url('#{$baseurl}/assets/css/fonts/futura-pt-book-oblique.woff2') format("woff2"),url('#{$baseurl}/assets/css/fonts/futura-pt-book-oblique.woff') format("woff"),url('#{$baseurl}/assets/css/fonts/futura-pt-book-oblique.ttf') format("truetype"),url('#{$baseurl}/assets/css/fonts/futura-pt-book-oblique.svg#FuturaPTWeb-Book') format("svg")
+}
+
+@font-face {
+    font-family: 'futura-pt';
+    font-style: normal;
+    font-weight: bold;
+    src: url('#{$baseurl}/assets/css/fonts/futura-pt-medium.eot');
+    src: url('#{$baseurl}/assets/css/fonts/futura-pt-medium.eot#iefix') format("embedded-opentype"),url('#{$baseurl}/assets/css/fonts/futura-pt-medium.woff2') format("woff2"),url('#{$baseurl}/assets/css/fonts/futura-pt-medium.woff') format("woff"),url('#{$baseurl}/assets/css/fonts/futura-pt-medium.ttf') format("truetype"),url('#{$baseurl}/assets/css/fonts/futura-pt-medium.svg#FuturaPTWeb-Book') format("svg")
+}
