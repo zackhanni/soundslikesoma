@@ -59,8 +59,29 @@ _sass > pages > services, team, testimonials > _page-NAME-list.scss
 # homepage 'why choose soma' pics
 _data > features.json
 
+# home headers (our services, why choose soma)
+index.html > manual changeing to light or dark etc
+
+# p tags for under headers
+_scss > components > _intro > line 42
+
+# navbar color
+_scss > components > _header > line 4 background color
+
+# testimonial title color
+_scss > pages > testimonials > testimonials-summary > line 32
 
 ## HOW TO CHANGE BG/FONT COLOR
 
+# all pages main background color and text
 _sass > bootstrap > variables > line 143-144
 
+# change small window on home page
+_sass > pages > _home.scss > .call 
+
+# homepage feature background color
+_sass >  components > _feature 
+
+
+# theme info
+https://getbootstrap.com/docs/4.0/getting-started/theming/

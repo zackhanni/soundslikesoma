@@ -5,13 +5,17 @@ image: '/services/default.png'
 
 If you have tracked out stems ready to be mixed and cleaned up we offer flat rates
 
-- $100 Mix and Master : Stereo Instrumental + Vocal Stems
-- $150 Mix and Master : Multitrack Recording 10 - 25 track stems
+$100 Mix and Master : Stereo Instrumental + Vocal Stems
 
-For larger mixing projects please contact us directly.
+$150 Mix and Master : Multitrack Recording 10 - 25 track stems
 
-- $40 Song Mastering Only.
-- (we prefer stems to have 24 bit depth, 48k sample rate or higher)
+$200 Mix and Master : Multitrack Recording 25 - 50 track stems
+
+ - - -
+
+$40 Song Mastering Only.
+
+(we prefer stems to have 24 bit depth, 48k sample rate or higher)
 
 **_Please allow 3-4 business days per song for completion._**
 

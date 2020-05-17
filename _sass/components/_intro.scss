@@ -39,7 +39,7 @@
     font-size: 1.1rem;
     font-weight: lighter;
     line-height: 1.4;
-    color: $secondary;
+    color: $gray-400;
     @include media-breakpoint-up(sm) {
       width: 70%;
     }
