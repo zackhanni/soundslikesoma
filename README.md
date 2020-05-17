@@ -36,3 +36,31 @@ If you fork or copy this theme the LICENSE file and the copyright notice on line
 
 
 # svg images in _sass > pages > services, team, testimonials, etc.
+
+
+
+# TO DO
+
+replace images > favicon
+replace images > features > emaily pics
+black background
+
+add way to book and pay. check with square about a full page to add instead of a link
+
+
+
+
+## HOW TO CHANGE PICS
+
+# page images
+_sass > pages > home.scss
+_sass > pages > services, team, testimonials > _page-NAME-list.scss
+
+# homepage 'why choose soma' pics
+_data > features.json
+
+
+## HOW TO CHANGE BG/FONT COLOR
+
+_sass > bootstrap > variables > line 143-144
+

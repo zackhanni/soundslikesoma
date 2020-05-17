@@ -1,10 +1,10 @@
 ---
-title: 'Vieo Project'
+title: 'Vieo Projects'
 image: ''
 businessurl: ''
 name: 'Felicia Chunn'
 business: 'Local Business Name'
-jobtitle: 'Owner'
+jobtitle: 'Production Assistant'
 ---
 
 > Anytime I encounter audio issues on my video projects, Zack is my go-to guy. May you need audio mastered, mixed, you name it and odds are he can do it. Mind you I live out of his state and I still come to him for the best quality and rates money can buy.

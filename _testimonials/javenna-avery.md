@@ -1,5 +1,5 @@
 ---
-title: 'Learn Something'
+title: 'Professional Suggestions and Resources'
 image: ''
 businessurl: ''
 name: 'Javenna Avery'

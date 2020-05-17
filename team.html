@@ -35,8 +35,8 @@ bodyClass: page-team-list
         <div class="team-meta">
           <h2 class="team-name">{{ team.title }}</h2>
           <p class="team-description">{{ team.jobtitle }}</p>
-          {% if team.linkedinurl %}
-          <a target="_blank" href="{{ team.linkedinurl }}">LinkedIn</a> 
+          {% if team.instagramurl %}
+          <a target="_blank" href="{{ team.instagramurl }}">Instagram</a> 
           {% endif %}
         </div>
         <div class="team-content">{{ team.content }}</div>
