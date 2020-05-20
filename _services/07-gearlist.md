@@ -3,6 +3,8 @@ title: Gear List
 image: '/services/default.png'
 ---
 
+- - -
+
 ## Audio Interfaces
 - Focusrite Clarett 8Pro USB
 - MOTU 8pre-es
@@ -10,12 +12,12 @@ image: '/services/default.png'
 - Focusrite 2i2
 - U-Phoria UMC404HD
 
-## Channel Strip
+## Outboard Gear
 - Rupert Neve Portico II
 - Presonus Studio Channel
 - Presonus Eureka 
-
-## Mic Preamps
+- DBX 160x (x2)
+- RNLA7239 stereo Compressor
 - Focusrite ISA one 
 
 ## Microphones
@@ -25,25 +27,14 @@ image: '/services/default.png'
 - AKG 414 XLS
 - AKG 414 XLII
 - Sure SM7B
+- Sure SM57 x3
 - Audio Technica  AT4040
+- Audio Technica  AT2020
 - MXL V67GS
 - Beta 52 A
 - Samsung C02 x4
 - Studio Projects C4 x2
-- SM57 x3
 - PG58 
-
-## Guitar Amplifiers
-- Vox Ac 15
-- Acoustic AG15
-- Fender Mustang Gt 40 
-
-## Speakers
-- Genelec 8351b
-- KRK Rokit 10-3
-- KRK Rokit 5
-- Avantone Mixcube
-- Various PA speakers 
 
 ## Guitars/Bass
 - Fender 2013 American made HSH 
@@ -53,33 +44,40 @@ image: '/services/default.png'
 - Goldfinch Painted Lady
 - Various Acoustic Guitars
 
-## Analog Compressors
-- DBX 160x (x2)
-- RNLA7239 stereo Compressor
+## Guitar Amplifiers
+- Vox Ac 15
+- Acoustic AG15
+- Fender Mustang Gt 40 
 
-## Keyboards and Synths
+## Monitoring
+- Genelec 8351b
+- KRK Rokit 10-3
+- KRK Rokit 5
+- Yamaha NS-10
+- Avantone Mixcube
+- Sennheiser HD-650
+- Various PA speakers 
+
+## Keys and Synths
 - Yamaha MOXF8 weighted 88 key motif
 - Yamaha MX88
 - Roland Super JV-1080
-- 88 key ur piano 
 - Arturia Minibrute
 - Eurorack Modular System 
 - Stylophone
 - Synth Plus 10
 - Korg MS 2000
 
-## Drum Kit
+## Drums and Percussion
 - Alesis Command - Advanced Drum Module
-
-## Other Percussion
 - Tambourine 
-- Shakers
+- Shaker Assortment
 
 ## Software
 - Ableton Live
 - Logic Pro X
-- Waves (ALL)
-- Izotope (ALL)
+- Waves Plugins
+- Izotope Ozone 9
 - Fab Filter
 - Native Instruments Komplete Ultimate
 - Sylenth

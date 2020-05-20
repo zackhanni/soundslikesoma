@@ -7,11 +7,11 @@ image: '/services/noun_591323.png'
 
 $55 / hr
 
-If you want the best Soma has to offer, Studio A has what you need. Included experienced engineer Zack Hanni can help sculpt your song and have it ready for radio or online streaming platforms. 
+If you want the best Soma Sounds has to offer, Studio A has what you need. 
 
-Studio A boasts top of the line equipment ready to record and produce your next radio hit.
+Your session includes an experianced engineer ready to sculpt your song into a radio-ready, commercially competative product while maintining a comfortable, professional, private and safe creative environment.
 
-This sound isolated room is also great for voiceovers and 1-3 person podcasts.
+Studio A, acoustically treated and sound isolated, boasts top of the line digital and analog equipment perfect for vocals, voiceovers, and smaller podcasts.
 
 <!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #0D5FD9; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://square.site/book/8GNV6PJ8WK7YH/studio-a-south-philly-philadelphia-pa">Book Studio A</a> <!-- End Square Appointments Embed code -->
 
@@ -21,11 +21,11 @@ This sound isolated room is also great for voiceovers and 1-3 person podcasts.
 
 $35 / Hour
 
-Our second studio with a larger seating area. Engineer Included (Gage). 
+Our second studio boasta a larger seating area which may be more comfortable for groups, larger podcasts, and live events. 
 
-Great for group recordings, larger podcasts, and events.
+Your session will be run by engineer Gage, who is ready to track and mix your song for radio and all digital streaming platforms.
 
-If you're recording on a budget, start off in Studio B, then move to Studio A to get a finalized mix and professional master.
+**_If you're recording on a budget, start off in Studio B, then move to Studio A to get a finalized mix and professional master_**
 
 <!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #E10015; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://square.site/book/VC0MQHN4GS4ND/sls-studio-b-philadelphia-pa">Book Studio B</a> <!-- End Square Appointments Embed code -->
 
@@ -39,6 +39,14 @@ Bring Your Own Computer. You can rent our space and equipment to do your own rec
 
 Monthly packages are available for **_HUGE_** discounts on BYOC. Pay by the month and come record whenever you want! 
 
+(BYOC is bookable through either Studio A or B)
+
+- - -
+- - -
+
+## Recording in Phily? Welcome to your new studio home!
+
+Whether you’re looking for a Hip-Hop, Rap, Pop, Rock, R&B, Electronic music, Podcasts or even Voiceovers and Audiobook recording studio in Philadelphia, we are ready to elevate your sound to a radio-ready commercial standard.
 
 
 

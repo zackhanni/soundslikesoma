@@ -7,17 +7,24 @@
 
 
 
+- - -
 
 # TO DO
 
-replace images > favicon
-replace images > features > emaily pics
-black background
+get emily to draw cleaner 'features' images
+make feature images 100x100px
 
-add way to book and pay. check with square about a full page to add instead of a link
+get testimonials from bigger / more important artists (like tye, limm, etc.)
+
+add video testimonials to the testimonials page
+
+add studio images on homepage. maybe instagram too
+
+make logo bigger
 
 
 
+- - -
 
 # HOW TO CHANGE PICS n THINGS
 
@@ -53,6 +60,7 @@ _sass > pages > _home.scss > .call
 ## homepage feature background color
 _sass >  components > _feature 
 
+- - -
 
-## theme info
+## colors and theme info
 https://getbootstrap.com/docs/4.0/getting-started/theming/
