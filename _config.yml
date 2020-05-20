@@ -14,6 +14,9 @@ collections:
   testimonials:
     output: true
     permalink: /testimonials/:path/
+  samples:
+    output: true
+    permalink: /samples/:path/
 
 defaults:
   - scope:

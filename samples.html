@@ -1,0 +1,34 @@
+---
+title: Samples
+layout: default
+bodyClass: page-samples-list
+---
+
+<div class="intro">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h1>Music Samples</h1>
+        <p>
+          Music of all genres is recorded, mixed and mastered by our professional audio engineers.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container pb-6">
+  <div class="row">
+    {% for samples in site.samples %}
+    <div class="col-12 col-md-6 mb-1">
+      <div class="samples samples-summary">
+        <div class="samples-meta">
+          <h2 class="samples-name">{{ samples.title }}</h2>
+          <p class="samples-description">{{ samples.jobtitle }}</p>
+        </div>
+        <div class="samples-content">{{ samples.content }}</div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
