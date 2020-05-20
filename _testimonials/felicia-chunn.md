@@ -1,5 +1,5 @@
 ---
-title: 'Vieo Projects'
+title: 'Video Projects'
 image: ''
 businessurl: ''
 name: 'Felicia Chunn'
