@@ -5,11 +5,11 @@ image: '/services/noun_591323.png'
 
 ## Studio A
 
-$55 / hr
+$55/hour
 
 If you want the best Soma Sounds has to offer, Studio A has what you need. 
 
-Your session includes an experianced engineer ready to sculpt your song into a radio-ready, commercially competative product while maintining a comfortable, professional, private and safe creative environment.
+Your session includes an experianced engineer ready to sculpt your song into a radio-ready, commercially competative product while maintining a comfortable, professional, private and safe creative environment. No matter if you are and full band, solo artist with an instrumental, or even need music produced for you, Studio A is ready for your project.
 
 Studio A, acoustically treated and sound isolated, boasts top of the line digital and analog equipment perfect for vocals, voiceovers, and smaller podcasts.
 
@@ -19,9 +19,9 @@ Studio A, acoustically treated and sound isolated, boasts top of the line digita
 
 ## Studio B
 
-$35 / Hour
+$35/hour
 
-Our second studio boasta a larger seating area which may be more comfortable for groups, larger podcasts, and live events. 
+Our second studio boasts a larger seating area which may be more comfortable for groups, larger podcasts, and live events. 
 
 Your session will be run by engineer Gage, who is ready to track and mix your song for radio and all digital streaming platforms.
 
@@ -33,9 +33,15 @@ Your session will be run by engineer Gage, who is ready to track and mix your so
 
 ## B.Y.O.C
 
-$20 / Hour
+$20/hour
 
-Bring Your Own Computer. You can rent our space and equipment to do your own recording and production. Engineer **_not_** included.
+Bring Your Own Computer and engineer. You can rent our space and equipment to do your own recording and production.
+
+Check out our Studio <a href="/services/07-gearlist" target="Gear List">Gear List</a> Gear List for details on available equipment
+
+Please print and sign our <a href="/assets/documents/" download="BYOC_RENTAL_AGREEMENTv1.1.pdf" target="BYOC Rental Agreement">BYOC Rental Agreeent</a>  before the start of your session along with your ID
+
+
 
 Monthly packages are available for **_HUGE_** discounts on BYOC. Pay by the month and come record whenever you want! 
 

@@ -61,6 +61,7 @@ image: '/services/default.png'
 ## Keys and Synths
 - Yamaha MOXF8 weighted 88 key motif
 - Yamaha MX88
+- Behringer Poly D
 - Roland Super JV-1080
 - Arturia Minibrute
 - Eurorack Modular System 
@@ -69,6 +70,7 @@ image: '/services/default.png'
 - Korg MS 2000
 
 ## Drums and Percussion
+- Varuous Acoustic Kits
 - Alesis Command - Advanced Drum Module
 - Tambourine 
 - Shaker Assortment
@@ -76,7 +78,7 @@ image: '/services/default.png'
 ## Software
 - Ableton Live
 - Logic Pro X
-- Waves Plugins
+- Waves Horizon Bundle (and more)
 - Izotope Ozone 9
 - Fab Filter
 - Native Instruments Komplete Ultimate

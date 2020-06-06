@@ -6,6 +6,6 @@ email: 'gagerbingham@gmail.com'
 instagramurl: 'https://www.instagram.com/gage_bingham'
 ---
 
-This is information about Gage. Hes a cool guy who works in studio B and likes to eat ass for cash.
+Gage is the head engineer of Studio B and the studio manager in charge of interns and personel. 
 
-He has a daughter names Paisley who is going to take over the music industry once she is old enough to run her own sessions.
+Gage went to college for music business but ended up on the engineering side of things here at Soma Sounds.
