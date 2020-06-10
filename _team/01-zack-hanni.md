@@ -6,8 +6,6 @@ email: 'soundslikesoma@gmail.com'
 instagramurl: 'https://www.instagram.com/zackhanni'
 ---
 
-Sounds Like Soma was founded by acclaimed producer, mixing and mastering engineer Zack Hanni in 2007. He developed the studio to have a relaxed, laid-back atmosphere, with the commitment, equipment, and quality of a major recording studio. 
+Zack started his musical journey 2007 when he began DJing. From there he worked on electronic music as the artist "Somaaa" and released 5 studio albums and dozens of singles and collaberative works. 
 
-His competitive rates and ability to exceed expectations have kept clients coming back, time and time again. 
-
-Come in and record a song with us to find out for yourself why were voted one of the best recording studios in Philadelphia.
+As his popularity grew, he bagan recording and mixing others' music in TN and eventually NJ. In 2015 Zack moved the studio to Philadelphia where he contunies to record and grow the community of artis who work with Soma.
