@@ -1,6 +1,6 @@
 ---
 title: 'Ian Brown'
-image: '/images/team/ian-brown.jpeg'
+image: '/assets/images/team/ian-brown.jpeg'
 jobtitle: 'Intern'
 email: ''
 instagramurl: 'https://www.instagram.com/eyebrow_n'

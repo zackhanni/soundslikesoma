@@ -1,6 +1,6 @@
 ---
 title: 'Kyle Walker'
-image: '/images/team/kyle-broflovski.png'
+image: '/assets/images/team/kyle-broflovski.png'
 jobtitle: 'Intern'
 instagramurl: 'https://www.instagram.com/soundslikesoma'
 ---

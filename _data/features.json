@@ -2,16 +2,16 @@
   {
     "title": "Professional Engineers",
     "description": "Years of experiance producing and recording",
-    "image": "images/features/professional-engineers.jpg"
+    "image": "assets/images/features/professional-engineers.jpg"
   },
   {
     "title": "Radio Ready Sound",
     "description": "Quality sound no matter what genre",
-    "image": "images/features/radio-ready-sound.jpg"
+    "image": "assets/images/features/radio-ready-sound.jpg"
   },
     {
     "title": "Book A Free Tour",
     "description": "Come in and check out our studio spaces for yourself",
-    "image": "images/features/book-a-free-tour.jpg"
+    "image": "assets/images/features/book-a-free-tour.jpg"
   }
 ]

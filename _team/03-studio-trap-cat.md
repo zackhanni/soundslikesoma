@@ -1,6 +1,6 @@
 ---
 title: 'Studio Trap Cat "Buddy"'
-image: '/images/team/studio-trap-cat.jpg'
+image: '/assets/images/team/studio-trap-cat.jpg'
 jobtitle: 'Secret Studio Owner, Profesional Trap Gangster'
 email: ''
 instagramurl: 'https://www.instagram.com/studiotrapcat'

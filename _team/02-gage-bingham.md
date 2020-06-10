@@ -1,6 +1,6 @@
 ---
 title: 'Gage Bingham'
-image: '/images/team/gage-bingham.jpg'
+image: '/assets/images/team/gage-bingham.jpg'
 jobtitle: 'Studio Manager, Engineer'
 email: 'gagerbingham@gmail.com'
 instagramurl: 'https://www.instagram.com/gage_bingham'

@@ -1,6 +1,6 @@
 ---
 title: 'Zachary Hanni'
-image: '/images/team/zack-hanni.jpg'
+image: '/assets/images/team/zack-hanni.jpg'
 jobtitle: 'Owner, Head Engineer'
 email: 'soundslikesoma@gmail.com'
 instagramurl: 'https://www.instagram.com/zackhanni'
