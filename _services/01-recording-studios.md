@@ -1,6 +1,8 @@
 ---
 title: 'Recording Studios'
 image: '/services/noun_591323.png'
+description: recording studio rates including engineer, mixing, and mastering during booked studio rental time.
+tags: [studio,recording,rates,rental]
 ---
 
 ## Studio A

@@ -1,6 +1,8 @@
 ---
 title: "Beats & Music Production"
 image: "/services/default.png"
+description: Custom beat production and music creation for any genre.
+tags: [beats,producer,instrumental,music]
 ---
 
 - - -

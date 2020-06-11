@@ -1,6 +1,8 @@
 ---
-title: 'Computer Repair'
+title: 'Tech Services'
 image: '/services/default.png'
+description: We fix all computers and laptops and also offer website creation
+tags: [website,laptop,computer,repair]
 ---
 
 - - -
@@ -45,7 +47,7 @@ We build custom computers
 
 - - -
 
-We build Jekyll based static websites and blogs
+Let us build you a georgious looking website from scratch (like this one) as a way to showcase your music, sell merch, or present a portfolio of art.
 
 Long term low cost website development ($10 total coast per year, No monthly hosting fees)
 

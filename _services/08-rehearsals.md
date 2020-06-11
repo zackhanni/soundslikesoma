@@ -1,6 +1,8 @@
 ---
 title: 'Rehearsals'
 image: '/services/default.png'
+description: Band and artist rehearsal practice space for rent.
+tags: [rehearsal,practice,band,rental]
 ---
 (**COMING SOON** - CALL FOR DETAILS)
 

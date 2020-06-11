@@ -1,6 +1,8 @@
 ---
 title: "Lessons"
 image: "/services/default.png"
+description: Lessons for music production, guitar,and djing
+tags: [lessons,production,djing,guitar]
 ---
 
 - - -

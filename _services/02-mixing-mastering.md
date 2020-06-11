@@ -1,6 +1,8 @@
 ---
 title: 'Mixing & Mastering'
 image: '/services/default.png'
+description: radio quality mixing and mastering services for flat rates.
+tags: [studio,mixing,mastering,stems]
 ---
 
 Let us clean up your personally recorded songs, or fix a mix recorded at another studio.

@@ -1,6 +1,8 @@
 ---
 title: 'Podcasts, Voice Overs & Audiobooks '
 image: '/services/default.png'
+description: radio quality podcasts, voiceovers, and audiobook recordings.
+tags: [podcast,voiceover,audiobook,voice,recording]
 ---
 $50 / hr 
 

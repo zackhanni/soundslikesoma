@@ -1,6 +1,8 @@
 ---
 title: Gear List
 image: '/services/default.png'
+description: Full list of studio equipment availble to use.
+tags: [interface,preamp,microphone,instrument]
 ---
 
 - - -

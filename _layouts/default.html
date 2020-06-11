@@ -3,6 +3,13 @@
 <head>
   <meta charset="utf-8">
   <title>{% if page.title %}{{page.title}}{% else %}{{ site.title | escape }}{% endif %}</title>
+
+<!--   meta tags for google -->
+  {% if page.description %}<meta name="description" content="{{ page.description | escape }}">
+  {% endif %}
+  {%if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' | escape }}"/>
+  {%endif %}
+
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="icon" href="{{site.baseurl}}/assets/images/favicon.png">
   <link href="{{site.baseurl}}/assets/css/style.css" rel="stylesheet">
