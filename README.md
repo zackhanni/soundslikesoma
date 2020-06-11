@@ -27,6 +27,8 @@ add studio images on homepage. maybe instagram too
 
 better logo instead of "soma" in the top corner
 
+lock the dropdown menu to the top of the page (especially on mobile)
+
 
 
 
