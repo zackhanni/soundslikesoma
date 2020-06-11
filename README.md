@@ -25,7 +25,8 @@ add video testimonials to the testimonials page
 
 add studio images on homepage. maybe instagram too
 
-make logo bigger
+better logo instead of "soma" in the top corner
+
 
 
 
