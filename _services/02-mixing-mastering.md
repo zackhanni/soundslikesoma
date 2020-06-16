@@ -4,6 +4,8 @@ image: '/services/default.png'
 description: radio quality mixing and mastering services for flat rates.
 tags: [studio,mixing,mastering,stems]
 ---
+Greater control over the sonic shape and balance of your music.
+
 
 Let us clean up your personally recorded songs, or fix a mix recorded at another studio.
 

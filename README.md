@@ -29,6 +29,10 @@ better logo instead of "soma" in the top corner
 
 better mobile corner logo without circle
 
+add mailchimp signup at bottom
+
+add meta information to pages
+
 
 
 
