@@ -41,7 +41,7 @@ tags: [home,sounds,soma,studio,recording]
     <div class="col-12">
       <h2 class="title-3 text-light mb-3">The Best in Philadelphia</h2>
     </div>
-    {% for service in site.services %}
+    {% for service in site.services limit:3 %}
     <div class="col-12 col-md-4 mb-1">
       <div class="service service-summary">
         <div class="service-content">
@@ -65,11 +65,13 @@ tags: [home,sounds,soma,studio,recording]
     </div>
     {% for feature in site.data.features %}
     <div class="col-12 col-md-6 col-lg-4 mb-2">
-      <div class="feature">
-        {% if feature.image %}<div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image }}" /></div> {% endif %}
-        <h2 class="feature-title">{{ feature.title }}</h2>
-        <div class="feature-content">{{ feature.description }}</div>
-      </div>
+      <a href="{{ feature.link }}">
+        <div class="feature">
+          {% if feature.image %}<div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image }}" /></div> {% endif %}
+          <h2 class="feature-title">{{ feature.title }}</h2>
+          <div class="feature-content">{{ feature.description }}</div>
+        </div>
+      </a>
     </div>
     {% endfor %}
   </div>

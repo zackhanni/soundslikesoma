@@ -4,6 +4,7 @@ image: "/services/default.png"
 description: Lessons for music production, guitar,and djing
 tags: [lessons,production,djing,guitar]
 ---
+Expertly taught lessons for those wanting to grow their career in music.
 
 - - -
 

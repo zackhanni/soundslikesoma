@@ -33,7 +33,16 @@ add mailchimp signup at bottom
 
 add meta information to pages
 
-
+reference abbey roads stuido
+	- make services page descriptions consice.
+	- mail signup at bottom
+	- covid page at bottom
+	- FAQ page at bottom
+	- partners page (make wonders etc?_3)
+	- social medip pages at bottom
+	gear list down there and not in menu
+	- page on what we are doing about covid safty
+	- up to 3 people, 
 
 
 - - -

@@ -4,7 +4,7 @@ image: '/services/noun_591323.png'
 description: recording studio rates including engineer, mixing, and mastering during booked studio rental time.
 tags: [studio,recording,rates,rental]
 ---
-Incredible equipment, facilities and sound.
+Incredible equipment, facilities and sound. Ready for anything.
 
 
 ## Studio A

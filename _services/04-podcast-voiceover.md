@@ -4,6 +4,8 @@ image: '/services/default.png'
 description: radio quality podcasts, voiceovers, and audiobook recordings.
 tags: [podcast,voiceover,audiobook,voice,recording]
 ---
+Incredibly clear voice recordings in a quiet acousticly treated space.
+
 $50 / hr 
 
 - - -

@@ -4,6 +4,7 @@ image: '/services/default.png'
 description: Full list of studio equipment availble to use.
 tags: [interface,preamp,microphone,instrument]
 ---
+High-end studio quality equipment ranging from guitars to microphones to preamps and more.
 
 - - -
 

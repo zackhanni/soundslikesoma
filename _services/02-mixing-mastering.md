@@ -7,7 +7,7 @@ tags: [studio,mixing,mastering,stems]
 Greater control over the sonic shape and balance of your music.
 
 
-Let us clean up your personally recorded songs, or fix a mix recorded at another studio.
+Let us clean up your tracked-out songs, or fix a mix recorded at another studio.
 
 - $100 Mix and Master : Stereo Instrumental + Vocal Stems
 

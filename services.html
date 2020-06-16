@@ -28,7 +28,7 @@ tags: [recording,mixing,mastering,lessons,rehearsals,podcast]
           <h2 class="service-title">
             <a href="{{site.baseurl}}{{ service.url }}">{{ service.title }}</a>
           </h2>
-          {{ service.content | markdownify | strip_html | truncate: 75 }}
+          {{ service.content | markdownify | strip_html | truncate: 100, " . . ." }}
         </div>
       </div>
     </div>
