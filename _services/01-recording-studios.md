@@ -17,7 +17,7 @@ Your session includes an experianced engineer ready to sculpt your song into a r
 
 Studio A, acoustically treated and sound isolated, boasts top of the line digital and analog equipment perfect for vocals, voiceovers, and smaller podcasts.
 
-<!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #0D5FD9; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://square.site/book/8GNV6PJ8WK7YH/studio-a-south-philly-philadelphia-pa">Book Studio A</a> <!-- End Square Appointments Embed code -->
+<!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #0072ee; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://square.site/book/8GNV6PJ8WK7YH/studio-a-south-philly-philadelphia-pa">Book Studio A</a> <!-- End Square Appointments Embed code -->
 
 - - -
 

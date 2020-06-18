@@ -28,7 +28,7 @@ Let us clean up your tracked-out songs, or fix a mix recorded at another studio.
     padding-right: 48px;
     color: #ffffff;
     min-width: 165px;
-    background-color: #007bff;
+    background-color: #0072ee;
     border-radius: 4px;
     text-align: center;
     box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
@@ -56,7 +56,7 @@ $40 Song Mastering Only.
     padding-right: 48px;
     color: #ffffff;
     min-width: 165px;
-    background-color: #007bff;
+    background-color: #0072ee;
     border-radius: 4px;
     text-align: center;
     box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
@@ -86,7 +86,7 @@ $10 Per Song
     padding-right: 48px;
     color: #ffffff;
     min-width: 165px;
-    background-color: #007bff;
+    background-color: #0072ee;
     border-radius: 4px;
     text-align: center;
     box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;

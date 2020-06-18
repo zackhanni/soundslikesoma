@@ -1,7 +1,7 @@
 ---
-title: 'Tech Services'
+title: 'Computer Repair'
 image: '/services/default.png'
-description: We fix all computers and laptops and also offer website creation
+description: Make your computer run faster and quieter.
 tags: [website,laptop,computer,repair]
 ---
 
@@ -37,23 +37,8 @@ We build custom computers
 
 - - -
 
-- For gaming
 - For video or music production
 - For Businesses and professional
+- For gaming
 
 - - -
-
-## Website Development and Construction
-
-- - -
-
-Let us build you a georgious looking website from scratch (like this one) as a way to showcase your music, sell merch, or present a portfolio of art.
-
-Long term low cost website development ($10 total coast per year, No monthly hosting fees)
-
-great for:
-- artists wanting to showcase their work and sell merch
-- anyone wanting a resume site to showcae their creative work
-
-Fast 1-2 Week turnaround for most websites
-
