@@ -41,7 +41,7 @@ $20/hour
 
 Bring Your Own Computer and engineer. You can rent our space and equipment to do your own recording and production.
 
-Check out our Studio <a href="/services/07-gearlist" target="Gear List">Gear List</a> Gear List for details on available equipment
+Check out our Studio <a href="/services/10-gearlist" target="Gear List">Gear List</a> Gear List for details on available equipment
 
 Please print and sign our <a href="/assets/documents/" download="BYOC_RENTAL_AGREEMENTv1.1.pdf" target="BYOC Rental Agreement">BYOC Rental Agreeent</a>  before the start of your session along with your ID
 
