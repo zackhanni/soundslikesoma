@@ -11,6 +11,8 @@ Incredible equipment, facilities and sound. Ready for anything.
 
 $55/hour
 
+<a href="/services/10-gearlist" target="Gear List">Gear List</a>
+
 If you want the best Soma Sounds has to offer, Studio A has what you need. 
 
 Your session includes an experianced engineer ready to sculpt your song into a radio-ready, commercially competative product while maintining a comfortable, professional, private and safe creative environment. No matter if you are and full band, solo artist with an instrumental, or even need music produced for you, Studio A is ready for your project.
@@ -37,17 +39,14 @@ Your session will be run by engineer Gage, who is ready to track and mix your so
 
 ## B.Y.O.C
 
-$20/hour
+$20/Hour
+
+$450-600/Month Unlimited Access 
 
 Bring Your Own Computer and engineer. You can rent our space and equipment to do your own recording and production.
 
 Check out our Studio <a href="/services/10-gearlist" target="Gear List">Gear List</a> Gear List for details on available equipment
 
-Please print and sign our <a href="/assets/documents/" download="BYOC_RENTAL_AGREEMENTv1.1.pdf" target="BYOC Rental Agreement">BYOC Rental Agreeent</a>  before the start of your session along with your ID
-
-
-
-Monthly packages are available for **_HUGE_** discounts on BYOC. Pay by the month and come record whenever you want! 
 
 (BYOC is bookable through either Studio A or B)
 

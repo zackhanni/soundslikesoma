@@ -9,19 +9,20 @@ High-end studio quality equipment ranging from guitars to microphones to preamps
 - - -
 
 ## Audio Interfaces
+- Apollo x8p
 - Focusrite Clarett 8Pro USB
 - MOTU 8pre-es
 - Focusrite Saffire Pro 40
-- Focusrite 2i2
+- Focusrite 2i4
 - U-Phoria UMC404HD
 
 ## Outboard Gear
 - Rupert Neve Portico II
 - Presonus Studio Channel
-- Presonus Eureka 
+- Presonus Eureka
 - DBX 160x (x2)
 - RNLA7239 stereo Compressor
-- Focusrite ISA one 
+- Focusrite ISA one
 
 ## Microphones
 - Neumann TLM 102
@@ -50,7 +51,7 @@ High-end studio quality equipment ranging from guitars to microphones to preamps
 ## Guitar Amplifiers
 - Vox Ac 15
 - Acoustic AG15
-- Fender Mustang Gt 40 
+- Fender Mustang Gt 40
 
 ## Monitoring
 - Genelec 8351b
@@ -59,7 +60,7 @@ High-end studio quality equipment ranging from guitars to microphones to preamps
 - Yamaha NS-10
 - Avantone Mixcube
 - Sennheiser HD-650
-- Various PA speakers 
+- Various PA speakers
 
 ## Keys and Synths
 - Yamaha MOXF8 weighted 88 key motif
@@ -67,15 +68,15 @@ High-end studio quality equipment ranging from guitars to microphones to preamps
 - Behringer Poly D
 - Roland Super JV-1080
 - Arturia Minibrute
-- Eurorack Modular System 
+- Eurorack Modular System
 - Stylophone
 - Synth Plus 10
 - Korg MS 2000
 
 ## Drums and Percussion
-- Varuous Acoustic Kits
+- Various Acoustic Kits
 - Alesis Command - Advanced Drum Module
-- Tambourine 
+- Tambourine
 - Shaker Assortment
 
 ## Software

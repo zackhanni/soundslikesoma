@@ -14,7 +14,7 @@ Expertly taught lessons for those wanting to grow their career in music.
 
 >>1hr/$50, 2hrs/$90
 >
->From beginner to expert levels, we take you through audio production, song arrangrment, melody creation, and more.
+>From beginner to expert levels, we take you through audio production, song arrangement, melody creation, and more.
 
 - - -
 
