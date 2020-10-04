@@ -20,6 +20,7 @@ High-end studio quality equipment ranging from guitars to microphones to preamps
 - Rupert Neve Portico II
 - Presonus Studio Channel
 - Presonus Eureka
+- Audient ASP880 Preamp
 - DBX 160x (x2)
 - RNLA7239 stereo Compressor
 - Focusrite ISA one
@@ -50,6 +51,8 @@ High-end studio quality equipment ranging from guitars to microphones to preamps
 
 ## Guitar Amplifiers
 - Vox Ac 15
+- Orange PPC212 - 120-watt 2x12" Cabinet
+- Orange AD30H 30-watt head
 - Acoustic AG15
 - Fender Mustang Gt 40
 
@@ -97,7 +100,7 @@ High-end studio quality equipment ranging from guitars to microphones to preamps
 - Tascam Ministudio Porta02 mkII (cassette deck)
 - Mackie ProFX12v2 Mixer
 - Passive DI box
-- Zoom Pro recorder
+- Zoom Pro portable recorder
 
 
 
