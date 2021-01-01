@@ -9,7 +9,7 @@ Incredible equipment, facilities and sound. Ready for anything.
 
 ## Studio A
 
-$55/hour
+$60/hour (discounts on +3 hours)
 
 <a href="/services/10-gearlist" target="Gear List">Gear List</a>
 
@@ -25,7 +25,7 @@ Studio A, acoustically treated and sound isolated, boasts top of the line digita
 
 ## Studio B
 
-$35/hour
+$40/hour (discounts on +3 hours)
 
 Our second studio boasts a larger seating area which may be more comfortable for groups, larger podcasts, and live events. 
 
@@ -41,14 +41,14 @@ Your session will be run by engineer Gage, who is ready to track and mix your so
 
 $20/Hour
 
-$450-600/Month Unlimited Access 
+Ask about day. week, or montly rates. 
 
 Bring Your Own Computer and engineer. You can rent our space and equipment to do your own recording and production.
 
 Check out our Studio <a href="/services/10-gearlist" target="Gear List">Gear List</a> Gear List for details on available equipment
 
 
-(BYOC is bookable through either Studio A or B)
+(BYOC is bookable through either Studio B or C)
 
 - - -
 - - -

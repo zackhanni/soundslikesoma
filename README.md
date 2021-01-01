@@ -16,6 +16,10 @@ Come in and record a song with us to find out for yourself why were voted one of
 
 # TO DO
 
+remove eam tab?
+
+Add pictures to testimonials. show them live at work doing something in studio. reference rec.
+
 get emily to draw cleaner 'features' images
 make feature images 100x100px
 
