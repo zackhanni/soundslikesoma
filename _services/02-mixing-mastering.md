@@ -45,13 +45,13 @@ $40 Song Mastering Only.
 
 **_Please allow 3-4 business days per song for completion._**
 
-<div>
-  <a target="_blank" href="https://checkout.square.site/buy/K6HZWJV3BLN6OBWZXUNGG72Y" style="
+<div style="overflow: auto;">
+  <a target="_blank" href="https://checkout.square.site/buy/K6HZWJV3BLN6OBWZXUNGG72Y?src=embed" style="
     display: inline-block;
-    font-family: Futura, Arial, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-size: 18px;
-    line-height: 48px;
-    height: 48px;
+    line-height: 38px;
+    height: 40px;
     padding-left: 48px;
     padding-right: 48px;
     color: #ffffff;
@@ -77,11 +77,13 @@ $10 Per Song
 
 <div>
   <a target="_blank" href="https://checkout.square.site/buy/PI5PLBDE3S3IAHWWZS6F5RE5" style="
+<div style="overflow: auto;">
+  <a target="_blank" href="https://checkout.square.site/buy/PI5PLBDE3S3IAHWWZS6F5RE5?src=embed" style="
     display: inline-block;
-    font-family: Futura, Arial, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-size: 18px;
-    line-height: 48px;
-    height: 48px;
+    line-height: 38px;
+    height: 40px;
     padding-left: 48px;
     padding-right: 48px;
     color: #ffffff;

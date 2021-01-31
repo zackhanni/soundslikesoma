@@ -19,7 +19,23 @@ Your session includes an experianced engineer ready to sculpt your song into a r
 
 Studio A, acoustically treated and sound isolated, boasts top of the line digital and analog equipment perfect for vocals, voiceovers, and smaller podcasts.
 
-<!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #0072ee; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://square.site/book/8GNV6PJ8WK7YH/studio-a-south-philly-philadelphia-pa">Book Studio A</a> <!-- End Square Appointments Embed code -->
+<div style="overflow: auto;">
+  <a target="_blank" href="https://square.site/book/8GNV6PJ8WK7YH/studio-a-south-philly-philadelphia-pa" style="
+    display: inline-block;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 38px;
+    height: 40px;
+    padding-left: 48px;
+    padding-right: 48px;
+    color: #ffffff;
+    min-width: 165px;
+    background-color: #0072ee;
+    border-radius: 4px;
+    text-align: center;
+    box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
+  ">Book Studio A</a>
+</div>
 
 - - -
 
@@ -33,7 +49,23 @@ Your session will be run by engineer Gage, who is ready to track and mix your so
 
 **_If you're recording on a budget, start off in Studio B, then move to Studio A to get a finalized mix and professional master_**
 
-<!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #E10015; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://square.site/book/VC0MQHN4GS4ND/sls-studio-b-philadelphia-pa">Book Studio B</a> <!-- End Square Appointments Embed code -->
+<div style="overflow: auto;">
+  <a target="_blank" href="https://square.site/book/VC0MQHN4GS4ND/sls-studio-b-philadelphia-pa" style="
+    display: inline-block;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 38px;
+    height: 40px;
+    padding-left: 48px;
+    padding-right: 48px;
+    color: #ffffff;
+    min-width: 165px;
+    background-color: #E10015;
+    border-radius: 4px;
+    text-align: center;
+    box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
+  ">Book Studio B</a>
+</div>
 
 - - -
 
@@ -49,6 +81,23 @@ Check out our Studio <a href="/services/10-gearlist" target="Gear List">Gear Lis
 
 
 (BYOC is bookable through either Studio B or C)
+<div style="overflow: auto;">
+  <a target="_blank" href="https://checkout.square.site/buy/ONTA6ABV475VPA7B4JGXLCA5?src=embed" style="
+    display: inline-block;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 38px;
+    height: 40px;
+    padding-left: 48px;
+    padding-right: 48px;
+    color: #ffffff;
+    min-width: 165px;
+    background-color: #000000;
+    border-radius: 4px;
+    text-align: center;
+    box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
+  ">Book BYOC</a>
+</div>
 
 - - -
 - - -
