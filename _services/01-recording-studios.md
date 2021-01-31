@@ -6,7 +6,7 @@ tags: [studio,recording,rates,rental]
 ---
 Incredible equipment, facilities and sound. Ready for anything.
 
-<a href="/services/10-gearlist" target="Gear List">Gear List</a>
+Check out our Studio <a href="/services/10-gearlist" target="Gear List">Gear List</a> for details on available equipment
 
 
 ## Studio A
@@ -71,11 +71,15 @@ Your session will be run by engineer Gage, who is ready to track and mix your so
 
 ## B.Y.O.C.
 
-$20/Hour (Discounts on day, week, or monthly rates)
-
 Bring Your Own Computer and engineer - you can rent our space and equipment to do your own recording and production.
 
-Check out our Studio <a href="/services/10-gearlist" target="Gear List">Gear List</a> for details on available equipment
+Studio C - $20/hour (Discounts on day, week, or monthly rates)
+
+Studio B - 30/hour
+
+Studio A - 50/hour
+
+Contact us directly to set up a BYOC appointment for studio A and B. Book Studio C below!
 
 <div style="overflow: auto;">
   <a target="_blank" href="https://checkout.square.site/buy/ONTA6ABV475VPA7B4JGXLCA5?src=embed" style="
