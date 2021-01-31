@@ -71,12 +71,10 @@ Mastering is the final step in bringing your recording to its potential. It give
 
 ### Song Trackout - Export Stems
 
-We charge a small fee to fully export stems for your song outside of booked studio time. Although this is not a difficult task, it can be time consuming to do properly.
-
 $10 Per Song
 
-<div>
-  <a target="_blank" href="https://checkout.square.site/buy/PI5PLBDE3S3IAHWWZS6F5RE5" style="
+We charge a small fee to fully export stems for your song when its outside of booked studio time.
+
 <div style="overflow: auto;">
   <a target="_blank" href="https://checkout.square.site/buy/PI5PLBDE3S3IAHWWZS6F5RE5?src=embed" style="
     display: inline-block;
@@ -92,5 +90,5 @@ $10 Per Song
     border-radius: 4px;
     text-align: center;
     box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
-  ">Buy Stem Export</a>
+  ">Buy Song Trackout</a>
 </div>

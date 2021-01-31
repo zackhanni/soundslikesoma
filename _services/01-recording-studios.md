@@ -6,16 +6,16 @@ tags: [studio,recording,rates,rental]
 ---
 Incredible equipment, facilities and sound. Ready for anything.
 
+<a href="/services/10-gearlist" target="Gear List">Gear List</a>
+
 
 ## Studio A
 
-$60/hour (discounts on +3 hours)
-
-<a href="/services/10-gearlist" target="Gear List">Gear List</a>
+$60/hour (discounts on 3+ hours and 10 hour blocks)
 
 If you want the best Soma Sounds has to offer, Studio A has what you need. 
 
-Your session includes an experianced engineer ready to sculpt your song into a radio-ready, commercially competative product while maintining a comfortable, professional, private and safe creative environment. No matter if you are and full band, solo artist with an instrumental, or even need music produced for you, Studio A is ready for your project.
+Your session includes an experienced engineer ready to sculpt your song into a radio-ready, commercially competitive product while maintaining a comfortable, professional, private and safe creative environment. No matter if you are a full band, solo artist with an instrumental, or even need music produced for you, Studio A is ready for your project.
 
 Studio A, acoustically treated and sound isolated, boasts top of the line digital and analog equipment perfect for vocals, voiceovers, and smaller podcasts.
 
@@ -41,13 +41,13 @@ Studio A, acoustically treated and sound isolated, boasts top of the line digita
 
 ## Studio B
 
-$40/hour (discounts on +3 hours)
+$40/hour (discounts on 3+ hours and 10 hour blocks)
 
 Our second studio boasts a larger seating area which may be more comfortable for groups, larger podcasts, and live events. 
 
 Your session will be run by engineer Gage, who is ready to track and mix your song for radio and all digital streaming platforms.
 
-**_If you're recording on a budget, start off in Studio B, then move to Studio A to get a finalized mix and professional master_**
+**_If you're recording on a budget, start off in Studio B, then move to Studio A to get a finalized mix and professional master._**
 
 <div style="overflow: auto;">
   <a target="_blank" href="https://square.site/book/VC0MQHN4GS4ND/sls-studio-b-philadelphia-pa" style="
@@ -69,18 +69,14 @@ Your session will be run by engineer Gage, who is ready to track and mix your so
 
 - - -
 
-## B.Y.O.C
+## B.Y.O.C.
 
-$20/Hour
+$20/Hour (Discounts on day, week, or monthly rates)
 
-Ask about day. week, or montly rates. 
+Bring Your Own Computer and engineer - you can rent our space and equipment to do your own recording and production.
 
-Bring Your Own Computer and engineer. You can rent our space and equipment to do your own recording and production.
+Check out our Studio <a href="/services/10-gearlist" target="Gear List">Gear List</a> for details on available equipment
 
-Check out our Studio <a href="/services/10-gearlist" target="Gear List">Gear List</a> Gear List for details on available equipment
-
-
-(BYOC is bookable through either Studio B or C)
 <div style="overflow: auto;">
   <a target="_blank" href="https://checkout.square.site/buy/ONTA6ABV475VPA7B4JGXLCA5?src=embed" style="
     display: inline-block;
@@ -102,7 +98,7 @@ Check out our Studio <a href="/services/10-gearlist" target="Gear List">Gear Lis
 - - -
 - - -
 
-## Recording in Phily? Welcome to your new studio home!
+## Recording in Philly? Welcome to your new studio home!
 
 Whether you’re looking for a Hip-Hop, Rap, Pop, Rock, R&B, Electronic music, Podcasts or even Voiceovers and Audiobook recording studio in Philadelphia, we are ready to elevate your sound to a radio-ready commercial standard.
 

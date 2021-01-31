@@ -1,7 +1,7 @@
 ---
 title: 'Website Development'
 image: '/services/default.png'
-description: Build the perfect website for yourself or your buiness
+description: Build the perfect website for yourself or your business
 tags: [website,coding,development]
 ---
 
@@ -9,11 +9,11 @@ tags: [website,coding,development]
 
 - - -
 
-Let us build you a georgious looking website from scratch (like this one youre visiting now) as a way to showcase your music, sell merch, or present a portfolio of art. 
+Let us build you a gorgeous looking website from scratch (like this one you're visiting now) as a way to showcase your music, sell merch, or present a portfolio of art. 
 
 Long term low cost website development - estimated $10 total coast per year, no additional monthly hosting fee
 
-Why a webste?
+Why a website?
 - showcase a full portfolio collection of your work
 - sell merch and music directly to fans
 - collect all of your social media in once place

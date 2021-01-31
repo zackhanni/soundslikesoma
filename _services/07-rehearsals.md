@@ -4,11 +4,11 @@ image: '/services/default.png'
 description: Band and artist rehearsal practice space for rent.
 tags: [rehearsal,practice,band,rental]
 ---
-A safe practice area for bands and artists. Use our equioment or bring your own.
+A safe practice area for bands and artists. Use our equipment or bring your own.
 
 - $20/Hour - Band Rehearsal
 
-Booking a band rehearsal at Souds Like Soma gives you private and exclusive use of our acoustically treated live room and includes our full band backline with drumset (kick, snare, cymbals, etc), guitar amps, keyboards, PA system, mics and various mic/keyboard/guitar stands and accessories.
+Booking a band rehearsal at Sounds Like Soma gives you private and exclusive use of our acoustically treated live room and includes our full band backline with drum set (kick, snare, cymbals, etc), guitar amps, keyboards, PA system, mics and various mic/keyboard/guitar stands and accessories.
 
 - $25/hour – Recorded Band Rehearsal 
 

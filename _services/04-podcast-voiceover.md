@@ -4,7 +4,7 @@ image: '/services/default.png'
 description: radio quality podcasts, voiceovers, and audiobook recordings.
 tags: [podcast,voiceover,audiobook,voice,recording]
 ---
-Incredibly clear voice recordings in a quiet acousticly treated space.
+Incredibly clear voice recordings in a quiet acoustically treated space.
 
 $50 / hr 
 
@@ -16,7 +16,7 @@ $50 / hr
 
 - Multiple acoustically treated rooms available to accommodate any size group or event.
 
-- Experianced with Zoom, Google hangouts and other remote recordings
+- Experienced with Zoom, Google hangouts and other remote recordings
 
 - Video recording, streaming, and editing optional
 
