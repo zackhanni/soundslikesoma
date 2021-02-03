@@ -1,26 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DDJ0JL5YQ0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DDJ0JL5YQ0');
+</script>
+<!-- END -->
+
+<!-- Connect your site to AdSense -->
+<script data-ad-client="ca-pub-0458736574258100" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>  
+<!-- END -->
+
   <meta charset="utf-8">
   <title>{% if page.title %}{{page.title}}{% else %}{{ site.title | escape }}{% endif %}</title>
+
 
 <!--   meta tags for google -->
   {% if page.description %}<meta name="description" content="{{ page.description | escape }}">
   {% endif %}
   {%if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' | escape }}"/>
   {%endif %}
+ <!--  END -->
 
-<!-- Connect your site to AdSense -->
-<script data-ad-client="ca-pub-0458736574258100" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>  
-
-<!-- Google 'Auto Ad' code -->
-<script data-ad-client="ca-pub-0458736574258100" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
+ 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="icon" href="{{site.baseurl}}/assets/images/favicon.png">
   <link href="{{site.baseurl}}/assets/css/style.css" rel="stylesheet">
 </head>
 <body class='page {{page.bodyClass}}'>
+
+<!-- google AMP code -->
+<amp-auto-ads type="adsense"
+        data-ad-client="ca-pub-0458736574258100">
+</amp-auto-ads>
+
   {% include main-menu-mobile.html %}
   <div id="wrapper" class="wrapper">
     {% include header.html headerClass='header-extra' %}
