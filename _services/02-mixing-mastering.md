@@ -11,9 +11,9 @@ Let us clean up your tracked-out songs, or fix a mix recorded at another studio.
 
 - $100 Mix and Master : Stereo Instrumental + Vocal Stems
 
-- $150 Mix and Master : Multitrack Recording 10 - 25 track stems
+- $180 Mix and Master : Multitrack Recording 10 - 25 track stems
 
-- $200 Mix and Master : Multitrack Recording 25 - 50 track stems
+- $240 Mix and Master : Multitrack Recording 25 - 50 track stems
 
 - Contact us directly for projects larger than 50 track stems
 
