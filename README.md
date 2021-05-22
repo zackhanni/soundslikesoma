@@ -1,7 +1,5 @@
 # Sounds Like Soma 2.0
-
-
-[Orininal Site](https://soundslikesoma.com/) | 
+ 
 
 ![Site Logo](https://github.com/zackhanni/zackhanni.github.io/blob/master/img/intro-header.jpg)
 
@@ -16,9 +14,23 @@ Come in and record a song with us to find out for yourself why were voted one of
 
 # TO DO
 
-remove eam tab?
+add new youtube videos to a new page for video tutorials and lessons
+
+set up mailchimp for people to sign up and hear about new music releases each month or big events happening , discounts, and more!
+
+remove team tab? at least from top bar. many only accecable from homepage.
 
 Add pictures to testimonials. show them live at work doing something in studio. reference rec.
+
+more information on homepage services
+
+remove payment options. people usually ask to confirm anyway.
+
+Book with Gage or Zack instead of studio A or B to make it less confusing?
+
+schedule a tour button on top bar? gets their email and sets up a time to talk.
+
+about page - 'our story' telling people about who we are and what were about. Maybe also have the "why choose soma" part here.
 
 get emily to draw cleaner 'features' images
 make feature images 100x100px
@@ -30,8 +42,6 @@ add video testimonials to the testimonials page
 add studio images on homepage. maybe instagram too
 
 better logo instead of "soma" in the top corner
-
-better mobile corner logo without circle
 
 add mailchimp signup at bottom
 
@@ -50,6 +60,8 @@ reference abbey roads stuido
 
 
 - - -
+
+# --- Resources ---
 
 # HOW TO CHANGE PICS n THINGS
 
@@ -91,6 +103,8 @@ _sass >  components > _feature
 https://getbootstrap.com/docs/4.0/getting-started/theming/
 
 
+cd into Documents/Github/Project
+bundle exec jekyll serve
 
 
 
