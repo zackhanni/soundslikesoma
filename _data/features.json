@@ -1,19 +1,19 @@
 [
   {
     "title": "Professional Engineers",
-    "description": "Years of experiance producing and recording",
+    "description": "15+ Years of experiance producing and recording",
     "image": "assets/images/features/professional-engineers.jpg",
     "link": "/team/"
   },
   {
     "title": "Radio Ready Sound",
-    "description": "Quality sound no matter what genre",
+    "description": "Experiance with all genres - Radio and Record Label Quality",
     "image": "assets/images/features/radio-ready-sound.jpg",
     "link": "/samples/"
   },
     {
     "title": "Book A Free Tour",
-    "description": "Come in and check out our studio spaces for yourself",
+    "description": "Visit our 5 studio spaces for yourself",
     "image": "assets/images/features/book-a-free-tour.jpg",
     "link": "/contact/"
   }
