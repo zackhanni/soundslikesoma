@@ -6,18 +6,24 @@ tags: [studio,recording,rates,rental]
 ---
 Incredible equipment, facilities and sound. Ready for anything.
 
-Check out our Studio <a href="/services/10-gearlist" target="Gear List">Gear List</a> for details on available equipment
+We require deposits up front in order to reserve all studio spaces.
 
 
 ## Studio A
 
-$60/hour (discounts on 3+ hours and 10 hour blocks)
+<a href="/services/10-gearlist" target="Gear List">Gear List</a>
 
-If you want the best Soma Sounds has to offer, Studio A has what you need. 
+$60/hour ($75/hr after Midnight)
 
-Your session includes an experienced engineer ready to sculpt your song into a radio-ready, commercially competitive product while maintaining a comfortable, professional, private and safe creative environment. No matter if you are a full band, solo artist with an instrumental, or even need music produced for you, Studio A is ready for your project.
+Specialty - Vocals, Mixing, Mastering, Beat Production
 
-Studio A, acoustically treated and sound isolated, boasts top of the line digital and analog equipment perfect for vocals, voiceovers, and smaller podcasts.
+If you want the best Sounds Like Soma has to offer, Studio A has what you need.
+
+Top of the line digital and analog recording equipment. Zero-Latency Autotune and other live playback effects like compression and reverb in your ears while you record.
+
+Sessions booked will indlude audio expert and head engineer Zack, who is ready to sculpt your song into a radio-ready and commercially competitive product.
+
+Our A room maintains a comfortable, professional, private creative environment with sound isolation and dedicated vocal booth. No matter if you are a full band, solo artist with an instrumental, or even need music instrumentals produced for you, Studio A is ready for your most important projects.
 
 <div style="overflow: auto;">
   <a target="_blank" href="https://square.site/book/8GNV6PJ8WK7YH/studio-a-south-philly-philadelphia-pa" style="
@@ -41,11 +47,13 @@ Studio A, acoustically treated and sound isolated, boasts top of the line digita
 
 ## Studio B
 
-$40/hour (discounts on 3+ hours and 10 hour blocks)
+<a href="/services/10-gearlist" target="Gear List">Gear List</a>
 
-Our second studio boasts a larger seating area which may be more comfortable for groups, larger podcasts, and live events. 
+$40/hour
+ 
+Studio B is an intimate recording space with a strong red glow throughout. This private studio is also a sound treated, rentable space for producers which indludes its own bathroom and 10'' speakers that BUMP when you need them to.
 
-Your session will be run by engineer Gage, who is ready to track and mix your song for radio and all digital streaming platforms.
+Sessions booked with an engineer will be run by engineer Gage, the studio manager, who is ready to track and mix your song for radio and all digital streaming platforms.
 
 **_If you're recording on a budget, start off in Studio B, then move to Studio A to get a finalized mix and professional master._**
 
@@ -69,17 +77,16 @@ Your session will be run by engineer Gage, who is ready to track and mix your so
 
 - - -
 
-## B.Y.O.C.
+## B.Y.O.C. Recording Studio Rentals
 
-Bring Your Own Computer and engineer - you can rent our space and equipment to do your own recording and production.
+Bring Your Own Computer and engineer - you can rent our studio spaces and equipment to do your own recording and production. We provide everytying you need.
 
-Studio C - $20/hour (Discounts on day, week, or monthly rates)
+Studio B - 40/hour
 
-Studio B - 30/hour
+Studio C - $30/hour
 
-Studio A - 50/hour
 
-Contact us directly to set up a BYOC appointment for studio A and B. Book Studio C below!
+Contact Engineers Zack or Gage to schedule your BYOC studio rental - Pay below to lock in your desired day and time.
 
 <div style="overflow: auto;">
   <a target="_blank" href="https://checkout.square.site/buy/ONTA6ABV475VPA7B4JGXLCA5?src=embed" style="
