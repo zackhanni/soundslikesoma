@@ -6,6 +6,4 @@ email: 'soundslikesoma@gmail.com'
 instagramurl: 'https://www.instagram.com/zackhanni'
 ---
 
-Zack started his musical journey 2007 when he began DJing. From there he worked on electronic music as the artist "Somaaa" and released 5 studio albums and dozens of singles and collaborative works. 
-
-As his popularity grew, he began recording and mixing others' music in TN and eventually NJ. In 2015 Zack moved the studio to Philadelphia where he continues to record and grow the community of artists who work with Soma.
+Zack is the Head engineer at Sounds Like Soma and.  With 14+ years of experiance and thousands of songs mixed, Zack is ready for even your most challenging mixes and production demands.

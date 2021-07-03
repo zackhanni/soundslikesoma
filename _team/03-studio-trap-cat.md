@@ -6,4 +6,4 @@ email: ''
 instagramurl: 'https://www.instagram.com/studiotrapcat'
 ---
 
-Buddy da cat is the real OG of the studio. Don t let Gage or Zack fool you, he is the one in charge calling the shots. He will join your session if he thinks your music is worthy.
+Buddy the cat is the real OG of the studio. Don't let Gage or Zack fool you, he is the one in charge calling the shots. He will join your session if he thinks your music is worthy.

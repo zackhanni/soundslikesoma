@@ -1,11 +1,10 @@
 ---
 title: 'Ian Brown'
 image: '/assets/images/team/ian-brown.jpeg'
-jobtitle: 'Intern'
+jobtitle: 'Junior Engineer'
 email: ''
 instagramurl: 'https://www.instagram.com/eyebrow_n'
 ---
 
-Ian is working as an intern here at Soma Sounds. He is perfecting his craft and getting noticeably better every week.
+Ian is a junior engineer taking clients out of Studio C. He is still perfecting his craft and rapidly growing his stills under the guidance of Zack and Gage.
 
-Ian plays drums and has a utterly fantastic southern accent. For real.. ask him about it some time.
