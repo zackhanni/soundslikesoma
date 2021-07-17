@@ -11,8 +11,6 @@ Expertly taught lessons for those wanting to grow their career in music.
 ## Ableton Live and Music Production
 
 - - -
-
->>1hr/$50, 2hrs/$90
 >
 >From beginner to expert levels, we take you through audio production, song arrangement, melody creation, and more.
 
@@ -21,8 +19,6 @@ Expertly taught lessons for those wanting to grow their career in music.
 ## DJing and Beatmatching Lessons
 
 - - -
-
->>1hr/$40, 2hrs/$70
 >
 >We start with the fundamentals of what a dj does - playing a song > crossfading into another > repeat. Then move to more advanced topics like filter sweeps, beat loops, and other effects to achieve a seamless danceable mix.
 
@@ -31,13 +27,7 @@ Expertly taught lessons for those wanting to grow their career in music.
 ## Acoustic and Electric Guitar Lessons
 
 - - -
-
->>1hr/$30, 2hrs/$50
 >
 >Gage plays the guitar. Gage is good at playing the guitar. Strum Strum Strum. Music Music Music.
 
 - - -
-
-Book below in either studio A or B
-
-**_The more hours you book, the lower the hourly price_**
