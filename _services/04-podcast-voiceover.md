@@ -6,13 +6,15 @@ tags: [podcast,voiceover,audiobook,voice,recording]
 ---
 Incredibly clear voice recordings in a quiet acoustically treated space.
 
-$50 / hr 
+$60 / hr 
 
 - - -
 
 - **_FREE_** basic editing and voice cleanup for most podcasts voiceovers and audiobooks.
 
 - **_Free_** consultation and tour to discuss what works best for your situation
+
+- Additional audio or video edits are charged based on same hourly rate.
 
 - Multiple acoustically treated rooms available to accommodate any size group or event.
 
