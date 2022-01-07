@@ -13,7 +13,7 @@ We require deposits up front in order to reserve all studio spaces.
 
 <a href="/services/10-gearlist" target="Gear List">Gear List</a>
 
-$60/hour ($75/hr after Midnight)
+$65/hour ($80/hr after Midnight)
 
 Specialty - Vocals, Mixing, Mastering, Beat Production
 
@@ -49,7 +49,7 @@ Our A room maintains a comfortable, professional, private creative environment w
 
 <a href="/services/10-gearlist" target="Gear List">Gear List</a>
 
-$40/hour
+$45/hour
  
 Studio B is an intimate recording space with a strong red glow throughout. This private studio is also a sound treated, rentable space for producers which indludes its own bathroom and 10'' speakers that BUMP when you need them to.
 
