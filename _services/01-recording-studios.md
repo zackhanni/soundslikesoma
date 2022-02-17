@@ -15,15 +15,32 @@ We require deposits up front in order to reserve all studio spaces.
 
 $65/hour ($80/hr after Midnight)
 
-Specialty - Vocals, Mixing, Mastering, Beat Production
+Specialty - Vocals, Mixing, Mastering, Beat Production, Zero-Latency Autotune
 
 If you want the best Sounds Like Soma has to offer, Studio A has what you need.
 
 Top of the line digital and analog recording equipment. Zero-Latency Autotune and other live playback effects like compression and reverb in your ears while you record.
 
-Sessions booked will indlude audio expert and head engineer Zack, who is ready to sculpt your song into a radio-ready and commercially competitive product.
+Sessions booked will indlude an expert audio engineer ready to sculpt your song into a radio-ready and commercially competitive product.
 
 Our A room maintains a comfortable, professional, private creative environment with sound isolation and dedicated vocal booth. No matter if you are a full band, solo artist with an instrumental, or even need music instrumentals produced for you, Studio A is ready for your most important projects.
+
+<!-- Start Square Appointments Embed code -->
+<a style=" 
+background-color: #0072ee; 
+color: white; 
+height: 40px; 
+text-transform: uppercase; 
+font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; 
+letter-spacing: 1px; 
+line-height: 38px; 
+padding: 0 28px; 
+border-radius: 4px; 
+font-weight: 500; 
+font-size: 14px; cursor: pointer; 
+display: inline-block; 
+" href="https://squareup.com/appointments/buyer/widget/zkvz7h6ta6pudt/8GNV6PJ8WK7YH">Book Studio A</a><!-- End Square Appointments Embed code -->
+
 
 <div style="overflow: auto;">
   <a target="_blank" href="https://square.site/book/8GNV6PJ8WK7YH/studio-a-south-philly-philadelphia-pa" style="
@@ -40,7 +57,7 @@ Our A room maintains a comfortable, professional, private creative environment w
     border-radius: 4px;
     text-align: center;
     box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
-  ">Book Studio A</a>
+  ">Book Other</a>
 </div>
 
 - - -
@@ -51,11 +68,9 @@ Our A room maintains a comfortable, professional, private creative environment w
 
 $45/hour
  
-Studio B is an intimate recording space with a strong red glow throughout. This private studio is also a sound treated, rentable space for producers which indludes its own bathroom and 10'' speakers that BUMP when you need them to.
+Studio B is an intimate recording space with a strong red glow throughout. This private studio is also a sound treated, rentable space for producers which indludes 10'' speakers that BUMP when you need them to.
 
 Sessions booked with an engineer will be run by engineer Gage, the studio manager, who is ready to track and mix your song for radio and all digital streaming platforms.
-
-**_If you're recording on a budget, start off in Studio B, then move to Studio A to get a finalized mix and professional master._**
 
 <div style="overflow: auto;">
   <a target="_blank" href="https://square.site/book/VC0MQHN4GS4ND/sls-studio-b-philadelphia-pa" style="
@@ -74,6 +89,20 @@ Sessions booked with an engineer will be run by engineer Gage, the studio manage
     box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
   ">Book Studio B</a>
 </div>
+
+- - -
+**_If you're recording on a budget, start off in Studio B or C, then move to Studio A to get a finalized mix and professional master._**
+- - -
+
+## Studio C
+
+$30/hour
+ 
+Includes one of our junior audio engineers to help you get your track recorded and sounding AMAZING while on a budget.
+
+**_Please <a href="/contact" target="contact us">contact us</a> directly to schedule a Studio C recording session_**
+
+
 
 - - -
 

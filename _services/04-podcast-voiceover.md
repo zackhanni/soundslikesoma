@@ -29,7 +29,3 @@ $60 / hr
 <!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #0072ee; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://squareup.com/appointments/book/52758083-5a1a-4b2d-a710-6687d1641594/8GNV6PJ8WK7YH/services">Book A Podcast</a> <!-- End Square Appointments Embed code -->
 
 If its an interview, audiobook, podcast, video shoot, or a live event, we help make it run smoothly and sound crystal clear.
-
-- - -
-
-Book today in either Studio A or B
