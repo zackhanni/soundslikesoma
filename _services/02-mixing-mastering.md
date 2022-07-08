@@ -17,6 +17,10 @@ Let us clean up your tracked-out songs, or fix a mix recorded at another studio.
 
 - Contact us directly for projects larger than 50 track stems
 
+Send Stems to SoundsLikeSoma@gmail.com 
+
+Use <a href="https://wetransfer.com" target="WeTransfer Official Website">WeTransfer</a> to send large files to us for free.
+
 <div style="overflow: auto;">
   <a target="_blank" href="https://checkout.square.site/buy/YXBZX5MSKEH53EPQAHZOQNQ7?src=embed" style="
     display: inline-block;
@@ -39,11 +43,14 @@ Let us clean up your tracked-out songs, or fix a mix recorded at another studio.
 
 ### Professional Radio-Quality Song Mastering
 
-$40 Song Mastering Only.
+We work with you to get your best overall tone and balance on your recodings. We will communicate with you if we feel there are issues with your mix before we proceed with the mastering process.
 
-(we prefer stems to have 24 bit depth, 48k sample rate or higher)
+- $45 Song Mastering Only
+- +$30 Rush Delivery (24hrs)
 
-**_Please allow 3-4 business days per song for completion._**
+Send WAV audio files to SoundsLikeSoma@gmail.com 
+
+Use <a href="https://wetransfer.com" target="WeTransfer Official Website">WeTransfer</a> to send large files to us for free.
 
 <div style="overflow: auto;">
   <a target="_blank" href="https://checkout.square.site/buy/K6HZWJV3BLN6OBWZXUNGG72Y?src=embed" style="
@@ -71,7 +78,7 @@ Mastering is the final step in bringing your recording to its potential. It give
 
 ### Song Trackout - Export Stems
 
-$10 Per Song
+- $10 Per Song
 
 We charge a small fee to fully export stems for your song when its outside of booked studio time.
 

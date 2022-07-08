@@ -10,10 +10,12 @@ We require deposits up front in order to reserve all studio spaces.
 
 
 ## Studio A
+With Head Engineer Zack Hanni
 
 <a href="/services/10-gearlist" target="Gear List">Gear List</a>
 
-$65/hour ($80/hr after Midnight)
+- $65 / Hour
+- $80 / Hour After Midnight
 
 Specialty - Vocals, Mixing, Mastering, Beat Production, Zero-Latency Autotune
 
@@ -63,10 +65,11 @@ display: inline-block;
 - - -
 
 ## Studio B
+With Second Engineer Gage Bingham
 
 <a href="/services/10-gearlist" target="Gear List">Gear List</a>
 
-$45/hour
+- $45 / Hour
  
 Studio B is an intimate recording space with a strong red glow throughout. This private studio is also a sound treated, rentable space for producers which indludes 10'' speakers that BUMP when you need them to.
 
@@ -95,8 +98,9 @@ Sessions booked with an engineer will be run by engineer Gage, the studio manage
 - - -
 
 ## Studio C
+With One Of Our Junior Engineers or Interns
 
-$30/hour
+- $30 / Hour
  
 Includes one of our junior audio engineers to help you get your track recorded and sounding AMAZING while on a budget.
 
@@ -110,9 +114,9 @@ Includes one of our junior audio engineers to help you get your track recorded a
 
 Bring Your Own Computer and engineer - you can rent our studio spaces and equipment to do your own recording and production. We provide everytying you need.
 
-Studio B - 40/hour
+- Studio B - 40 / Hour
 
-Studio C - $30/hour
+- Studio C - $30 / Hour
 
 
 Contact Engineers Zack or Gage to schedule your BYOC studio rental - Pay below to lock in your desired day and time.
