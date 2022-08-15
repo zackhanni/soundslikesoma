@@ -106,7 +106,7 @@ B.Y.O.C - Bring Your Own Computer and engineer - you can rent our studio spaces 
 - BYOC - Studio B - 40 / Hour
 
 
-Contact Zack before booking to lock in desiered date and time.
+<a href="{{site.baseurl}}/contact">Contact Zack in Studio A</a> before booking to lock in desiered date and time.
 
 <div style="overflow: auto;">
   <a target="_blank" href="https://checkout.square.site/buy/ONTA6ABV475VPA7B4JGXLCA5?src=embed" style="
