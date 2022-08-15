@@ -10,11 +10,9 @@ High-end studio quality equipment ranging from guitars to microphones to preamps
 
 ## Audio Interfaces
 - Apollo x8p
-- Focusrite Clarett 8Pro USB
-- MOTU 8pre-es
+- Focusrite Clarett 8Pro USB x2
 - Focusrite Saffire Pro 40
 - Focusrite 2i4
-- U-Phoria UMC404HD
 
 ## Outboard Gear
 - Rupert Neve Portico II
@@ -31,7 +29,7 @@ High-end studio quality equipment ranging from guitars to microphones to preamps
 - Neumann U87 clone
 - AKG 414 XLS
 - AKG 414 XLII
-- Sure SM7B
+- Sure SM7B x2
 - Sure SM57 x3
 - Audio Technica  AT4040
 - Audio Technica  AT2020
@@ -39,7 +37,7 @@ High-end studio quality equipment ranging from guitars to microphones to preamps
 - Beta 52 A
 - Samsung C02 x6
 - Studio Projects C4 x2
-- PG58 
+- PG58
 
 ## Guitars/Bass
 - Fender 2013 American made HSH 
@@ -84,16 +82,17 @@ High-end studio quality equipment ranging from guitars to microphones to preamps
 
 ## Software
 - Ableton Live
-- Logic Pro X
-- Waves Horizon Bundle (and more)
-- UAD Plugins for Apollo
+- Waves (Most Plugins)
+- UAD Plugins for Apollo Interface
 - Izotope Ozone 9
+- Izotope RX
+- Izotope Nectar 2
+- Izotope Vocal Synth 2
 - Fab Filter
 - Native Instruments Komplete Ultimate
 - Sylenth
 - Serum
 - Omnisphere
-- Superior Drummer
 
 ## Other
 - Pioneer DDJ-400 Turntables
@@ -104,9 +103,9 @@ High-end studio quality equipment ranging from guitars to microphones to preamps
 - Zoom Pro portable recorder
 
 ## Photography / Video
-- Sony ZV E10 4k
+- Sony ZV E10 4k Camera
 - Professional Lighting
-- Green Screens
+- Large Green Screen x2
 - Final Cut Pro
 - Various props and decorations
 
