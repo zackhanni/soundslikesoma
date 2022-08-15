@@ -6,9 +6,6 @@ tags: [studio,recording,rates,rental]
 ---
 Incredible equipment, facilities and sound. Ready for anything.
 
-We require deposits up front in order to reserve all studio spaces.
-
-
 ## Studio A
 With Head Engineer Zack Hanni
 
@@ -26,6 +23,8 @@ Top of the line digital and analog recording equipment. Zero-Latency Autotune an
 Sessions booked will indlude an expert audio engineer ready to sculpt your song into a radio-ready and commercially competitive product.
 
 Our A room maintains a comfortable, professional, private creative environment with sound isolation and dedicated vocal booth. No matter if you are a full band, solo artist with an instrumental, or even need music instrumentals produced for you, Studio A is ready for your most important projects.
+
+**_We require deposits up front in order to reserve all studio spaces._**
 
 <!-- Start Square Appointments Embed code -->
 <a style=" 
@@ -65,7 +64,7 @@ display: inline-block;
 - - -
 
 ## Studio B
-With Second Engineer Gage Bingham
+With Engineer Gage Bingham
 
 <a href="/services/10-gearlist" target="Gear List">Gear List</a>
 
@@ -97,29 +96,17 @@ Sessions booked with an engineer will be run by engineer Gage, the studio manage
 **_If you're recording on a budget, start off in Studio B or C, then move to Studio A to get a finalized mix and professional master._**
 - - -
 
+
 ## Studio C
-With One Of Our Junior Engineers or Interns
 
-- $30 / Hour
- 
-Includes one of our junior audio engineers to help you get your track recorded and sounding AMAZING while on a budget.
+B.Y.O.C - Bring Your Own Computer and engineer - you can rent our studio spaces and equipment to do your own recording and production. We provide everytying you need.
 
-**_Please <a href="/contact" target="contact us">contact us</a> directly to schedule a Studio C recording session_**
+- BYOC - Studio C - $30 / Hour
 
+- BYOC - Studio B - 40 / Hour
 
 
-- - -
-
-## B.Y.O.C. Recording Studio Rentals
-
-Bring Your Own Computer and engineer - you can rent our studio spaces and equipment to do your own recording and production. We provide everytying you need.
-
-- Studio B - 40 / Hour
-
-- Studio C - $30 / Hour
-
-
-Contact Engineers Zack or Gage to schedule your BYOC studio rental - Pay below to lock in your desired day and time.
+Contact Zack before booking to lock in desiered date and time.
 
 <div style="overflow: auto;">
   <a target="_blank" href="https://checkout.square.site/buy/ONTA6ABV475VPA7B4JGXLCA5?src=embed" style="
@@ -136,7 +123,7 @@ Contact Engineers Zack or Gage to schedule your BYOC studio rental - Pay below t
     border-radius: 4px;
     text-align: center;
     box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
-  ">Book BYOC</a>
+  ">Book B.Y.O.C.</a>
 </div>
 
 - - -
