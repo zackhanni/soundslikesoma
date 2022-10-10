@@ -1,13 +1,12 @@
 ---
-title: 'Mixing & Mastering'
+title: 'Mix & Master'
 image: '/services/default.png'
 description: radio quality mixing and mastering services for flat rates.
 tags: [studio,mixing,mastering,stems]
 ---
-Greater control over the sonic shape and balance of your music.
-
-
 Let us clean up your tracked-out songs, or fix a mix recorded at another studio.
+
+## Music Mixing
 
 - $105 Mix and Master : Stereo Instrumental + Vocal Stems
 
@@ -17,7 +16,7 @@ Let us clean up your tracked-out songs, or fix a mix recorded at another studio.
 
 - Contact us directly for projects larger than 50 track stems
 
-Send Stems to SoundsLikeSoma@gmail.com 
+Please send DRY audio stems to SoundsLikeSoma@gmail.com 
 
 Use <a href="https://wetransfer.com" target="WeTransfer Official Website">WeTransfer</a> to send large files to us for free.
 
@@ -41,11 +40,14 @@ Use <a href="https://wetransfer.com" target="WeTransfer Official Website">WeTran
 
  - - -
 
-### Professional Radio-Quality Song Mastering
+## Song Mastering
+
+If you have a fully mixed song that you're ready to get mastered to radio-ready standards
 
 We work with you to get your best overall tone and balance on your recodings. We will communicate with you if we feel there are issues with your mix before we proceed with the mastering process.
 
 - $45 Song Mastering Only
+
 - +$30 Rush Delivery (24hrs)
 
 Send WAV audio files to SoundsLikeSoma@gmail.com 
@@ -76,7 +78,7 @@ Mastering is the final step in bringing your recording to its potential. It give
 
 - - -
 
-### Song Trackout - Export Stems
+## Song Trackout - Export Stems
 
 - $10 Per Song
 

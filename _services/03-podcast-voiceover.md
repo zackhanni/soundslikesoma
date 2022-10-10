@@ -1,11 +1,11 @@
 ---
-title: 'Podcasting'
+title: 'Podcast Recording'
 image: '/services/default.png'
 description: radio quality podcasts, voiceovers, and audiobook recordings.
 tags: [podcast,voiceover,audiobook,voice,recording]
 ---
 
-Elevate Your Next Podcast or Livestream With Sounds Like Soma
+Elevate your next podcast or livestream with our dedicated podcast studio rooms.
 
 - - -
 
@@ -17,7 +17,7 @@ Whats Included:
 
 - Professional Engineer to Record and Monitor your Podcast
 
-- Vocal Leveling, Equalization and Exporting within 1-2 busines days.
+- Podcast editing - Vocal Leveling, Equalization and Exporting within 1-2 busines days.
 
 Optional add-ons:
 
@@ -25,7 +25,7 @@ Optional add-ons:
 
 - Intro / outro music, Sound Effects, and Commercial Ad Breaks
 
-- Adding metadata and uploading to streaming platforms like spotify, apple music, etc.
+- Adding metadata and uploading to streaming platforms like spotify, apple music, zen castr, etc.
 
 <!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #0072ee; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://squareup.com/appointments/book/52758083-5a1a-4b2d-a710-6687d1641594/8GNV6PJ8WK7YH/services">Book Audio Only Podcast</a> <!-- End Square Appointments Embed code -->
 
@@ -81,3 +81,9 @@ If its an interview, audiobook, podcast, video shoot, or a live event, we help m
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/2udNwNkHM7RWpT3DbCh9aT?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/66YG6uMCvQzRkceeNksnVy?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+- - -
+
+Need help or ideas on podcast creation? Book a free studio tour or give Zack a call to talk!
+
+- - -

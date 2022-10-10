@@ -4,23 +4,40 @@ image: '/services/default.png'
 description: Band and artist rehearsal practice space for rent.
 tags: [rehearsal,practice,band,rental]
 ---
-A safe practice area for bands and artists. Use our equipment or bring your own.
+Use our equipment or bring your own.
 
-$20/hr (2hr Minumum) - Band Rehearsal
+$25 / hr (2hr Minumum) - Band Practice Space
 
-Rehearse for your next performance or just jam out in our live room or studio spaces (when available). Call or text to let us know what you need set up - stage mics, drums, amps, stands, keyboards, shaker, tambourine, etc.
+Whats Included:
 
-Drum set includes - kick, snare, hi-hat, cymbals(3) toms(2)
+- Safe Music Practice Room
+
+- Studio Instrument Rental
+
+- Drum kit includes - kick, snare, hi-hat, cymbals(3) toms(2)
+
+- Guitar and Bass Amps
+
+- Keyboards and Stands
+
+- Access to storage and bathrooms
+
+- Mics and PA system for vocals
+
+Optional Add-ons
+
+- Recording Band practice - with 1 quality omni condenser room mic for a great sounding song demo or live jam!
+
+- Have an engineer there to help you set up and stays with you the entire session to assist.
+
+- Professionally recorded band practice - every instrument is peoperly tracked out to be mixed later
+
+
+Rehearse for your next performance or jam out in our live room (when available). Call or text to let us know what you need set up - stage mics, drums, amps, stands, keyboards, tambourine, etc. 
 
 An engineer will always be there to help set up.
 
 - - -
-
-- +$5/hr - Equipment Rental. Only $5 Total for use of any guitar, petalboard, drum, mic, amp, ETC.
-
-- +$5/hr – Recorded Band Rehearsal - Recorded with quality stereo condenser room mics for a great sounding song demo or live jam!
-
-- +15/hr - An engineer stays with you the entire session to assist and do a live mix.
 
 <div  style="
   overflow: auto;
@@ -47,4 +64,8 @@ An engineer will always be there to help set up.
   ">Book Rehearsal</a>
   </div>
 </div>
+
+- - -
+music rehearsal spaces near me, band practice space near me, music rehearsal studios near me
+
 
