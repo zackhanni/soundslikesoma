@@ -14,17 +14,13 @@ Come in and record a song with us to find out for yourself why were voted one of
 
 # TO DO
 
+change star favicon to little cat logo face
+
 add new youtube videos to a new page for video tutorials and lessons
 
 set up mailchimp for people to sign up and hear about new music releases each month or big events happening , discounts, and more!
 
-remove team tab? at least from top bar. many only accecable from homepage.
-
 Add pictures to testimonials. show them live at work doing something in studio. reference rec.
-
-more information on homepage services
-
-remove payment options. people usually ask to confirm anyway.
 
 Book with Gage or Zack instead of studio A or B to make it less confusing?
 
@@ -38,8 +34,6 @@ make feature images 100x100px
 get testimonials from bigger / more important artists (like tye, limm, etc.)
 
 add video testimonials to the testimonials page
-
-add studio images on homepage. maybe instagram too
 
 better logo instead of "soma" in the top corner
 
