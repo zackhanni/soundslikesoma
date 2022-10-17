@@ -12,19 +12,13 @@ Elevate your next podcast or livestream with our dedicated podcast studio rooms.
 ## Audio Only Podcast 
 
 Whats Included:
-
-- Audio Recording Equipment and Setup
-
-- Professional Engineer to Record and Monitor your Podcast
-
-- Podcast editing - Vocal Leveling, Equalization and Exporting within 1-2 busines days.
+- Podcast Recording Equipment and Setup
+- Professional Audio Engineer to Record and Monitor your Podcast
+- Podcast editing - Vocal Leveling, Equalization and Exporting within 1-3 busines days.
 
 Optional add-ons:
-
 - Audio Condensing - remove umms, empty spaces, and re-arrange episode content
-
 - Intro / outro music, Sound Effects, and Commercial Ad Breaks
-
 - Adding metadata and uploading to streaming platforms like spotify, apple music, zen castr, etc.
 
 <!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #0072ee; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://squareup.com/appointments/book/52758083-5a1a-4b2d-a710-6687d1641594/8GNV6PJ8WK7YH/services">Book Audio Only Podcast</a> <!-- End Square Appointments Embed code -->
@@ -34,33 +28,20 @@ Optional add-ons:
 ## Video Podcast / Livestream Show
 
 Whats Included:
-
-- Audio Recording Equipment and Setup
-
+- Podcast Recording Equipment and Setup
 - 4k Video Camera
-
 - Professional Lighting (with color options)
-
 - Black Curtain Backdrops
-
 - Professional Engineer to Record and Monitor your Podcast or Show
-
 - Vocal Leveling, Equalization and Exporting within 2-3 busines days.
-
 - Video editing, color corrections, video alignment to audio within 2-3 bsuness days
 
 Optional Addons:
-
 - Green Screens
-
 - Audio and Video Condensing - remove unwanted sections and re-arrange content
-
 - Intro / Outro video clips, Sound Effects, and Commercial Ad Breaks
-
 - TVs to show off your brand or chatfeed
-
 - Additional seating, futnature, and other audio/video equipment available
-
 - Adding metadata and uploading to streaming platforms like YouTube, Twitch, Etc.
 
 Discounts on your first episode with us!
@@ -84,6 +65,6 @@ If its an interview, audiobook, podcast, video shoot, or a live event, we help m
 
 - - -
 
-Need help or ideas on podcast creation? Book a free studio tour or give Zack a call to talk!
+Need help or ideas on podcast creation? Book a **_FREE_** studio tour or give Zack a call to talk!
 
 - - -

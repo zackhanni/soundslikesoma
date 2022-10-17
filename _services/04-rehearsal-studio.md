@@ -1,10 +1,10 @@
 ---
-title: 'Band Rehearsals'
+title: 'Rehearsal Studios'
 image: '/services/default.png'
 description: Band and artist rehearsal practice space for rent.
 tags: [rehearsal,practice,band,rental]
 ---
-Use our equipment or bring your own.
+Use our equipment for your next band rehearsal
 
 $25 / hr (2hr Minumum) - Band Practice Space
 
@@ -18,7 +18,7 @@ Whats Included:
 
 - Guitar and Bass Amps
 
-- Keyboards and Stands
+- Keyboards and Pianos with Stands
 
 - Access to storage and bathrooms
 
@@ -66,6 +66,6 @@ An engineer will always be there to help set up.
 </div>
 
 - - -
-music rehearsal spaces near me, band practice space near me, music rehearsal studios near me
+If your band is searching for - music rehearsal or practice space or near me, look no further!  This is the perfect palce to jam out with lots of instruments and live sound equipment to use.
 
 
