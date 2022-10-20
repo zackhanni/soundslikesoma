@@ -52,7 +52,19 @@ Please contact us with any questions or price estimates.
 
 - - -
 
-If its an interview, audiobook, podcast, video shoot, or a live event, we help make it run smoothly and sound crystal clear.
+## Podcast Recording FAQ
+
+**Im new to podcasting, can you give me tips?**
+
+Sure! You can schedule a free consultation by contacting one of the engineers. Or talk to us after your first podcast episode for an honest critique on what we think you should try out or could improve on.
+
+**Whats the longest running podcast youve worked on?**
+
+Some of out clients have completed 200+ episodes or have done countless live podcast radio shows both in our studio and on a radio near you.
+
+**Do we have to go to your studio to record our podcast?**
+
+We are able to travel for podcasts, interviews, and live broadcasting events upon request. Depending on the equipment needed and the distance traveled, we may charge an additional fee to the base podcast price.
 
 - - -
 ## Podcast Demos
@@ -65,6 +77,6 @@ If its an interview, audiobook, podcast, video shoot, or a live event, we help m
 
 - - -
 
-Need help or ideas on podcast creation? Book a **_FREE_** studio tour or give Zack a call to talk!
+Need help or ideas on podcast creation? Book a FREE studio tour or give Zack a call to talk!
 
 - - -

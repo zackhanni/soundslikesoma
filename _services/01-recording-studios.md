@@ -81,7 +81,7 @@ Bring your own computer and record yourself in Studio C! <a href="/services/01.5
 
 ## Recording Studio FAQ
 
-**Whats a Day Session?**
+**What's a Day Session?**
 
 A full day session is a 10 hour block with a discount on the price (buy 9 hours get 1 free)
 

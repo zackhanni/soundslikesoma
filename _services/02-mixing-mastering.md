@@ -101,3 +101,23 @@ We charge a small fee to fully export stems for your song when its outside of bo
     box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
   ">Buy Song Trackout</a>
 </div>
+
+- - -
+
+## Mixing & Mastering FAQ
+
+**What is Mixing?**
+
+Mixing is typically cleaning up many audio tracks - for example adjusting volume, timing, adding EQ, compression, reverb, autotune or other methods that may characteristically change the sound of each recorded track.
+
+Mixing has more creative opportunities to capture the artists vision. The goal is to transform many recorded files into a single cohesive and balanced whole.
+
+**What is Mastering?**
+
+Typically, when mastering, youre working with a single stereo file or just the master output of the mix.
+
+Mastering is about sound quality and making the overall song as good or better than the competition on the radio now.
+
+For some, mastering is about making the song AS LOUD AS POSSIBLE while maintaining the feeling, emotion and PUNCH that it was given in the mixing stage. 
+
+
