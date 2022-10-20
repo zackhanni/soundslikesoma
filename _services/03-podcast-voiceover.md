@@ -33,7 +33,7 @@ Whats Included:
 - Professional Lighting (with color options)
 - Black Curtain Backdrops
 - Professional Engineer to Record and Monitor your Podcast or Show
-- Vocal Leveling, Equalization and Exporting within 2-3 busines days.
+- Vocal Leveling, Equalization and Exporting within 2-3 business days.
 - Video editing, color corrections, video alignment to audio within 2-3 bsuness days
 
 Optional Addons:

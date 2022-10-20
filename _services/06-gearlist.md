@@ -1,5 +1,5 @@
 ---
-title: Gear List
+title: Studio Equipment Gear List
 image: '/services/default.png'
 description: Full list of studio equipment available to use.
 tags: [interface,preamp,microphone,instrument]

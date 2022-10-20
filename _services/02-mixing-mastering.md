@@ -1,5 +1,5 @@
 ---
-title: 'Mix & Master'
+title: 'Mixing And Mastering Services'
 image: '/services/default.png'
 description: radio quality mixing and mastering services for flat rates.
 tags: [studio,mixing,mastering,stems]

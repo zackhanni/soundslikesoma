@@ -4,24 +4,25 @@ image: '/services/noun_591323.png'
 description: recording studio rates including engineer, mixing, and mastering during booked studio rental time.
 tags: [studio,recording,rates,rental]
 ---
-Music Studio with incredible equipment, facilities and sound. Ready for anything.
+World class recording, professional mixing, and radio ready mastering. Get your next project completed by a team with state of the art audio equipment!
 
 ## Studio A
 With Head Engineer Zack Hanni
 
 - $65 / Hour
-- Vocal Booth and Private Recoording Area
+- Vocal Booth and Private Recording Area
 - Zero Latency Live Autotune and Audio Effects
-- 15+ Years Experiance in Mixing and Mastering
-- Analog Equipment
+- 15+ Years Experience Mixing & Mastering
+- High-End Analog Recording Equipment
 - Custom Beat Production
+- Clean, Comfortable, and Private Acoustically Treated Room
 - <a href="/services/06-gearlist" target="Gear List">Gear List</a>
 
 If you want the best Sounds Like Soma has to offer, Studio A has what you need.
 
-Our A-Room maintains a comfortable, professional, private creative environment with sound isolation and dedicated vocal booth. No matter if you are a full band, solo artist with an instrumental, or even need music instrumentals produced for you, Studio A is ready for your most important projects. Come and see why we're called one of the best music studios in Philly
+No matter if you are a full band, solo artist, need instrumentals produced for you, Studio A is ready for your most important projects. Come and see why we're called one of the best music studios in Philly
 
-**_We require deposits up front in order to reserve all studio spaces._**
+**We require deposits up front in order to reserve all studio spaces**
 
 <!-- Start Square Appointments Embed code -->
 <a style=" 
@@ -45,7 +46,7 @@ display: inline-block;
 With Engineer Gage Bingham
 
 - $45 / Hour
-- 5+ Years Experiance in Mixing and Mastering
+- 5+ Years Experiance Recording & Mixing
 - Custom Beat Production
 - <a href="/services/06-gearlist" target="Gear List">Gear List</a>
  
@@ -73,16 +74,25 @@ All Sessions booked will be run by engineer Gage Bingham, who is ready to profes
 
 - - -
 
-## Dont need one of our engineers?
+## Don't need one of our engineers?
 Bring your own computer and record yourself in Studio C! <a href="/services/01.5-rent-studio-space/" target="More info on Mastering">More Info</a>
 
 - - -
-**_If you're recording on a budget, start off in Studio B or C, then move to Studio A to get a finalized mix and professional master._**
-- - -
 
-## Recording in Philly? Welcome to your new studio home!
+## Recording Studio FAQ
 
-Whether you’re looking for a Hip-Hop, Rap, Pop, Rock, R&B, Electronic music, Podcasts or even Voiceovers and Audiobook recording studio in Philadelphia, we are ready to elevate your audio recording to a radio-ready commercial standard.
+**Whats a Day Session?**
+
+A full day session is a 10 hour block with a discount on the price (buy 9 hours get 1 free)
+
+**How late can you record?**
+
+Booking online only allows you to book until midnight but we do offer later sessions for creative night owels. Prices do increase after midnight but we are willing to stay as late as you want as long as the start time begins at or before midnight (no sessions starting at 3am but we will have sessions from 12am-6am if requested)
+
+**Are you another Philly Rap Studio?**
+
+We have a lot of experience working with Pop, Rock, R&B, Electronic and of course, Hip-Hop music. We believe this gives us a competitive advantage because we can try different effects or mixing techniques to make your music stand out in the flood of new music these days.
+
 
 
 
