@@ -1,7 +1,7 @@
 ---
 title: 'Mixing And Mastering Services'
 image: '/services/default.png'
-description: radio quality mixing and mastering services for flat rates.
+description: Here at Sounds Like Soma we use our diverse knowledge and experience to transform your recorded tracks into a finished product ready for radio!
 tags: [studio,mixing,mastering,stems]
 ---
 Let us clean up your tracked-out songs, or fix a mix recorded at another studio.

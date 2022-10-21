@@ -1,7 +1,7 @@
 ---
 title: 'Recording Studios A & B'
 image: '/services/noun_591323.png'
-description: recording studio rates including engineer, mixing, and mastering during booked studio rental time.
+description: Enjoy a relaxed atmosphere and record through the amazing analog equipment at Sounds Like Soma Philadelphia recording studio
 tags: [studio,recording,rates,rental]
 ---
 World class recording, professional mixing, and radio ready mastering. Get your next project completed by a team with state of the art audio equipment!
