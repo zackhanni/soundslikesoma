@@ -109,5 +109,7 @@ High-end studio quality equipment ranging from guitars to microphones to preamps
 - Final Cut Pro
 - Various props and decorations
 
+ - - -
 
+We are always buying, and trading for new equipment so this gear list may be incomplete.
 

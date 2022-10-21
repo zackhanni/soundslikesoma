@@ -9,7 +9,7 @@ World class recording, professional mixing, and radio ready mastering. Get your 
 ## Studio A
 With Head Engineer Zack Hanni
 
-- $65 / Hour
+- $65 / Hour ($80 After Midnight)
 - Vocal Booth and Private Recording Area
 - Zero Latency Live Autotune and Audio Effects
 - 15+ Years Experience Mixing & Mastering
@@ -45,8 +45,9 @@ display: inline-block;
 ## Studio B
 With Engineer Gage Bingham
 
-- $45 / Hour
-- 5+ Years Experiance Recording & Mixing
+- $45 / Hour ($60 After Midnight)
+- 5+ Years Experience Recording & Mixing
+- Industry Standard Plugins from Waves, Izotope, and Antares
 - Custom Beat Production
 - <a href="/services/06-gearlist" target="Gear List">Gear List</a>
  
@@ -77,21 +78,23 @@ All Sessions booked will be run by engineer Gage Bingham, who is ready to profes
 ## Don't need one of our engineers?
 Bring your own computer and record yourself in Studio C! <a href="/services/01.5-rent-studio-space/" target="More info on Mastering">More Info</a>
 
+We have all of the equipment you need from speakers, insterface, microphones, and even keysbords, synthesizers, and drum pads for music producers and beatmakers!
+
 - - -
 
 ## Recording Studio FAQ
 
-**What's a Day Session?**
+**What's a day session?**
 
-A full day session is a 10 hour block with a discount on the price (buy 9 hours get 1 free)
+A full day session is a 10 hour block with a discount on the price (buy 9 hours get 1 free). Maximize your time by planning ahead!
 
 **How late can you record?**
 
 Booking online only allows you to book until midnight but we do offer later sessions for creative night owels. Prices do increase after midnight but we are willing to stay as late as you want as long as the start time begins at or before midnight (no sessions starting at 3am but we will have sessions from 12am-6am if requested)
 
-**Are you another Philly Rap Studio?**
+**Are you just another Philly Rap Studio?**
 
-We have a lot of experience working with Pop, Rock, R&B, Electronic and of course, Hip-Hop music. We believe this gives us a competitive advantage because we can try different effects or mixing techniques to make your music stand out in the flood of new music these days.
+We have a lot of experience working with Pop, Rock, R&B, Electronic and of course, Hip-Hop music. We believe having a broad palate gives us a competitive advantage when experimenting with different effects or mixing techniques. We will do out best to make your music stand out in the flood noise.
 
 
 

@@ -11,12 +11,13 @@ Shoot 4K Videos In The Studio or Around Philadelphia.
 Whats Included:
 
 - 4K Ultra HD Video Recording
+- Color Correction
 - Video Effects Synched To Your Audio
 - Shoot At The Studio or Anywhere In Center City
-- Green Screen Backdrop
-- Professional Lighting Equipment
+- Green Screen or Black Theatre Curtain Backdrop
+- Professional Lighting Equipment - Including Color Changing LEDs
 - Frequent Video Draft Updates To Make Sure You Are Happy With The Progress
-- 2-5 Business Day Turnaround
+- 2-7 Business Day Turnaround Depending On How Complex The {roject Is
 
 Additional Options
 
@@ -24,11 +25,9 @@ Additional Options
 - Additional Traval location And Setup
 - Prop Money Rental
 - Drone Shots
-- Dancers
+- Dancers, Actors
 
-Typical 2-3 minute music videos cost between $200-$300
-
-<!-- - Click <a href="/contact">HERE</a> for examples of previous videos weve worked on. -->
+The typical 2-3 minute music videos only cost between $200-$300
 
 - - -
 

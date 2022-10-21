@@ -9,16 +9,15 @@ Let us clean up your tracked-out songs, or fix a mix recorded at another studio.
 ## Music Mixing
 
 - $105 Mix and Master : Stereo Instrumental + Vocal Stems
-
 - $195 Mix and Master : Multitrack Recording 10 - 25 track stems
-
 - $260 Mix and Master : Multitrack Recording 25 - 50 track stems
-
 - Contact us directly for projects larger than 50 track stems
 
-Please send DRY audio stems to SoundsLikeSoma@gmail.com 
+**What To Send**
 
-Use <a href="https://wetransfer.com" target="WeTransfer Official Website">WeTransfer</a> to send large files to us for free.
+You’ll need to send equal length 24-bit .wav file stems in your native sample rate along with a reference demo mix to <a href="mailto:{{ site.data.contact.email }}">{{ site.data.contact.email }}</a>
+
+We recommend using <a href="https://wetransfer.com" target="WeTransfer Official Website">WeTransfer.com</a> to send large files to us for free. Alternativly, you are welcome to use DropBox, Google Drive, or bring in a portable hard drive.
 
 <div style="overflow: auto;">
   <a target="_blank" href="https://checkout.square.site/buy/YXBZX5MSKEH53EPQAHZOQNQ7?src=embed" style="
@@ -46,13 +45,13 @@ If you have a fully mixed song that you're ready to get mastered to radio-ready 
 
 We work with you to get your best overall tone and balance on your recodings. We will communicate with you if we feel there are issues with your mix before we proceed with the mastering process.
 
-- $45 Song Mastering Only
+- $45 Mastering Only
 
-- +$30 Rush Delivery (24hrs)
+**What To Send**
 
-Send WAV audio files to SoundsLikeSoma@gmail.com 
+Please send a 24bit stereo .wav audio file with 1db or more of headroom to <a href="mailto:{{ site.data.contact.email }}">{{ site.data.contact.email }}</a>
 
-Use <a href="https://wetransfer.com" target="WeTransfer Official Website">WeTransfer</a> to send large files to us for free.
+We Recommend using <a href="https://wetransfer.com" target="WeTransfer Official Website">WeTransfer</a>, DropBox, or Google Drive to send large files to us for free.
 
 <div style="overflow: auto;">
   <a target="_blank" href="https://checkout.square.site/buy/K6HZWJV3BLN6OBWZXUNGG72Y?src=embed" style="
@@ -74,15 +73,11 @@ Use <a href="https://wetransfer.com" target="WeTransfer Official Website">WeTran
 
 - - -
 
-Mastering is the final step in bringing your recording to its potential. It gives your music the professional, commercial quality necessary to compete nationally and globally. Make sure your next song is radio-ready --  you never know who's listening! <a href="https://www.izotope.com/en/learn/what-is-mastering.html" target="what is mastering">Learn More about mastering</a>
-
-- - -
-
 ## Song Trackout - Export Stems
 
 - $10 Per Song
 
-We charge a small fee to fully export stems for your song when its outside of booked studio time.
+We charge a small fee to fully export stems for your song when its outside of booked studio time. Please specify ahead of time if you want **dry** or **wet** stem exports
 
 <div style="overflow: auto;">
   <a target="_blank" href="https://checkout.square.site/buy/PI5PLBDE3S3IAHWWZS6F5RE5?src=embed" style="
@@ -120,4 +115,7 @@ Mastering is about sound quality and making the overall song as good or better t
 
 For some, mastering is about making the song AS LOUD AS POSSIBLE while maintaining the feeling, emotion and PUNCH that it was given in the mixing stage. 
 
+- - -
+
+Mastering is the final step in bringing your recording to its potential. It gives your music the professional, commercial quality necessary to compete nationally and globally. Make sure your next song is radio-ready --  you never know who's listening! <a href="https://www.izotope.com/en/learn/what-is-mastering.html" target="what is mastering">Learn More about mastering</a>
 

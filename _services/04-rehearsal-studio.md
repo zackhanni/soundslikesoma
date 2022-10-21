@@ -1,5 +1,5 @@
 ---
-title: 'Band Rehearsal Studios'
+title: 'Band Rehearsal Studio'
 image: '/services/default.png'
 description: Band and artist rehearsal studio practice space for rent.
 tags: [rehearsal studio,practice space,band rehearsal,instrument rental]
@@ -68,11 +68,15 @@ Yes, of course you can, no matter how big it is. Also, consider only bringing th
 
 **Can I bring my photographer?**
 
-Absolutly! Also, consider hiring us for photography or videography as well.
+Absolutly! Also, consider hiring us for photography or videography as well. We have 4k cameras, professional lighting, and backgrops available.
 
 **Can we extend our rehearsal studio session?**
 
 As long as the studio space is available you can always add more time to an already booked session. The only way to garentee a time slot is to put down a deposit - so someone could book last minute right after you.
+
+**Are there any noise issues?**
+
+The building and room are insulated so there are little to no noise issues. We do ask that people schedule in advance for rehearsal time to avoid any studio noise conflicts. For some podcasts or audiobook recordings we will make the rehearsal space unavailable to book to avoid any background noise.
 
 - - -
 
