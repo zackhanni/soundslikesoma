@@ -28,18 +28,18 @@ An engineer will always be there to help set up. Please call or text us ahead of
 
 - - -
 
-<div  style="
+<div style="
   overflow: auto;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
   align-items: center;
-  width: 258.96px;
+  width: 259px;
   background: #FFFFFF;
   font-family: SQ Market, SQ Market, Helvetica, Arial, sans-serif;
   ">
   <div style="padding: 20px;">
-  <a id="embedded-checkout-modal-checkout-button" target="_blank" data-url="https://square.link/u/fHvXMbxr?src=embd" href="https://square.link/u/fHvXMbxr?src=embed" style="
+  <a target="_blank" href="https://checkout.square.site/buy/QRQWE2MKRDVH3ZS6NDRTP4QP" style="
     display: inline-block;
     font-size: 18px;
     line-height: 38px;
