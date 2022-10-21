@@ -1,7 +1,7 @@
- ---
+---
 title: 'Podcast Recording Services'
 image: '/services/default.png'
-description: podcast studios for high-quality podcast recording! Equipped with crystal-clear SM7B Broadcast Microphones. Podcast video recordings available too!
+description: Podcast studios for high-quality podcast recording! Equipped with crystal-clear SM7B Broadcast Microphones. Podcast video recordings available too!
 tags: [podcast,voiceover,audiobook,voice,recording]
 ---
 
