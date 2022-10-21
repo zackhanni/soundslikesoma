@@ -53,6 +53,6 @@ We will usually have a rough draft to you within a few days for review. The fina
 
 We can add smoke effects, green screen backgrounds, slow-mo effects and really anything else you can think of. We always recammend having video references for any styles or effects youre trying to achieve in your video
 
-**What about other videos like commercials, interviews or promotional videos?**
+**What about commercials, interviews or promotional videos?**
 
 Yes, we can do all of that too. Just reach out to one of our engineers to talk about your plan and we can discuss how to make it happen within your budget.
