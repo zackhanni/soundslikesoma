@@ -11,10 +11,10 @@ Elevate your next podcast or livestream event with our dedicated podcast studio 
 
 ## Audio Only Podcast 
 
-Whats Included:
+What's Included:
 - Podcast Recording Equipment and Setup
 - Professional Audio Engineer to Record and Monitor your Podcast
-- Vocal Leveling and compression to make volume consistant
+- Vocal Leveling and compression to make volume consistent
 - Equalization to fix tonal issues
 - Exporting within 1-3 business days.
 
@@ -29,7 +29,7 @@ Optional add-ons:
 
 ## Video Podcast / Livestream Show
 
-Whats Included:
+What's Included:
 - Podcast Recording Equipment and Setup
 - 4k Video Camera
 - Professional Lighting (with color options)
@@ -37,7 +37,7 @@ Whats Included:
 - Professional Engineer to Record and Monitor your Podcast or Show
 - Vocal Leveling, Equalization and Exporting
 - Video editing, color corrections, video alignment to audio within 
-- Completion within 2-3 busness days
+- Completion within 2-3 business days
 
 Optional Addons:
 - Green Screens
@@ -55,15 +55,15 @@ Optional Addons:
 
 ## Podcast Recording FAQ
 
-**Can I invite an audience and perform while livestreaming? Like a Tinydesk Concert?**
+**Can I perform with an audience while livestreaming? Tinydesk Style?**
 
-We would lo hve to help plan that for you! We have housed several sucessfull tinydesks and album release party style events with guests and live music while recording everything that happens for later promotion, polishing, and release to video streaming platforms.
+We would lo hve to help plan that for you! We have housed several successful tinydesks and album release party style events with guests and live music while recording everything that happens for later promotion, polishing, and release to video streaming platforms.
 
 **Im new to podcasting, can you give me tips?**
 
 We would love to work with you to grow your brand or ideas! You can schedule a free consultation by contacting one of the engineers. Or talk to us after your first podcast episode for an honest critique on what we think you should try out or improve on. Quick tips - write down topics, avoid dead air, and dont get too inebriated even if you are nervous.
 
-**Whats the longest running podcast youve worked on?**
+**Whats the longest running podcast you've worked on?**
 
 Some of out clients have completed 200+ episodes. Some have even expanded to doing live radio shows both in our studio and on a radio near you.
 

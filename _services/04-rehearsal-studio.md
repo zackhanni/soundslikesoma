@@ -68,7 +68,7 @@ Yes, of course you can, no matter how big it is. Also, consider only bringing th
 
 **Can I bring my photographer?**
 
-Absolutly! Also, consider hiring us for photography or videography as well. We have 4k cameras, professional lighting, and backgrops available.
+absolutely! Also, consider hiring us for photography or videography as well. We have 4k cameras, professional lighting, and backgrops available.
 
 **Can we extend our rehearsal studio session?**
 

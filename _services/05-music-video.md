@@ -8,16 +8,17 @@ Shoot 4K Videos In The Studio or Around Philadelphia.
 
 ## Music Videos
 
-Whats Included:
+What's Included:
 
+- Consultation and Planning
 - 4K Ultra HD Video Recording
 - Color Correction
 - Video Effects Synched To Your Audio
 - Shoot At The Studio or Anywhere In Center City
 - Green Screen or Black Theatre Curtain Backdrop
-- Professional Lighting Equipment - Including Color Changing LEDs
+- Professional Lighting Equipment - Including Color LEDs
 - Frequent Video Draft Updates To Make Sure You Are Happy With The Progress
-- 2-7 Business Day Turnaround Depending On How Complex The {roject Is
+- 2-7 Business Day Turnaround Depending On How Complex The Project Is
 
 Additional Options
 
@@ -33,7 +34,22 @@ The typical 2-3 minute music videos only cost between $200-$300
 
 Please have **examples of your favorite music videos** or effects you like so we can clearly understand your vision and edit more quickly!
 
+<!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #0072ee; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="/contact/">Contact Zack To Get Started</a> <!-- End Square Appointments Embed code -->
+
 - - -
+
+## 1 Minute Social Media Promo Video
+
+What's Included:
+
+- Consultation and Planning
+- 4K Ultra HD Video Recording
+- Color Correction
+- Green Screen or Black Theatre Curtain Backdrop
+- Color Changing LED Lights, Balcklights
+- 1-2 Hour Turnaround If Shot In Our Studio 
+
+The typical 30s - 1 minute promo video costs between $65-$100
 
 <!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #0072ee; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="/contact">Contact Zack To Get Started</a> <!-- End Square Appointments Embed code -->
 
