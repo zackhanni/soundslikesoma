@@ -1,18 +1,18 @@
 ---
 title: 'Band Rehearsal Studio'
 image: '/services/default.png'
-description: Band and artist rehearsal studio practice space for rent.
+description: Philadelphia's best hourly band rehearsal studio. Equipped with drums, amps, keyboards, vocal mics and other instruments - Sounds Like Soma 
 tags: [rehearsal studio,practice space,band rehearsal,instrument rental]
 ---
-Use our instruments or bring your own for your next band rehearsal
+Philadelphia's Best Hourly Band Rehearsal Studio. Equipped With Drums, Amps, Keyboards, Vocal Mics And More
 
 ## Studio D - Liveroom for Rehearsals
 
-Whats Included:
+What's Included:
 
 - $25 / hr (2hr Minimum)
 - Safe Music Practice Room
-- Studio Instrument Rental
+- Studio Instrument Rental including...
 - Drum kit includes - kick, snare, hi-hat, cymbals(3) toms(2)
 - Guitar & Bass Amps
 - Keyboards and Pianos with Stands
@@ -24,9 +24,12 @@ Optional Add-ons:
 - Have an engineer there to help you set up and stays with you the entire session to assist
 - Professionally recorded band practice - every instrument is properly tracked out into stems
 
-An engineer will always be there to help set up. Please call or text us ahead of time to let us know what equipment you need to have set up - stage mics, drums, amps, stands, etc. 
+
+An engineer will always be there to help set up. 
 
 - - -
+
+Book a space to rehearse for your next big performance or just jam out in our live room for fun with friends. **Call or text us ahead of time** to let us know what equipment you need usu to have set up - stage mics, drums, amps, stands, etc. 
 
 <div style="
   overflow: auto;
@@ -56,10 +59,6 @@ An engineer will always be there to help set up. Please call or text us ahead of
 
 - - -
 
-Book a space to rehearse for your next big performance or just jam out in our live room for fun with friends. **Call or text us ahead of time** to let us know what equipment you need usu to have set up - stage mics, drums, amps, stands, etc. 
-
-- - -
-
 ## Rehearsal FAQ
 
 **Can I bring my own drumkit?**
@@ -68,17 +67,19 @@ Yes, of course you can, no matter how big it is. Also, consider only bringing th
 
 **Can I bring my photographer?**
 
-absolutely! Also, consider hiring us for photography or videography as well. We have 4k cameras, professional lighting, and backgrops available.
+Absolutely. Also, consider hiring us for photography or videography as well. We have 4k cameras, professional lighting, and backgrops available to make you look your best.
 
 **Can we extend our rehearsal studio session?**
 
-As long as the studio space is available you can always add more time to an already booked session. The only way to garentee a time slot is to put down a deposit - so someone could book last minute right after you.
+As long as the studio space is available, you can always add more time to an already booked session. The only way to garentee a time slot is to put down a deposit - so someone could book last minute right after you.
 
 **Are there any noise issues?**
 
 The building and room are insulated so there are little to no noise issues. We do ask that people schedule in advance for rehearsal time to avoid any studio noise conflicts. For some podcasts or audiobook recordings we will make the rehearsal space unavailable to book to avoid any background noise.
 
 - - -
+
+We are excited to work with you. Please let us know if you have any questions regarding how booking rehearsals works.
 
 If your band is searching for - music rehearsal or practice space near me, look no further!  Our Liveroom is the perfect place to jam out with lots of instruments and live sound equipment to use.
 

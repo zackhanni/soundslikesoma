@@ -1,10 +1,10 @@
 ---
-title: 'Music Video Production'
+title: '4k Video Production Services'
 image: '/services/default.png'
-description: Musicvideo planning, recording, and production from start to finish.
+description: Hire a videographer for music video production or social media promotions in Philadelphia. Get your video done today with Sounds Like Soma
 tags: [video,music video,filming,recording]
 ---
-Shoot 4K Videos In The Studio or Around Philadelphia.
+Hire a videographer for music video production or social media promotions in Philadelphia. Get your video done today!
 
 ## Music Videos
 
@@ -51,7 +51,7 @@ What's Included:
 
 The typical 30s - 1 minute promo video costs between $65-$100
 
-<!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #0072ee; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="/contact">Contact Zack To Get Started</a> <!-- End Square Appointments Embed code -->
+<!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #0072ee; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="/contact/">Contact Zack To Get Started</a> <!-- End Square Appointments Embed code -->
 
 - - -
 

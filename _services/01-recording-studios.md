@@ -20,7 +20,7 @@ With Head Engineer Zack Hanni
 
 If you want the best Sounds Like Soma has to offer, Studio A has what you need.
 
-No matter if you are a full band, solo artist, need instrumentals produced for you, Studio A is ready for your most important projects. Come and see why we're called one of the best music studios in Philly
+No matter if you are a full band, solo artist, or need instrumentals produced for you, Studio A is ready for your most important projects. Come and see why we're called one of the best music studios in Philly
 
 **We require deposits up front in order to reserve all studio spaces**
 
@@ -80,21 +80,23 @@ Bring your own computer and record yourself in our <a href="/services/01.5-rent-
 
 We have all of the equipment you need from speakers, insterface, microphones, and even keysbords, synthesizers, and drum pads for music producers and beatmakers!
 
+When you complete recording, maybe you'll need a second pair of ears on it. Consider contacting one of our engineers to discuss moving forward with getting it touched up.
+
 - - -
 
 ## Recording Studio FAQ
 
-**What's a day session?**
+**Can I book a day session?**
 
-A full day session is a 10 hour block with a discount on the price (buy 9 hours get 1 free). Maximize your time by planning ahead!
+A full day session is a 10 hour block with a discount on the price -buy 9 hours and get 1 free. Make sure you maximize your time by planning ahead. We are going to have a lot of time to get to work!
 
 **How late can you record?**
 
-Booking online only allows you to book until midnight but we do offer later sessions for creative night owels. Prices do increase after midnight but we are willing to stay as late as you want as long as the start time begins at or before midnight (no sessions starting at 3am but we will have sessions from 12am-6am if requested)
+Booking online only allows you to book until midnight but we do offer later sessions for creative night owels. Prices do increase after midnight but we are willing to stay as late as you want as long as the start time begins at or before midnight. So, no sessions starting at 3am but we will have sessions from 12am-6am if you schedule it startign at or before midnight.
 
 **Are you just another Philly Rap Studio?**
 
-We have a lot of experience working with Pop, Rock, R&B, Electronic and of course, Hip-Hop music. We believe having a broad palate gives us a competitive advantage when experimenting with different effects or mixing techniques. We will do out best to make your music stand out in the flood noise.
+We have a lot of experience working with Pop, Rock, R&B, Electronic and of course, Hip-Hop music. We believe having a broad palate gives us a competitive advantage when experimenting with different effects or mixing techniques. We will do our best to make your music stand out among the thousands of daily releases.
 
 
 

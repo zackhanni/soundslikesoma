@@ -2,19 +2,19 @@
   {
     "title": "Professional Engineers",
     "description": "15+ years of experience producing and recording",
-    "image": "assets/images/features/professional-engineers.jpg",
+    "image": "assets/images/features/philadelphia-best-recording-studio.jpg",
     "link": "/team/"
   },
   {
     "title": "Radio Ready Sound",
     "description": "Experience with all genres - radio and record label quality",
-    "image": "assets/images/features/radio-ready-sound.jpg",
+    "image": "assets/images/features/professional-mixing-mastering.jpg",
     "link": "/samples/"
   },
     {
     "title": "Book A Free Tour",
     "description": "Visit our 4 studio spaces for yourself",
-    "image": "assets/images/features/book-a-free-tour.jpg",
+    "image": "assets/images/features/book-a-free-recording-studio-tour.jpg",
     "link": "/contact/"
   }
 ]

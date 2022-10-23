@@ -4,7 +4,7 @@ image: '/services/default.png'
 description: Here at Sounds Like Soma we use our diverse knowledge and experience to transform your recorded tracks into a finished product ready for radio!
 tags: [studio,mixing,mastering,stems]
 ---
-Let us clean up your tracked-out songs, or fix a mix recorded at another studio.
+Here at Sounds Like Soma we use our diverse knowledge and experience to transform your recorded tracks into a finished product ready for radio!
 
 ## Music Mixing
 
