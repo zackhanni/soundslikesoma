@@ -61,7 +61,7 @@ We would lo hve to help plan that for you! We have housed several successful tin
 
 **Im new to podcasting, can you give me tips?**
 
-Quick tips - Write down topics ahead of time and have extras just in case the episode moves at a quicker pace than expected. Do your best to avoid dead air but know that we are always able to edit anything out you dont like. Its common to want to drink or smoke to shake off nervous jitters but try not to get too inebriated (and definitly dont mix the 2).
+Quick tips - Write down topics ahead of time and have extras just in case the episode moves at a quicker pace than expected. Do your best to avoid dead air but know that we are always able to edit anything out you dont like. Its common to want to drink or smoke to shake off nervous jitters but try not to get too inebriated (and definitely dont mix the 2).
 
 We would love to work with you to grow your brand or ideas if you are new! You can <a href="https://squareup.com/appointments/buyer/widget/zkvz7h6ta6pudt/8GNV6PJ8WK7YH" target="Schedule A Tour">schedule a free consultation</a> by contacting one of the engineers. Or talk to us after your first podcast episode for an honest critique on what we think you should try out or improve on. 
 
