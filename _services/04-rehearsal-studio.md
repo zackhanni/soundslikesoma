@@ -67,20 +67,20 @@ Yes, of course you can, no matter how big it is. Also, consider only bringing th
 
 **Can I bring my photographer?**
 
-Absolutely. Also, consider hiring us for photography or videography as well. We have 4k cameras, professional lighting, and backgrops available to make you look your best.
+We dont mind if you bring along a few guests to your rehearsal. Also, consider hiring us for photography or videography as well. We have 4k cameras, professional lighting, and backgrops available to make you look your best.
 
 **Can we extend our rehearsal studio session?**
 
-As long as the studio space is available, you can always add more time to an already booked session. The only way to garentee a time slot is to put down a deposit - so someone could book last minute right after you.
+As long as the studio space is available, you can always add more time to an already booked session. The only way to garentee a time slot is to put down a deposit - so someone could book their rehearsal right after yours if you dont reserve it sooner rather than later.
 
 **Are there any noise issues?**
 
-The building and room are insulated so there are little to no noise issues. We do ask that people schedule in advance for rehearsal time to avoid any studio noise conflicts. For some podcasts or audiobook recordings we will make the rehearsal space unavailable to book to avoid any background noise.
+The building and room are insulated so there are little to no noise issues from neighbors. We do ask that people schedule in advance for rehearsal time to avoid the occasional studio noise conflicts. For some podcasts or audiobook recordings, we will make the rehearsal space unavailable to book to avoid any background noise creeping into the recordings. 
 
 - - -
 
 We are excited to work with you. Please let us know if you have any questions regarding how booking rehearsals works.
 
-If your band is searching for - music rehearsal or practice space near me, look no further!  Our Liveroom is the perfect place to jam out with lots of instruments and live sound equipment to use.
+If your band is searching for - music rehearsal or practice space near me, look no further!  Our Liveroom, Studio D, is the perfect place to jam out with lots of instruments and live sound equipment to use. If you have any Special requests or need a specific configuration to your setup, just heat us know ahead of time.
 
 
