@@ -2,7 +2,7 @@
   background-image: url('../images/charlie-xcx-live-philly.jpg');
   background-repeat: no-repeat;
   background-size: 115%;
-  background-position: 49px -40px;
+  background-position: 0px -40px;
   @include media-breakpoint-up(sm) {
     background-size: 90%;
     background-position: 159px -40px;
@@ -13,6 +13,6 @@
   }
   @include media-breakpoint-up(lg) {
     background-size: 60%;
-    background-position: 100% -110px;
+    background-position: 100% 80px;
   }
 }

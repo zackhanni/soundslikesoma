@@ -1,18 +1,18 @@
 .page-services-list {
-  background-image: url('../images/mixing-music-ableton.jpg');
+  background-image: url('../images/recording-studio-mixing-music.jpg');
   background-repeat: no-repeat;
-  background-size: 115%;
-  background-position: 49px -40px;
+  background-size: 100%;
+  background-position: 0px 0px;
   @include media-breakpoint-up(sm) {
-    background-size: 90%;
-    background-position: 159px -40px;
+    background-size: 100%;
+    background-position: 0px 10px;
   }
   @include media-breakpoint-up(md) {
-    background-size: 85%;
-    background-position: 199px -80px;
+    background-size: 65%;
+    background-position: 99px -70px;
   }
   @include media-breakpoint-up(lg) {
-    background-size: 60%;
-    background-position: 100% -110px;
+    background-size: 58%;
+    background-position: 100% -10px;
   }
 }
