@@ -5,7 +5,7 @@ description: Podcast studios for high-quality podcast recording! Equipped with c
 tags: [podcast,voiceover,audiobook,voice,recording]
 ---
 
-Podcast studios for high-quality podcast recording! Equipped with crystal-clear SM7B Broadcast Microphones. Podcast video recordings available too!
+Podcast studios for high-quality podcast recording! Equipped with crystal-clear SM7B Broadcast Microphones. Podcast video recordings available too! Book an in-person or remote recording and post-production studio session.
 
 - - -
 
@@ -39,12 +39,12 @@ What's Included:
 - Video editing, color corrections, video alignment to audio within 
 - Completion within 2-3 business days
 
-Optional Addons:
+Optional Add-ons:
 - Green Screens
 - Audio and Video Condensing - remove unwanted sections and re-arrange content
 - Intro / Outro video clips, Sound Effects, and Commercial Ad Breaks
-- TVs to show off your brand or chatfeed
-- Additional seating, futnature, and other audio/video equipment available
+- TVs to show off your brand or chat feed
+- Additional seating, furnature, and other audio/video equipment available
 - Adding metadata and uploading to streaming platforms like YouTube, Twitch, Etc
 
 **Please contact us about scheduling, questions, or any price estimates**
@@ -53,25 +53,31 @@ Optional Addons:
 
 - - -
 
+## Post Production and Podcast Editing
+
+If you want to record your podcast remotely or have your own recordings in your own home studio, work with Soma to get your audio cleaned up and **broadcast** ready. We can remove unwanted bits or long pauses to give your episode a smoother flow from topic to topic. If you have multiple guests talking over one another, we can use sidechain-compression and other advanced techniques to balance out the volume while maintaining vocal clarity. Please, <a href="/contact/" target="Contact">contact us</a> to figure out an approach that works best for your project or budget.
+
+- - -
+
 ## Podcast Recording FAQ
 
-**Can I perform with an audience while livestreaming? Tinydesk Style?**
+**Can I perform with an audience while livestreaming? Tiny desk Style?**
 
-We would lo hve to help plan that for you! We have housed several successful tinydesks and album release party style events with guests and live music while recording everything that happens for later promotion, polishing, and release to video streaming platforms.
+We would love to help plan that for you! We have housed several successful tiny desks and album release party style events with guests and live music while recording everything that happens for later promotion, polishing, and release to video streaming platforms.
 
-**Im new to podcasting, can you give me tips?**
+**I'm new to podcasting, can you give me tips?**
 
-Quick tips - Write down topics ahead of time and have extras just in case the episode moves at a quicker pace than expected. Do your best to avoid dead air but know that we are always able to edit anything out you dont like. Its common to want to drink or smoke to shake off nervous jitters but try not to get too inebriated (and definitely dont mix the 2).
+Quick tips - Write down topics ahead of time and have extras just in case the episode moves at a quicker pace than expected. Do your best to avoid dead air, but know that we are always able to edit anything out you don not like. It is common to want to drink or smoke to shake off nervous jitters, but try not to get too inebriated (and definitely don't mix the 2).
 
 We would love to work with you to grow your brand or ideas if you are new! You can <a href="https://squareup.com/appointments/buyer/widget/zkvz7h6ta6pudt/8GNV6PJ8WK7YH" target="Schedule A Tour">schedule a free consultation</a> by contacting one of the engineers. Or talk to us after your first podcast episode for an honest critique on what we think you should try out or improve on. 
 
-**Whats the longest running podcast you've worked on?**
+**What's the longest running podcast you've worked on?**
 
-Some of out clients have completed 200+ episodes. Some have even expanded to doing live radio shows both in our studio and on a radio near you.
+Some of our clients have completed 200+ episodes. Some have even expanded to doing live radio shows, both in our studio and on a radio near you.
 
 **Are you able to travel to record our podcast?**
 
-We are able to travel for podcasts, interviews, and live broadcasting events upon request. Depending on the equipment needed and the distance traveled, we will charge an additional fee.
+We are able to travel for podcasts, interviews, and live broadcasting events upon request. Depending on the equipment needed, and the distance traveled, we will charge an additional fee.
 
 - - -
 ## Podcast Demos
@@ -84,6 +90,12 @@ We are able to travel for podcasts, interviews, and live broadcasting events upo
 
 - - -
 
-Need help or ideas on podcast creation? Book a FREE studio tour or give Zack a call to talk! 
+## Philadelphia Local Podcast Recording Studio Near Me
+
+We are your personal, local, and friendly audio engineers ready to take on all challenges. Let us know how we can help capture your idea and turn it into a radio talk show, or live stream recording show. Me and my experienced workforce have the equipment and know-how to tackle any audio or video related project, no matter how small or large.
+
+We even have corporate experience - we are working with large businesses to promote their products and services across Pennsylvania and the whole USA. Broadcast standards are constantly changing, so let us take the wheel and get you sounding your best!
+
+If you need any help or ideas on podcast creation, please <a href="https://squareup.com/appointments/buyer/widget/zkvz7h6ta6pudt/8GNV6PJ8WK7YH" target="Schedule A Tour">book a FREE studio tour</a> or even <a href="/contact/" target="Contact">give Zack a call</a> to talk about your ideas! Even if you are not near the studio, we are happy to work with you remotely.
 
 - - -
