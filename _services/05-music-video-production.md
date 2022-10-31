@@ -23,7 +23,7 @@ What's Included:
 Additional Options
 
 - Lyrics At The Bottom Of The Video
-- Additional Traval location And Setup
+- Additional Travel location And Setup
 - Prop Money Rental
 - Drone Shots
 - Dancers, Actors
@@ -59,16 +59,16 @@ The typical 30s - 1 minute promo video costs between $65-$100
 
 **How far do you travel to film a video?**
 
-We typically prefer to stay in the center city area of Philadelphia or even in the studio itself for video and photo shoots. We are willing to travel if its a resonable distance or for a larger production.
+We typically prefer to stay in the center city area of Philadelphia or even in the studio itself for video and photo shoots. We are willing to travel if it is a reasonable distance or for a larger production.
 
 **How long does it take to edit the video?**
 
-We will usually have a rough draft to you within a few days for review. The final amount of time it takes to fully edit your video depends on how many locations, angles, and effects you want in the final product. Some videos have even been 100% completed within 24hours if the concept it short and simple.
+We will usually have a rough draft to you within a few days for review. The final amount of time it takes to fully edit your video depends on how many locations, angles, and effects you want in the final product. Some videos have even been 100% completed within 24 hours if the concept is short and simple.
 
 **What effects can you do?**
 
-We can add smoke effects, green screen backgrounds, slow-mo effects and really anything else you can think of. We always recammend having video references for any styles or effects youre trying to achieve in your video
+We can add smoke effects, green screen backgrounds, slo-mo effects and really anything else you can think of. We always recommend having video references for any styles or effects you are trying to achieve in your video
 
 **What about commercials, interviews or promotional videos?**
 
-Yes, we can do all of that too. Just reach out to one of our engineers to talk about your plan and we can discuss how to make it happen within your budget.
+Yes, we can do all of that too. Just reach out to one of our engineers to talk about your plan, and we can discuss how to make it happen within your budget.

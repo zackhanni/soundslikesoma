@@ -6,7 +6,7 @@ tags: [rehearsal studio,practice space,band rehearsal,instrument rental]
 ---
 Philadelphia's Best Hourly Band Rehearsal Studio. Equipped With Drums, Amps, Keyboards, Vocal Mics And More
 
-## Studio D - Liveroom for Rehearsals
+## Studio D - Live Room for Rehearsals
 
 What's Included:
 
@@ -29,7 +29,7 @@ An engineer will always be there to help set up.
 
 - - -
 
-Book a space to rehearse for your next big performance or just jam out in our live room for fun with friends. **Call or text us ahead of time** to let us know what equipment you need usu to have set up - stage mics, drums, amps, stands, etc. 
+Book a space to rehearse for your next big performance, or just jam out in our live room for fun with friends. **Call or text us ahead of time** to let us know what equipment you need us to have set up - stage mics, drums, amps, stands, etc. 
 
 <div style="
   overflow: auto;
@@ -61,17 +61,17 @@ Book a space to rehearse for your next big performance or just jam out in our li
 
 ## Rehearsal FAQ
 
-**Can I bring my own drumkit?**
+**Can I bring my own drum kit?**
 
-Yes, of course you can, no matter how big it is. Also, consider only bringing the essentials like your snare drum or favotate cymbols to save you the hasstle of lugging around a full kit.
+Yes, of course you can, no matter how big it is. Also, consider only bringing the essentials like your snare drum or favorite cymbals to save you the hassle of lugging around a full kit.
 
 **Can I bring my photographer?**
 
-We dont mind if you bring along a few guests to your rehearsal. Also, consider hiring us for photography or videography as well. We have 4k cameras, professional lighting, and backgrops available to make you look your best.
+We don not mind if you bring along a few guests to your rehearsal. Also, consider hiring us for photography or videography as well. We have 4k cameras, professional lighting, and backdrops available to make you look your best.
 
 **Can we extend our rehearsal studio session?**
 
-As long as the studio space is available, you can always add more time to an already booked session. The only way to garentee a time slot is to put down a deposit - so someone could book their rehearsal right after yours if you dont reserve it sooner rather than later.
+As long as the studio space is available, you can always add more time to an already booked session. The only way to guarantee a time slot is to put down a deposit - so someone could book their rehearsal right after yours if you do not reserve it sooner rather than later.
 
 **Are there any noise issues?**
 
@@ -81,6 +81,6 @@ The building and room are insulated so there are little to no noise issues from 
 
 We are excited to work with you. Please let us know if you have any questions regarding how booking rehearsals works.
 
-If your band is searching for - music rehearsal or practice space near me, look no further!  Our Liveroom, Studio D, is the perfect place to jam out with lots of instruments and live sound equipment to use. If you have any Special requests or need a specific configuration to your setup, just heat us know ahead of time.
+If your band is searching for - music rehearsal or practice space near me, look no further!  Our Live room, Studio D, is the perfect place to jam out with lots of instruments and live sound equipment to use. If you have any Special requests or need a specific configuration to your setup, just heat us know ahead of time.
 
 

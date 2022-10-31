@@ -19,7 +19,7 @@ Here at Sounds Like Soma we use our diverse knowledge and experience to transfor
 
 You’ll need to send equal length 24-bit .wav file stems in your native sample rate along with a reference demo mix to <a href="mailto:{{ site.data.contact.email }}">{{ site.data.contact.email }}</a>
 
-We recommend using <a href="https://wetransfer.com" target="WeTransfer Official Website">WeTransfer.com</a> to send large files to us for free. Alternativly, you are welcome to use <a href="https://www.dropbox.com/" target="DropBox Website">DropBox</a>, <a href="https://www.google.com/drive/" target="Google Drive Website">Google Drive</a>, or bring in a portable hard drive.
+We recommend using <a href="https://wetransfer.com" target="WeTransfer Official Website">WeTransfer.com</a> to send large files to us for free. Alternatively, you are welcome to use <a href="https://www.dropbox.com/" target="DropBox Website">DropBox</a>, <a href="https://www.google.com/drive/" target="Google Drive Website">Google Drive</a>, or bring in a portable hard drive.
 
 <div style="overflow: auto;">
   <a target="_blank" href="https://checkout.square.site/buy/YXBZX5MSKEH53EPQAHZOQNQ7?src=embed" style="

@@ -4,7 +4,7 @@ image: '/services/noun_591323.png'
 description: Enjoy a relaxed atmosphere and record through the amazing analog equipment at Sounds Like Soma Philadelphia recording studio
 tags: [studio,recording,rates,rental]
 ---
-World class recording and professional mixing. Get your next project completed by a team with state of the art audio equipment!
+World-class recording and professional mixing. Get your next project completed by a team with state-of-the-art audio equipment!
 
 ## Studio A
 With Head Engineer Zack Hanni
@@ -16,7 +16,7 @@ With Head Engineer Zack Hanni
 - High-End Analog Recording Equipment
 - Custom Beat Production
 - Clean, Comfortable, and Private Acoustically Treated Room
-- <a href="/services/06-gearlist/" target="Gear List">State Of The Art Audio Equipment</a>
+- <a href="/services/06-gearlist/" target="Gear List">State-Of-The-Art Audio Equipment</a>
 
 If you want the best Sounds Like Soma has to offer, Studio A has what you need.
 
@@ -49,7 +49,7 @@ With Engineer Gage Bingham
 - 5+ Years Experience Recording & Mixing
 - Industry Standard Plugins from Waves, Izotope, and Antares
 - Custom Beat Production
-- <a href="/services/06-gearlist/" target="Gear List">State Of The Art Audio Equipment</a>
+- <a href="/services/06-gearlist/" target="Gear List">State-Of-The-Art Audio Equipment</a>
  
 Studio B is an intimate recording space with a strong red glow throughout. This private music studio is also a sound treated, rentable space for producers which includes 10'' speakers that BUMP when you need them to.
 
@@ -76,9 +76,9 @@ All Sessions booked will be run by engineer Gage Bingham, who is ready to profes
 - - -
 
 ## Don't need one of our engineers?
-Bring your own computer and record yourself in our <a href="/services/01.5-rent-studio-space/" target="More info on Mastering">Recording Studio Studio C</a>
+Bring your own computer and record yourself in our <a href="/services/01.5-rent-studio-space/" target="More info on Mastering">Recording Studio C</a>
 
-We have all of the equipment you need from speakers, insterface, microphones, and even keysbords, synthesizers, and drum pads for music producers and beatmakers!
+We have all of the equipment you need from speakers, interface, microphones, and even keyboards, synthesizers, and drum pads for music producers and beatmakers!
 
 When you complete recording, maybe you'll need a second pair of ears on it. Consider contacting one of our engineers to discuss moving forward with getting it touched up.
 
@@ -92,7 +92,7 @@ A full day session is a 10 hour block with a discount on the price -buy 9 hours 
 
 **How late can you record?**
 
-Booking online only allows you to book until midnight but we do offer later sessions for creative night owels. Prices do increase after midnight but we are willing to stay as late as you want as long as the start time begins at or before midnight. So, no sessions starting at 3am but we will have sessions from 12am-6am if you schedule it startign at or before midnight.
+Booking online only allows you to book until midnight, but we do offer later sessions for creative night owls. Prices do increase after midnight, but we are willing to stay as late as you want as long as the start time begins at or before midnight. So, no sessions starting at 3am, but we will have sessions from 12am-6am if you schedule it starting at or before midnight.
 
 **Are you just another Philly Rap Studio?**
 
