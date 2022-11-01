@@ -3,43 +3,13 @@
 
 ![Site Logo](https://github.com/zackhanni/zackhanni.github.io/blob/master/img/intro-header.jpg)
 
-Sounds Like Soma was founded by acclaimed producer, mixing and mastering engineer Zack Hanni in 2007. He developed the studio to have a relaxed, laid-back atmosphere, with the commitment, equipment, and quality of a major recording studio. 
-
-His competitive rates and ability to exceed expectations have kept clients coming back, time and time again. 
-
-Come in and record a song with us to find out for yourself why were voted one of the best recording studios in Philadelphia.
-
-
 - - -
 
 # TO DO
 
-change star favicon to little cat logo face
-
-add new youtube videos to a new page for video tutorials and lessons
-
 set up mailchimp for people to sign up and hear about new music releases each month or big events happening , discounts, and more!
 
-Add pictures to testimonials. show them live at work doing something in studio. reference rec.
 
-Book with Gage or Zack instead of studio A or B to make it less confusing?
-
-schedule a tour button on top bar? gets their email and sets up a time to talk.
-
-about page - 'our story' telling people about who we are and what were about. Maybe also have the "why choose soma" part here.
-
-get emily to draw cleaner 'features' images
-make feature images 100x100px
-
-get testimonials from bigger / more important artists (like tye, limm, etc.)
-
-add video testimonials to the testimonials page
-
-better logo instead of "soma" in the top corner
-
-add mailchimp signup at bottom
-
-add meta information to pages
 
 reference abbey roads stuido
 	- make services page descriptions consice.
