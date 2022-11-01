@@ -1,0 +1,22 @@
+.blog-summary {
+  display: flex;
+  align-items: flex-start;
+  .blog-image {
+    flex: 0 0 100px;
+    margin-right: 10px;
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  }
+  .blog-content {
+    flex: 1;
+    .blog-title {
+      font-family: $font-family-heading;
+      font-size: 1.6rem;
+    }
+    p {
+      color: $secondary;
+    }
+  }
+}

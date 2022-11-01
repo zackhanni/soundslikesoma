@@ -1,0 +1,18 @@
+.page-blogs-list {
+  background-image: url('../images/recording-studio-mixing-music.webp');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: 0px 0px;
+  @include media-breakpoint-up(sm) {
+    background-size: 100%;
+    background-position: 0px 10px;
+  }
+  @include media-breakpoint-up(md) {
+    background-size: 65%;
+    background-position: 99px -70px;
+  }
+  @include media-breakpoint-up(lg) {
+    background-size: 58%;
+    background-position: 100% -10px;
+  }
+}

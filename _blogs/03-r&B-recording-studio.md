@@ -1,0 +1,20 @@
+---
+title: 'Philadelphia R&B Recording Studio'
+image: '/blogs/noun_591323.png'
+description: Enjoy a relaxed atmosphere and record through the amazing analog equipment at Sounds Like Soma Philadelphia recording studio
+tags: [music mastering, mastering, audio master]
+---
+Written by Zachary Hanni
+
+## Soulful Rhythm and Blues
+
+<img src="/assets/images/r&b-recording-studio-philadelphia.webp" alt="Juice Elliott Singing" style="width:80%;"/>
+
+Here at <a href="/01-recording-studios/" target="Recording Studios">Sounds Like Soma</a> recording studios, we work with all genres of music. That said, one of my favorites to work with is **R&B** because of the feelings it evokes, and the smooth vocal tones that accompany it.
+
+We recently <a href="https://www.instagram.com/p/CjbfmX-rWPN/?hl=en" target="Instagram">showcased out artist, Juice Elliott, on Instagram</a>, who masterfully combines rap, r&b, and indie pop in his latest releases.
+
+- - -
+
+For details on Sounds Like Soma and our <a href="/" target="More Info">recording studio spaces</a>, reach out and let us know what kind of project you have in mind!
+

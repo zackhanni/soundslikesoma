@@ -1,0 +1,37 @@
+---
+title: Sounds Like Soma Studio Blog | Sounds Like Soma
+layout: default
+bodyClass: page-services-list
+description: Professional music mixing, song mastering, podcasts, audiobooks and voiceovers - Sounds Like Soma - Philadelphia recording studio
+tags: [recording,mixing,mastering,lessons,rehearsals,podcast]
+---
+
+<div class="intro">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h1>the soma blog</h1>
+        <p>
+          Learn about music recording or keep up to date with events happening at the studio! more and more text. im trying to fill up this space. i think its working now. adflkjd fksajd flaskjdflaskdjf alskdjf jls dfj asldkjf sldkjf  lsjdlfkjsd fgj ldkfj gld;kfjg 
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container pb-6">
+  <div class="row">
+    {% for blog in site.blogs limit:6 %}
+    <div class="col-12 col-md-4 mb-1">
+      <div class="blog blog-summary">
+        <div class="blog-content">
+          <h2 class="blog-title">
+            <a href="{{site.baseurl}}{{ blog.url }}">{{ blog.title }}</a>
+          </h2>
+          {{ blog.content | markdownify | strip_html | truncate: 160, " . . ." }}
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
