@@ -1,5 +1,5 @@
 ---
-title: 'Audiobook Recording Studio'
+title: 'Audiobook Recording Studio Near Me'
 image: '/blogs/noun_591323.png'
 description: Enjoy a relaxed atmosphere and record through the amazing analog equipment at Sounds Like Soma Philadelphia recording studio
 tags: [music mastering, mastering, audio master]
@@ -8,7 +8,7 @@ Written by Zachary Hanni
 
 ## Audiobook Readings and Voiceovers for TV and Movies
 
-<img src="/assets/images/recording-studio-mixing-music.webp" alt="recording studio" style="width:80%;"/>
+<img src="/assets/images/voiceover-recording.webp" alt="Voiceover Recording" style="width:80%;"/>
 
 An audiobook, sometimes known as a talking book, is a recording of someone reading aloud from a book or other piece of writing. The term "unabridged" refers to a reading of the entire book, whereas the term "abridgements" refers to readings of reduced versions.
 

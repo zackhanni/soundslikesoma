@@ -4,7 +4,8 @@ image: '/blogs/noun_591323.png'
 description: Enjoy a relaxed atmosphere and record through the amazing analog equipment at Sounds Like Soma Philadelphia recording studio
 tags: [music mastering, mastering, audio master]
 ---
-Written by Zachary Hanni
+
+Learn about the difference between mixing and mastering. It is common for people to get the 2 confused, but hopfully by the end of this you will have a stronger understanding of the difference.
 
 ## What is mixing?
 
@@ -32,7 +33,16 @@ Mixing has more creative opportunities to capture the artists vision, whole mast
 
 Side note - mastering can also include adding metadata but most aggregators like CDBABY, DistroKid or other venders take care of that for you now.  
 
+Written by Zachary Hanni
+
 - - -
 
 For details on <a href="/02-mixing-mastering/" target="More Info">pricing for mixing and mastering</a>, consider hiring a professional at Sounds Like Soma!
 
+- - -
+
+<img src="/assets/images/music-mastering-equipment.webp" alt="Mastering equipment" style="width:80%;"/>
+
+- - -
+
+<img src="/assets/images/studio-mixing-session.webp" alt="Mixing Studio Session" style="width:80%;"/>
