@@ -1,7 +1,7 @@
 ---
 title: 'What Is Mixing vs Mastering?'
 image: '/blogs/noun_591323.png'
-description: Enjoy a relaxed atmosphere and record through the amazing analog equipment at Sounds Like Soma Philadelphia recording studio
+description: What is mixing and mastering? Is your music properly mixed to a radio-ready standard?
 tags: [music mastering, mastering, audio master]
 ---
 

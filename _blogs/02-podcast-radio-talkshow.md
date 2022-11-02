@@ -1,7 +1,7 @@
 ---
 title: 'Philadelphia Podcast Recording Studio'
 image: '/blogs/noun_591323.png'
-description: Enjoy a relaxed atmosphere and record through the amazing analog equipment at Sounds Like Soma Philadelphia recording studio
+description: Head engineer Zack is featured on an episode of The Podcast Engineering School Podcast. Take a listen!
 tags: [music mastering, mastering, audio master]
 ---
 

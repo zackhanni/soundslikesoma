@@ -1,7 +1,7 @@
 ---
 title: 'Audiobook Recording Studio Near Me'
 image: '/blogs/noun_591323.png'
-description: Enjoy a relaxed atmosphere and record through the amazing analog equipment at Sounds Like Soma Philadelphia recording studio
+description: Wpoken word audiobooks and voiceovers for TV and Movies have been around since the 1930s
 tags: [music mastering, mastering, audio master]
 ---
 Written by Zachary Hanni

@@ -1,7 +1,7 @@
 ---
 title: 'Philadelphia R&B Recording Studio'
 image: '/blogs/noun_591323.png'
-description: Enjoy a relaxed atmosphere and record through the amazing analog equipment at Sounds Like Soma Philadelphia recording studio
+description: Rhythm and blues is all about passion and soul. Sounds Like Soma loves our R&B artists
 tags: [music mastering, mastering, audio master]
 ---
 
