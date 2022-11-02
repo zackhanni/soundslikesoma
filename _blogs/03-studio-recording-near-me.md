@@ -4,7 +4,7 @@ image: '/blogs/noun_591323.png'
 description: Enjoy a relaxed atmosphere and record through the amazing analog equipment at Sounds Like Soma Philadelphia recording studio
 tags: [music mastering, mastering, audio master]
 ---
-Written by Zachary Hanni
+Philadelphia's many recording studios are still keeping busy with the constant surge of new local talent.
 
 ## Philadelphia Recording Studios
 
@@ -20,6 +20,8 @@ Artists across Philly have a variety of **studio recording** spaces to choose fr
 Perhaps you are **near me** in south Philly- where you can use one of our 4 studio rooms for rent and polish up your sound before you hit the big stage with your next album release. We are fully equipped with high quality condenser microphones running through amazing analog equipment that will really make your voice stand out. <a href="/01-recording-studios/" target="Recording Studios">Studio A</a> is the spot for you if you are aiming for the best radio-ready sound!
 
 Already have an album finished? well, come by to arrange a tiny desk style concert! Our recording studio performance area can house a comfortable 20+ people for music showcases, album releases, or live stream podcast shows.
+
+Written by Zachary Hanni
 
 - - -
 

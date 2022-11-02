@@ -4,13 +4,12 @@ image: '/blogs/noun_591323.png'
 description: Enjoy a relaxed atmosphere and record through the amazing analog equipment at Sounds Like Soma Philadelphia recording studio
 tags: [music mastering, mastering, audio master]
 ---
-Written by Zachary Hanni
+
+Our head audio engineer Zack was recently featured on a nationwide broadcast for podcast enthusiests.
 
 ## The Podcast Engineering School
 
-<img src="/assets/images/r&b-recording-studio-philadelphia.webp" alt="Juice Elliott Singing" style="width:80%;"/>
-
-Our head audio engineer Zack was recently featured on a nationwide broadcast for podcast enthusiests.
+<img src="/assets/images/podcast-engineering-show-philly.webp" alt="Podcast Engineering Show" style="width:80%;"/>
 
 "Enjoy my chat with Zack Hanni, owner and audio engineer at Sounds Like Soma in Philadelphia. He produces podcasts as well as music. We discuss podcast audio production in depth as well as the business aspects of being a podcast producer."
 
@@ -22,6 +21,7 @@ Podcast <a href="https://podcastengineering.libsyn.com/240-running-a-successful-
 
 Podcast <a href="https://podcastengineeringschool.com/zack-hanni-pes-040/">Episode 40</a> back in 2017
 
+Written by Zachary Hanni
 
 - - -
 
