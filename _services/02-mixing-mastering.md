@@ -6,6 +6,8 @@ tags: [studio,mixing,mastering,stems]
 ---
 Here at Sounds Like Soma we use our diverse knowledge and experience to transform your recorded tracks into a finished product ready for radio!
 
+<img src="/assets/images/studio-mixing-music-mastering.webp" alt="mastering studio" style="width:80%;"/>
+
 ## Music Mixing
 
 - $105 Mix and Master : Stereo Instrumental + Vocal Stems
@@ -42,6 +44,8 @@ We recommend using <a href="https://wetransfer.com" target="WeTransfer Official 
  - - -
 
 ## Song Mastering
+
+<img src="/assets/images/music-mastering-equipment.webp" alt="mastering equipment" style="width:80%;"/>
 
 If you have a fully mixed song that you're ready to get mastered to radio-ready standards
 
@@ -110,6 +114,8 @@ Please specify ahead of time if you want **dry** or **wet** stem exports
 Mixing is typically cleaning up many audio tracks - for example adjusting volume, timing, adding EQ, compression, reverb, autotune or other methods that may characteristically change the sound of each recorded track.
 
 Mixing has more creative opportunities to capture the artists vision. The goal is to transform many recorded files into a single cohesive and balanced whole.
+
+Head engineer Zack wrote about mixing and mastering in more detail over in our <a href="https://www.izotope.com/en/learn/what-is-mastering.html" target="what is mastering">studio blog</a>. Check it out!
 
 **What is Mastering?**
 

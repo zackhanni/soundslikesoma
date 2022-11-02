@@ -7,6 +7,8 @@ tags: [podcast,voiceover,audiobook,voice,recording]
 
 Podcast studios for high-quality podcast recording! Equipped with crystal-clear SM7B Broadcast Microphones. Podcast video recordings available too! Book an in-person or remote recording and post-production studio session.
 
+<img src="/assets/images/podcast-recording-studio-philadelphia.webp" alt="Group Podcast" style="width:80%;"/>
+
 - - -
 
 ## Audio Only Podcast 

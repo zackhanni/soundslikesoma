@@ -6,6 +6,8 @@ tags: [video,music video,filming,recording]
 ---
 Hire a videographer for music video production or social media promotions in Philadelphia. Get your video done today!
 
+<img src="/assets/images/band-rehearsal-live-performance.webp" alt="Music Video Recording" style="width:80%;"/>
+
 ## Music Videos
 
 What's Included:

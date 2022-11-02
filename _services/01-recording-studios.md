@@ -6,6 +6,8 @@ tags: [studio,recording,rates,rental]
 ---
 World-class recording and professional mixing. Get your next project completed by a team with state-of-the-art audio equipment!
 
+<img src="/assets/images/best-philadelphia-recording-studio.webp" alt="Studio A" style="width:80%;"/>
+
 ## Studio A
 With Head Engineer Zack Hanni
 
@@ -44,6 +46,8 @@ display: inline-block;
 
 ## Studio B
 With Engineer Gage Bingham
+
+<img src="/assets/images/music-mixing-studio-b.webp" alt="Studio B" style="width:80%;"/>
 
 - $45 / Hour ($60 After Midnight)
 - 5+ Years Experience Recording & Mixing
@@ -98,6 +102,8 @@ Booking online only allows you to book until midnight, but we do offer later ses
 
 We have a lot of experience working with Pop, Rock, R&B, Electronic and of course, Hip-Hop music. We believe having a broad palate gives us a competitive advantage when experimenting with different effects or mixing techniques. We will do our best to make your music stand out among the thousands of daily releases.
 
+- - -
 
+<img src="/assets/images/studio-drum-recording.webp" alt="Recording Drums" style="width:80%;"/>
 
 
