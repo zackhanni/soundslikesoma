@@ -27,6 +27,11 @@ reference abbey roads stuido
 
 # --- Resources ---
 
+blog posts dont show up ( similar to services)
+solution - needed to run bundle update (still have no idea why this needed to happen before they could show up)
+
+
+
 # HOW TO CHANGE PICS n THINGS
 
 svg images in _sass > pages > services, team, testimonials, etc.

@@ -37,7 +37,7 @@ Written by Zachary Hanni
 
 - - -
 
-For details on <a href="/02-mixing-mastering/" target="More Info">pricing for mixing and mastering</a>, consider hiring a professional at Sounds Like Soma!
+For details on <a href="/services/02-mixing-mastering/" target="More Info">pricing for mixing and mastering</a>, consider hiring a professional at Sounds Like Soma!
 
 - - -
 
