@@ -16,5 +16,5 @@ Since the 1930s, spoken audio has been a feature of public and school libraries,
 
 - - -
 
-For details on Sounds Like Soma and our <a href="/" target="More Info">recording studio spaces</a>, reach out and let us know what kind of project you have in mind!
+For all of your audiobook, podcast, or voiceover needs, <a href="/" target="More Info">Contact Sounds Like Soma</a>, and let us help you elevate your voice recordings!
 

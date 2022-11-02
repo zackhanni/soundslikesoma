@@ -25,5 +25,5 @@ Written by Zachary Hanni
 
 - - -
 
-For details on Sounds Like Soma and our <a href="/" target="More Info">recording studio spaces</a>, reach out and let us know what kind of project you have in mind!
+To find top quality <a href="/" target="More Info">recording studio spaces near you</a>, reach out to the professionals at Sounds Like Soma.
 

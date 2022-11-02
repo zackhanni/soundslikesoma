@@ -19,5 +19,5 @@ Written by Zachary Hanni
 
 - - -
 
-For details on Sounds Like Soma and our <a href="/" target="More Info">recording studio spaces</a>, reach out and let us know what kind of project you have in mind!
+Get your next R&B project recorded and mixed with the professionals at <a href="/" target="More Info">Sounds Like Soma!</a> Contact us to let us know what kind of project you have in mind!
 
