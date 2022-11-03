@@ -80,7 +80,7 @@ All Sessions booked will be run by engineer Gage Bingham, who is ready to profes
 - - -
 
 ## Don't need one of our engineers?
-Bring your own computer and record yourself in our <a href="/services/01.5-rent-studio-space/" target="More info on Mastering">Recording Studio C</a>
+Bring your own computer and record yourself in our <a href="/services/01-rent-studio-space/" target="More info on Mastering">Recording Studio C</a>
 
 We have all of the equipment you need from speakers, interface, microphones, and even keyboards, synthesizers, and drum pads for music producers and beatmakers!
 
