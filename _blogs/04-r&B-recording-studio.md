@@ -9,7 +9,7 @@ Philadelphia has strong roots in R&B music. We are always on the lookout for new
 
 ## Soulful Rhythm and Blues
 
-<img src="/assets/images/r&b-recording-studio-philadelphia.webp" alt="Juice Elliott Singing" style="width:80%;"/>
+<img src="/assets/images/r&b-recording-studio-philadelphia.webp" alt="Recordign artist Juice Elliott" style="width:80%;"/>
 
 Here at <a href="/services/01-recording-studios/" target="Recording Studios">Sounds Like Soma</a> recording studios, we work with all genres of music. That said, one of my favorites to work with is **R&B** because of the feelings it evokes, and the smooth vocal tones that accompany it.
 

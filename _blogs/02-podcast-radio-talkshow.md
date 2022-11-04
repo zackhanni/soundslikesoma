@@ -9,7 +9,7 @@ Our head audio engineer Zack was recently featured on a nationwide broadcast for
 
 ## The Podcast Engineering School
 
-<img src="/assets/images/podcast-engineering-show-philly.webp" alt="Podcast Engineering Show" style="width:80%;"/>
+<img src="/assets/images/podcast-engineering-show-philly.webp" alt="Podcast Engineering Show logo" style="width:80%;"/>
 
 "Enjoy my chat with Zack Hanni, owner and audio engineer at Sounds Like Soma in Philadelphia. He produces podcasts as well as music. We discuss podcast audio production in depth as well as the business aspects of being a podcast producer."
 

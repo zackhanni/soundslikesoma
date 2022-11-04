@@ -8,7 +8,7 @@ Written by Zachary Hanni
 
 ## Audiobook Readings and Voiceovers for TV and Movies
 
-<img src="/assets/images/voiceover-recording.webp" alt="Voiceover Recording" style="width:80%;"/>
+<img src="/assets/images/voiceover-recording.webp" alt="Voiceover recording with music stand" style="width:80%;"/>
 
 An audiobook, sometimes known as a talking book, is a recording of someone reading aloud from a book or other piece of writing. The term "unabridged" refers to a reading of the entire book, whereas the term "abridgements" refers to readings of reduced versions.
 

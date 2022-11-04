@@ -8,7 +8,7 @@ Philadelphia's many recording studios are still keeping busy with the constant s
 
 ## Philadelphia Recording Studios
 
-<img src="/assets/images/recording-studio-mixing-music.webp" alt="recording studio" style="width:80%;"/>
+<img src="/assets/images/recording-studio-mixing-music.webp" alt="recording studio with blue lights" style="width:80%;"/>
 
 
 Philadelphia is an ever-growing hub for all types of music. Despite recent pandemics and economic downturns, the city of Philadelphia stands strong and fights for businesses and event spaces to stay open so we-the-people can continue our everyday lives.
