@@ -7,9 +7,7 @@ tags: [podcast,voiceover,audiobook,voice,recording]
 
 Podcast studios for high-quality podcast recording! Equipped with crystal-clear SM7B Broadcast Microphones. Podcast video recordings available too! Book an in-person or remote recording and post-production studio session.
 
-<img src="/assets/images/podcast-recording-studio-philadelphia.webp" alt="Group Podcast" style="width:80%;"/>
-
-- - -
+<img src="/assets/images/podcast-recording-studio-philadelphia.webp" title="Group Podcast Recording" alt="Group Podcast Recording" style="width:80%;"/>
 
 ## Audio Only Podcast 
 
@@ -29,7 +27,7 @@ Optional add-ons:
 
 - - -
 
-## Video Podcast / Livestream Show
+## Video Podcast / Live stream Show
 
 What's Included:
 - Podcast Recording Equipment and Setup
@@ -53,7 +51,7 @@ Optional Add-ons:
 
 <!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #0072ee; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://checkout.square.site/merchant/9VYHXDGP33NTC/checkout/WHZBQ3NKJAKAXEBI3SVCUC5B?src=embed">Book Video Podcast/Livestream</a> <!-- End Square Appointments Embed code -->
 
-- - -
+<img src="/assets/images/studio-mixing-music-mastering.webp" title="Post Production Podcast Editing" alt="Post Production Podcast Editing" style="width:80%;"/>
 
 ## Post Production and Podcast Editing
 
@@ -82,7 +80,7 @@ Some of our clients have completed 200+ episodes. Some have even expanded to doi
 We are able to travel for podcasts, interviews, and live broadcasting events upon request. Depending on the equipment needed, and the distance traveled, we will charge an additional fee.
 
 - - -
-## Podcast Demos
+## Episode Demos
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/1iBOPm1Dr2Y5UEAHwwIldg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -94,7 +92,7 @@ We are able to travel for podcasts, interviews, and live broadcasting events upo
 
 ## Philadelphia Local Podcast Recording Studio Near Me
 
-We are your personal, local, and friendly audio engineers ready to take on all challenges. Let us know how we can help capture your idea and turn it into a radio talk show, or live stream recording show. Me and my experienced workforce have the equipment and know-how to tackle any audio or video related project, no matter how small or large.
+We are your personal, local, and friendly audio engineers ready to take on all challenges. Let us know how we can help capture your idea and turn it into a radio talk show, or live stream **recording** show. Me and my experienced workforce have the equipment and know-how to tackle any audio or video related project, no matter how small or large.
 
 We even have corporate experience - we are working with large businesses to promote their products and services across Pennsylvania and the whole USA. Broadcast standards are constantly changing, so let us take the wheel and get you sounding your best!
 
