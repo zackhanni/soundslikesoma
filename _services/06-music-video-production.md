@@ -6,7 +6,7 @@ tags: [video,music video,filming,recording]
 ---
 Hire a videographer for music video production or social media promotions in Philadelphia. Get your video done today!
 
-<img src="/assets/images/band-rehearsal-live-performance.webp" alt="Music Video Recording" style="width:80%;"/>
+<img src="/assets/images/outdoor-music-video-shoot.webp" title="Music Video Shoot On Balcony" alt="Music Video Shoot on Balcony" style="width:80%;"/>
 
 ## Music Videos
 
@@ -32,13 +32,13 @@ Additional Options
 
 The typical 2-3 minute music videos only cost between $200-$300
 
-- - -
-
 Please have **examples of your favorite music videos** or effects you like so we can clearly understand your vision and edit more quickly!
 
 <!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #0072ee; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="/contact/">Contact Zack To Get Started</a> <!-- End Square Appointments Embed code -->
 
 - - -
+
+<img src="/assets/images/philly-music-video-production.webp" title="Philly Music Video Production" alt="Camera recording rapper smoking in studio" style="width:80%;"/>
 
 ## 1 Minute Social Media Promo Video
 
