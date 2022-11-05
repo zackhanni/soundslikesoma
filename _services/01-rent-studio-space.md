@@ -2,13 +2,13 @@
 title: 'Recording Studio Space For Rent'
 image: '/services/noun_591323.png'
 description: Recording studio space for rent. Use HD audio equipment and condenser microphones to record yourself in a private room. Affordable prices - bulk discounts
-tags: [studio,recording,rap,cheap,rent]
+tags: [recording studio for rent, rent recording studio, music recording]
 ---
 Recording studio space for rent. Use HD audio equipment and condenser microphones to record yourself in a private room. Affordable prices with bulk discounts.
 
-<img src="/assets/images/music-mixing-studio-b.webp" alt="rent studio c" style="width:80%;"/>
+<img src="/assets/images/rent-recording-studio-near-me.webp" title="Recording Studio For Rent" alt="Studio Desk With Interface and Speakers" style="width:80%;"/>
 
-## Studio C
+## Rent Studio C
 
 - $30 / Hour
 - $150 / Day (Up To 8 Hours)
@@ -26,7 +26,7 @@ What's Included:
 - - -
 **Engineer And Computer Not Included**
 
-<a href="{{site.baseurl}}/contact/">Contact Zack in Studio A</a> before booking to lock-in your desiered date and time.
+<a href="{{site.baseurl}}/contact/">Contact Zack in Studio A</a> before booking your studio rental to lock-in your desiered date and time.
 
 <div style="overflow: auto;">
   <a target="_blank" href="https://checkout.square.site/buy/ONTA6ABV475VPA7B4JGXLCA5?src=embed" style="
@@ -54,6 +54,8 @@ What's Included:
 
 <a href="/services/01-recording-studios/" target="Studio B">Studio B</a> is also available to rent out when it is not actively in-use by one of our engineers. You will have to <a href="/contact/" target="Contact us">contact one of our staff</a>  to discuss availability and booking options. It has even better equipment - powerful speakers, better acoustics, and a more comfortable, professional looking recording area.
 
+<img src="/assets/images/music-mixing-studio-b.webp" title="Mixing music with Shamir" alt="Music Mixing Console" style="width:80%;"/>
+
 - - -
 
 ## Studio Space For Rent FAQ
@@ -80,4 +82,6 @@ We designed this space for all-in-one artists who want to record themselves, or 
 
 - - -
 
-This space is designed to be a cheaper option for those on a budget or who may not be able to record at their own home studio. Music studio space for rent near me.
+This space is designed to be an option for those on a budget or who may not be able to record at their own home studio. Music **studio space for rent near me**. Check out a wider view of the entier room below. It is enough to also fit a drum kit and several additional guests.
+
+<img src="/assets/images/recording-studio-for-rent.webp" title="Wide shot of studio C" alt="recording studio desk, speakers and microphone" style="width:80%;"/>
