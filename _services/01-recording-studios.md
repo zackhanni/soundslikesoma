@@ -1,12 +1,12 @@
 ---
 title: 'Recording Studios A & B'
-image: '/services/noun_591323.png'
+image: '/assets/images/best-philadelphia-recording-studio.webp'
 description: Enjoy a relaxed atmosphere and record through the amazing analog equipment at Sounds Like Soma Philadelphia recording studio
-tags: [studio,recording,rates,rental]
+tags: [recording studio near me, music studio, philadelphia recording studio]
 ---
-World-class recording and professional mixing. Get your next project completed by a team with state-of-the-art audio equipment!
+World-class recording and professional mixing studio. Get your next music project completed by our Philly team with state-of-the-art audio equipment! 
 
-<img src="/assets/images/best-philadelphia-recording-studio.webp" alt="Studio A" style="width:80%;"/>
+<img src="/assets/images/best-philadelphia-recording-studio.webp" title="Recording Studio with Keyboards and Sperkers" alt="Recording Studio with Keyboards and Sperkers" style="width:80%;"/>
 
 ## Studio A
 With Head Engineer Zack Hanni
@@ -47,7 +47,7 @@ display: inline-block;
 ## Studio B
 With Engineer Gage Bingham
 
-<img src="/assets/images/music-mixing-studio-b.webp" alt="Studio B" style="width:80%;"/>
+<img src="/assets/images/music-mixing-studio-b.webp" title="Mixing With Shamir" alt="Mixing Music In Studio B" style="width:80%;"/>
 
 - $45 / Hour ($60 After Midnight)
 - 5+ Years Experience Recording & Mixing
@@ -80,7 +80,7 @@ All Sessions booked will be run by engineer Gage Bingham, who is ready to profes
 - - -
 
 ## Don't need one of our engineers?
-Bring your own computer and record yourself in our <a href="/services/01-rent-studio-space/" target="More info on Mastering">Recording Studio C</a>
+Bring your own computer and record yourself - <a href="/services/01-rent-studio-space/" target="More info on Mastering">Rent Recording Studio C</a>
 
 We have all of the equipment you need from speakers, interface, microphones, and even keyboards, synthesizers, and drum pads for music producers and beatmakers!
 
@@ -88,7 +88,7 @@ When you complete recording, maybe you'll need a second pair of ears on it. Cons
 
 - - -
 
-## Recording Studio FAQ
+## FAQ
 
 **Can I book a day session?**
 
@@ -100,10 +100,10 @@ Booking online only allows you to book until midnight, but we do offer later ses
 
 **Are you just another Philly Rap Studio?**
 
-We have a lot of experience working with Pop, Rock, R&B, Electronic and of course, Hip-Hop music. We believe having a broad palate gives us a competitive advantage when experimenting with different effects or mixing techniques. We will do our best to make your music stand out among the thousands of daily releases.
+We have a lot of experience working with Pop, Rock, R&B, Electronic and of course, Hip-Hop music. We believe having a broad palate gives us a competitive advantage when experimenting with different effects or mixing techniques. We will do our best to make your music stand out among the thousands of daily releases. Our **recording studios** are a cut above the rest.
 
 - - -
 
-<img src="/assets/images/studio-drum-recording.webp" alt="Recording Drums" style="width:80%;"/>
+<img src="/assets/images/band-recording-guitars.webp" title="Recording Guitars" alt="2 Guitar Players Recording" style="width:80%;"/>
 
 
