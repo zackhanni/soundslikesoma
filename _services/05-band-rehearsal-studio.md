@@ -4,9 +4,9 @@ image: '/services/default.png'
 description: Philadelphia's best hourly band rehearsal studio. Equipped with drums, amps, keyboards, vocal mics and other instruments - Sounds Like Soma 
 tags: [rehearsal studio,practice space,band rehearsal,instrument rental]
 ---
-Philadelphia's Best Hourly Band Rehearsal Studio. Equipped With Drums, Amps, Keyboards, Vocal Mics And More
+Philadelphia's Best Hourly Band Rehearsal Studio. Equipped With Drums, Amps, Keyboards, Vocal Mics And More.
 
-<img src="/assets/images/band-rehearsal-guitar.webp" alt="guitar-music-rehearsal" style="width:80%;"/>
+<img src="/assets/images/band-rehearsal-guitar.webp" title="Guitar Player In Band Rehearsal" alt="Guitar player in band rehearsal" style="width:80%;"/>
 
 ## Studio D - Live Room for Rehearsals
 
@@ -24,7 +24,7 @@ Optional Add-ons:
 
 - Audio Recording Band rehearsal - with 1 quality omni condenser room mic for a great sounding song demo or live jam!
 - Have an engineer there to help you set up and stays with you the entire session to assist
-- Professionally recorded band practice - every instrument is properly tracked out into stems
+- Professionally recorded **band** practice - every instrument is properly tracked out into stems
 
 
 An engineer will always be there to help set up. 
@@ -59,7 +59,7 @@ Book a space to rehearse for your next big performance, or just jam out in our l
   </div>
 </div>
 
-- - -
+<img src="/assets/images/studio-drum-practice-rehearsal.webp" title="Recording Drum Practice" alt="Recording Drum Practice" style="width:80%;"/>
 
 ## Rehearsal FAQ
 
@@ -87,4 +87,4 @@ If your band is searching for - music rehearsal or practice space near me, look 
 
 - - -
 
-<img src="/assets/images/band-rehearsal-group.webp" alt="band-rehearsal-group" style="width:80%;"/>
+<img src="/assets/images/band-rehearsal-group.webp" title="Group Band Rehearsal Studio" alt="Band with drums, bass, and guitar rehearsing" style="width:80%;"/>
