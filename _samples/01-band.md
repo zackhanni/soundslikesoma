@@ -1,6 +1,7 @@
 ---
 title: 'Bands and Group Projects'
 jobtitle: 'From Spotify'
+sitemap: false
 ---
 
 - - -

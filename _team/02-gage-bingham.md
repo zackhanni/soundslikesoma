@@ -4,6 +4,7 @@ image: '/assets/images/team/gage-bingham.jpg'
 jobtitle: 'Engineer'
 email: 'gagerbingham@gmail.com'
 instagramurl: 'https://www.instagram.com/gage_bingham'
+sitemap: false
 ---
 
 Gage is the main recording engineer working out of Studio B, and the studio manager in charge of interns and personnel. 

@@ -5,6 +5,7 @@ businessurl: ''
 name: 'Jacob Innis'
 business: ''
 jobtitle: 'Indie-Rock Musician'
+sitemap: false
 ---
 
 > Zack was a delight to work with.  He has great ideas to contribute to your music, but is equally respectful of your own vision.  I play in a three-piece rock band, and Zack worked with us to get the best possible sound on all instruments and vocals.  
