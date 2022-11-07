@@ -1,7 +1,7 @@
 ---
 title: Studio Equipment Gear List
 image: '/services/default.png'
-description: Full list of studio equipment available to use.
+description: Check out Sound Like Soma's full list of studio equipment available to use during booked studio sessions, and studio rentals.
 tags: [interface,preamp,microphone,instrument]
 ---
 High-end studio quality equipment ranging from guitars to microphones to preamps and more.
