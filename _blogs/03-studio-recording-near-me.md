@@ -1,7 +1,7 @@
 ---
 title: 'Studio Recording Near Me'
 image: '/blogs/noun_591323.png'
-description: The best local recording studio in Philadelphia for singers, rappers, and bands is Sounds Like Soma
+description: The best local recording studio in Philadelphia for singers, rappers, and bands is hands-down Sounds Like Soma. Find out more information on the website
 tags: [music mastering, mastering, audio master]
 ---
 Philadelphia's many recording studios are still keeping busy with the constant surge of new local talent.

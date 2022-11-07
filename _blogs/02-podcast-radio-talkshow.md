@@ -1,7 +1,7 @@
 ---
 title: 'Philadelphia Podcast Recording Studio'
 image: '/blogs/noun_591323.png'
-description: Head engineer Zack is featured on an episode of The Podcast Engineering School Podcast. Take a listen!
+description: Recently, our head engineer Zack was featured on an episode of The Podcast Engineering School Podcast. Take a listen if you love podcast recording!
 tags: [music mastering, mastering, audio master]
 ---
 
