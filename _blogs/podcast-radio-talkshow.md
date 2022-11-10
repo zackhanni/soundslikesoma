@@ -26,5 +26,5 @@ Written by Zachary Hanni
 
 - - -
 
-To learn more about Soma's <a href="/services/03-podcast-voiceover-recording/" target="More Info">Podcast recording studio spaces</a>, reach out and let us know what kind of project you have in mind!
+To learn more about Soma's <a href="/services/podcast-voiceover-recording/" target="More Info">Podcast recording studio spaces</a>, reach out and let us know what kind of project you have in mind!
 

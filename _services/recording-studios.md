@@ -19,7 +19,7 @@ With Head Engineer Zack Hanni
 - High-End Analog Recording Equipment
 - Custom Beat Production
 - Clean, Comfortable, and Private Acoustically Treated Room
-- <a href="/services/07-gearlist/" target="Gear List">State-Of-The-Art Audio Equipment</a>
+- <a href="/services/gearlist/" target="Gear List">State-Of-The-Art Audio Equipment</a>
 
 If you want the best Sounds Like Soma has to offer, Studio A has what you need.
 
@@ -54,7 +54,7 @@ With Engineer Gage Bingham
 - 5+ Years Experience Recording & Mixing
 - Industry Standard Plugins from Waves, Izotope, and Antares
 - Custom Beat Production
-- <a href="/services/07-gearlist/" target="Gear List">State-Of-The-Art Audio Equipment</a>
+- <a href="/services/gearlist/" target="Gear List">State-Of-The-Art Audio Equipment</a>
  
 Studio B is an intimate recording space with a strong red glow throughout. This private music studio is also a sound treated, rentable space for producers which includes 10'' speakers that BUMP when you need them to.
 
@@ -81,7 +81,7 @@ All Sessions booked will be run by engineer Gage Bingham, who is ready to profes
 - - -
 
 ## Don't need one of our engineers?
-Bring your own computer and record yourself - <a href="/services/04-rent-studio-space/" target="More info on Mastering">Rent Recording Studio C</a>
+Bring your own computer and record yourself - <a href="/services/rent-studio-space/" target="Rent our studio spaces">Rent Recording Studio C</a>
 
 We have all of the equipment you need from speakers, interface, microphones, and even keyboards, synthesizers, and drum pads for music producers and beatmakers!
 

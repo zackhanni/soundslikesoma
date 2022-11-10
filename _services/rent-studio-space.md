@@ -53,7 +53,7 @@ What's Included:
 
 - $40 / Hour
 
-<a href="/services/01-recording-studios/" target="Studio B">Studio B</a> is also available to rent out when it is not actively in-use by one of our engineers. You will have to <a href="/contact/" target="Contact us">contact one of our staff</a>  to discuss availability and booking options. It has even better equipment - powerful speakers, better acoustics, and a more comfortable, professional looking recording area.
+<a href="/services/recording-studios/" target="Studio B">Studio B</a> is also available to rent out when it is not actively in-use by one of our engineers. You will have to <a href="/contact/" target="Contact us">contact one of our staff</a>  to discuss availability and booking options. It has even better equipment - powerful speakers, better acoustics, and a more comfortable, professional looking recording area.
 
 <img src="/assets/images/music-mixing-studio-b.webp" title="Mixing music with Shamir" alt="Music Mixing Console" style="width:80%;"/>
 
