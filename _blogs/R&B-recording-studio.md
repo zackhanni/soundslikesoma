@@ -1,7 +1,6 @@
 ---
 title: 'Philadelphia R&B Recording Studio'
 date: 2022-11-08
-image: '/blogs/noun_591323.png'
 description: Rhythm and blues is all about passionate and soulful vocals. Sounds Like Soma loves our R&B artists and would love to work with more amazing local artists
 tags: [music mastering, mastering, audio master]
 ---

@@ -1,7 +1,6 @@
 ---
 title: 'Mixing And Mastering Services'
 date: 2022-11-02
-image: '/services/default.png'
 description: Here at Sounds Like Soma we use our diverse knowledge and experience to transform your recorded tracks into a finished product ready for radio!
 tags: [studio,mixing,mastering,stems]
 ---

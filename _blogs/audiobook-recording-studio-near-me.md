@@ -1,6 +1,5 @@
 ---
 title: 'Audiobook Recording Studio Near Me'
-image: '/blogs/noun_591323.png'
 date: 2022-11-06
 description: Spoken-word audiobooks and voiceovers for TV and Movies have been around since the 1930s and are still widely listened to today. Do you listen?
 tags: [music mastering, mastering, audio master]

@@ -1,7 +1,6 @@
 ---
 title: 'Recording Studio Space For Rent'
 date: 2022-11-04
-image: '/services/noun_591323.png'
 description: Recording studio space for rent. Use HD audio equipment and condenser microphones to record yourself in a private room. Affordable prices - bulk discounts
 tags: [recording studio for rent, rent recording studio, music recording]
 ---
