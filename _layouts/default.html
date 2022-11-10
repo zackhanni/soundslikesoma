@@ -9,11 +9,16 @@
   {% endif %}
   {%if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' | escape }}"/>
   {%endif %}
- <!--  END -->
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="icon" href="{{site.baseurl}}/assets/images/favicon.webp">
   <link href="{{site.baseurl}}/assets/css/style.css" rel="stylesheet">
+
+  <!-- social media -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@somaaamusic" />
+
+<!-- google analitics-->
   {% include google-analytics.html %} 
 </head>
 <body class='page {{page.bodyClass}}'>
