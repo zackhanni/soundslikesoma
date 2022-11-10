@@ -7,7 +7,7 @@
   display: flex;
   justify-content: space-between;
   flex-direction: column;
-  align-items: flex-start;
+  align-items: center;
   @include media-breakpoint-up(sm) {
     justify-content: space-between;
     flex-direction: row;
@@ -15,7 +15,7 @@
   }
   .footer-title {
     color: #ffffff;
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     font-family: $font-family-heading;
     margin-bottom: 10px;
     flex: 0;
@@ -31,7 +31,7 @@
     li {
       display: block;
       margin-right: 10px;
-      font-size: 0.8rem;
+      font-size: 1rem;
       color: #ffffff;
       &:last-of-type {
         margin-right: 0;
@@ -68,7 +68,7 @@
     }
     @include media-breakpoint-up(md) {
       li {
-        font-size: 0.9rem;
+        font-size: .9rem;
       }
     }
   }
