@@ -6,15 +6,6 @@ description: What is mixing and mastering? Is your music properly mixed to a rad
 tags: [music mastering, mastering, audio master]
 ---
 
-<!-- social media -->
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:site" content="@somaaamusic" />
-<meta name="twitter:creator" content="@somaaamusic" />
-<meta property="og:url" content="https://www.soundslikesoma.com/blogs/what-is-mixing-mastering/" />
-<meta property="og:title" content="What Is Mixing vs Mastering?" />
-<meta property="og:description" content="Do you know the difference between music mixing & audio mastering? 🧐There may be overlap in technique, but they are distinctly different. Learn more by visiting our recording studio blog 🎙️🎛️" />
-<meta property="og:image" content="https://www.soundslikesoma.com/assets/images/music-mastering-equipment.webp" />
-
 Learn about the difference between mixing and mastering. It is common for people to get the 2 confused, but hopfully by the end of this you will have a stronger understanding of the difference.
 
 <img src="/assets/images/music-mastering-equipment.webp" alt="Mastering equipment in a rack case" style="width:80%;"/>
