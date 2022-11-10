@@ -12,7 +12,7 @@ Written by Zachary Hanni
 
 An audiobook, sometimes known as a talking book, is a recording of someone reading aloud from a book or other piece of writing. The term "unabridged" refers to a reading of the entire book, whereas the term "abridgements" refers to readings of reduced versions.
 
-Since the 1930s, spoken audio has been a feature of public and school libraries, as well as to a lesser extent, music stores. Before cassettes, CDs, and digital audio, a lot of spoken word records were produced, frequently featuring plays and poetry rather than novels. It wasn't until the 1980s that the format started to draw book stores, and after that, book retailers began putting audiobooks on bookshelves rather than in separate displays.
+Since the 1930s, spoken audio has been a feature of public and school libraries, as well as to a lesser extent, music stores. Before cassettes, CDs, and digital audio, a lot of spoken word records were produced, frequently featuring plays and poetry rather than novels. It wasn't until near the 1980s that the format started to draw book stores, and after that, book retailers began putting audiobooks on bookshelves rather than in separate displays.
 
 - - -
 
