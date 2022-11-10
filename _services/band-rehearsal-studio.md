@@ -1,5 +1,6 @@
 ---
 title: 'Band Rehearsal Studio'
+date: 2022-11-06
 image: '/services/default.png'
 description: Philadelphia's best hourly band rehearsal studio. Equipped with drums, amps, keyboards, vocal mics and other instruments - Sounds Like Soma 
 tags: [rehearsal studio,practice space,band rehearsal,instrument rental]
