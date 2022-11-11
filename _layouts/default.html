@@ -4,6 +4,10 @@
   <meta charset="utf-8">
   <title>{% if page.title %}{{page.title}}{% else %}{{ site.title | escape }}{% endif %}</title>
 
+  {% if page.socialmeta %}
+    {% include {{ page.socialmeta }} %}
+  {% endif %}
+
 <!--   meta tags for google -->
   {% if page.description %}<meta name="description" content="{{ page.description | escape }}">
   {% endif %}

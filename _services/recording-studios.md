@@ -1,6 +1,7 @@
 ---
 title: 'Recording Studios A & B'
 date: 2022-11-01
+socialmeta: meta-recordingstudios
 description: Enjoy a relaxed atmosphere and record through the amazing analog equipment at Sounds Like Soma Philadelphia recording studio
 tags: [recording studio near me, music studio, philadelphia recording studio]
 ---

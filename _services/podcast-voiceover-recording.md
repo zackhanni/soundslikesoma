@@ -1,6 +1,7 @@
 ---
 title: 'Podcast Recording Services'
 date: 2022-11-03
+socialmeta: meta-podcast
 description: Podcast studios for high-quality podcast recording! Equipped with crystal-clear SM7B Broadcast Microphones. Podcast video recordings available too!
 tags: [podcast,voiceover,audiobook,voice,recording]
 ---
