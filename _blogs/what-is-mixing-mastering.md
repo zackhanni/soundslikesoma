@@ -1,6 +1,7 @@
 ---
 title: 'What Is Mixing vs Mastering?'
 date: 2022-11-10
+socialmeta: meta-blog-wimm
 image: '/blogs/noun_591323.png'
 description: What is mixing and mastering? Is your music properly mixed to a radio-ready standard? Read to learn more!
 tags: [music mastering, mastering, audio master]
