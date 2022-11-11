@@ -22,7 +22,9 @@ Here at Sounds Like Soma we use our diverse knowledge and experience to transfor
 
 You’ll need to send equal length 24-bit .wav file stems in your native sample rate along with a reference demo mix to <a href="mailto:{{ site.data.contact.email }}">{{ site.data.contact.email }}</a>
 
-We recommend using <a href="https://wetransfer.com" target="WeTransfer Official Website">WeTransfer.com</a> to send large files to us for free. Alternatively, you are welcome to use <a href="https://www.dropbox.com/" target="DropBox Website">DropBox</a>, <a href="https://www.google.com/drive/" target="Google Drive Website">Google Drive</a>, or bring in a portable hard drive.
+We recommend using <a href="https://wetransfer.com" target="WeTransfer Official Website">WeTransfer.com</a> to send large files to us for free. Alternatively, you are welcome to use DropBox, Google Drive, or bring in a portable hard drive.
+
+Want to learn more about mixing music? <a href="/blogs/what-is-mixing-mastering" target="Learn more about mixing and mastering">Check out the soma blog</a> to find out more
 
 <div style="overflow: auto;">
   <a target="_blank" href="https://checkout.square.site/buy/YXBZX5MSKEH53EPQAHZOQNQ7?src=embed" style="
@@ -42,15 +44,17 @@ We recommend using <a href="https://wetransfer.com" target="WeTransfer Official 
   ">Buy Mix & Master</a>
 </div>
 
- - - -
-
-## Song Mastering
+- - -
 
 <img src="/assets/images/music-mastering-equipment.webp" alt="mastering equipment" style="width:80%;"/>
+
+## Song Mastering
 
 If you have a fully mixed song that you're ready to get mastered to radio-ready standards
 
 We work with you to get your best overall tone and balance on your recodings. We will communicate with you if we feel there are issues with your mix before we proceed with the mastering process.
+
+Unsure if mastering is the best next step for your project? <a href="/blogs/what-is-mixing-mastering" target="Learn more about mixing and mastering">Learn about the difference between mixing & mastering</a> in our new Soma blog posts where we take you on an in-depth comparison about the similarities and differences between the 2.
 
 - $45 Mastering Only
 
@@ -58,7 +62,7 @@ We work with you to get your best overall tone and balance on your recodings. We
 
 A 24bit stereo .wav audio file with 1db or more of headroom to <a href="mailto:{{ site.data.contact.email }}">{{ site.data.contact.email }}</a>
 
-We Recommend using <a href="https://wetransfer.com" target="WeTransfer Official Website">WeTransfer</a>, <a href="https://www.dropbox.com/" target="DropBox Website">DropBox</a>, or <a href="https://www.google.com/drive/" target="Google Drive Website">Google Drive</a> to send large files to us for free.
+We Recommend using <a href="https://wetransfer.com" target="WeTransfer Official Website">WeTransfer</a>, DropBox, or Google Drive to send large files to us for free.
 
 <div style="overflow: auto;">
   <a target="_blank" href="https://checkout.square.site/buy/K6HZWJV3BLN6OBWZXUNGG72Y?src=embed" style="
