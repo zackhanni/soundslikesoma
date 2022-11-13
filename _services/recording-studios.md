@@ -56,7 +56,7 @@ With Engineer Gage Bingham
 - Custom Beat Production
 - <a href="/services/gearlist/" target="Gear List">State-Of-The-Art Audio Equipment</a>
  
-Studio B is an intimate recording space with a strong red glow throughout. This private music studio is also a sound treated, rentable space for producers which includes 10'' speakers that BUMP when you need them to.
+Studio B is an intimate recording space with a strong red glow throughout. This private **sound studio** is also a treated, rentable space for producers which includes 10 inch speakers that BUMP when you need them to.
 
 All Sessions booked will be run by engineer Gage Bingham, who is ready to professionally track and mix your song for radio and all digital streaming platforms.
 
@@ -80,10 +80,10 @@ All Sessions booked will be run by engineer Gage Bingham, who is ready to profes
 
 - - -
 
-## Don't need one of our engineers?
+## Or.. Rent Our Recording Rooms
 Bring your own computer and record yourself - <a href="/services/rent-studio-space/" target="Rent our studio spaces">Rent Recording Studio C</a>
 
-We have all of the equipment you need from speakers, interface, microphones, and even keyboards, synthesizers, and drum pads for music producers and beatmakers!
+We have all of the equipment you need from speakers, interface, microphones, and even keyboards, synthesizers, and drum pads for music producers and beat makers! Our **recording spaces** are designed to be flexible to your musical needs.
 
 When you complete recording, maybe you'll need a second pair of ears on it. Consider contacting one of our engineers to discuss moving forward with getting it touched up.
 
@@ -93,7 +93,7 @@ When you complete recording, maybe you'll need a second pair of ears on it. Cons
 
 **Can I book a day session?**
 
-A full day session is a 10 hour block with a discount on the price -buy 9 hours and get 1 free. Make sure you maximize your time by planning ahead. We are going to have a lot of time to get to work!
+A full day session is a 10 hour block with a discount on the price. Buy 9 hours and get 1 free in any of our recording rooms. Make sure you maximize your time by planning ahead. We are going to have a lot of time to get to work!
 
 **How late can you record?**
 
