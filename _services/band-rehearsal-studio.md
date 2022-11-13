@@ -4,11 +4,11 @@ date: 2022-11-06
 description: Philadelphia's best hourly band rehearsal studio. Equipped with drums, amps, keyboards, vocal mics and other instruments - Sounds Like Soma 
 tags: [rehearsal studio,practice space,band rehearsal,instrument rental]
 ---
-Philadelphia's Best Hourly Band Rehearsal Studio. Equipped With Drums, Amps, Keyboards, Vocal Mics And More.
+Philadelphia's Best Hourly Band Rehearsal Studio Near Me. Equipped With Drums, Amps, Keyboards, Vocal Mics And More.
 
 <img src="/assets/images/band-rehearsal-guitar.webp" title="Guitar Player In Band Rehearsal" alt="Guitar player in band rehearsal" style="width:80%;"/>
 
-## Studio D - Live Room for Rehearsals
+## Studio D - Live Room - Music Practice Rooms
 
 What's Included:
 
@@ -22,7 +22,7 @@ What's Included:
 
 Optional Add-ons:
 
-- Audio Recording Band rehearsal - with 1 quality omni condenser room mic for a great sounding song demo or live jam!
+- Audio Recording Band rehearsal - with 1 quality omni-condenser room mic for a great sounding song demo or live jam!
 - Have an engineer there to help you set up and stays with you the entire session to assist
 - Professionally recorded **band** practice - every instrument is properly tracked out into stems
 
@@ -77,13 +77,13 @@ As long as the studio space is available, you can always add more time to an alr
 
 **Are there any noise issues?**
 
-The building and room are insulated so there are little to no noise issues from neighbors. We do ask that people schedule in advance for rehearsal time to avoid the occasional studio noise conflicts. For some podcasts or audiobook recordings, we will make the rehearsal space unavailable to book to avoid any background noise creeping into the recordings. 
+The building and room are insulated so there are little to no noise issues from neighbors. We do ask that people schedule in advance for rehearsal time to avoid the occasional studio noise conflicts. For some podcasts or audio book recordings, we will make the rehearsal space unavailable to book to avoid any background noise creeping into the recordings. 
 
 - - -
 
 We are excited to work with you. Please let us know if you have any questions regarding how booking rehearsals works.
 
-If your band is searching for - music rehearsal or practice space near me, look no further!  Our Live room, Studio D, is the perfect place to jam out with lots of instruments and live sound equipment to use. If you have any Special requests or need a specific configuration to your setup, just heat us know ahead of time.
+If your band is searching for - **rehearsal space or music practice rooms near me**, look no further!  Our Live room, Studio D, is the perfect place to jam out with lots of instruments and live sound equipment to use. If you have any special requests or need a specific configuration to your setup, just heat us know ahead of time and we will do everything we can to have it ready.
 
 - - -
 
