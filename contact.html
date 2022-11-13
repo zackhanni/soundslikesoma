@@ -30,17 +30,33 @@ tags: [contact,phone,email,text,location,availability,hours,]
         {% if site.data.contact.address %}
         <li><strong>Address: </strong><a href="https://g.page/soundslikesoma?share">{{ site.data.contact.address }}</a></li>
         {% endif %}
-        
-        <br>
-        <h2>Social Media</h2>
-
-        <li><strong>TikTok </strong><a href="{{ site.data.social.tiktok }}">
-                {{ site.data.social.tiktok }}</a></li>
-        <li><strong>Instagram </strong><a href="{{ site.data.social.instgram }}">
-                {{ site.data.social.instagram }}</a></li>
-        <li><strong>Youtube </strong><a href="{{ site.data.social.youtube }}">
-                {{ site.data.social.youtube }}</a></li>
       </ul>
+      <ul>
+        <h2>Social Media</h2>
+        <li style="display:inline">
+          <a href="{{ site.data.social.facebook }}"><img src="/assets/images/social-icons/facebook.png" alt="facebook logo" style="width:45px; height:45px"></a>
+        </li>
+        <li style="display:inline">
+          <a href="{{ site.data.social.tiktok }}"><img src="/assets/images/social-icons/tiktok.png" alt="tiktok logo" style="width:45px; height:45px"></a>
+        </li>
+        <li style="display:inline">
+          <a href="{{ site.data.social.instagram }}"><img src="/assets/images/social-icons/instagram.png" alt="instagram logo" style="width:45px; height:45px"></a>
+        </li>
+        <li style="display:inline">
+          <a href="{{ site.data.social.youtube }}"><img src="/assets/images/social-icons/youtube.png" alt="youtube logo" style="width:45px; height:45px"></a>
+        </li>
+        <li style="display:inline">
+          <a href="{{ site.data.social.twitter }}"><img src="/assets/images/social-icons/twitter.png" alt="twitter logo" style="width:45px; height:45px"></a>
+        </li>
+        <li style="display:inline">
+          <a href="{{ site.data.social.linkedin }}"><img src="/assets/images/social-icons/linkedin.png" alt="linkedin logo" style="width:45px; height:45px"></a>
+        </li>
+      </ul>
+
+
+
+
+
       <br>
       <div class="call-box-bottom">
         <a href="{{site.baseurl}}/book-now/" class="button">Book A Session Today</a>
