@@ -1,12 +1,13 @@
 ---
-title: 'Podcast Recording Services'
+title: 'Podcasts'
+titleh1: 'Podcast Recording Studio Near Me'
 date: 2022-11-03
 socialmeta: meta-podcast
 description: Podcast studios for high-quality podcast recording! Equipped with crystal-clear SM7B Broadcast Microphones. Podcast video recordings available too!
 tags: [podcast rooms,voiceover,audiobook,voice,recording]
 ---
 
-Podcast studios for high-quality podcast recording! Equipped with crystal-clear SM7B Broadcast Microphones. Podcast video recordings available too! Book an in-person or remote recording and post-production studio session.
+Podcast studios for high-quality podcast recording! Equipped with crystal-clear SM7B Broadcast Microphones. Podcast video recordings available too! Book an in-person or remote recording and post-production studio session. 
 
 <img src="/assets/images/podcast-recording-studio-philadelphia.webp" title="Group Podcast Recording" alt="Group Podcast Recording" style="width:80%;"/>
 
@@ -52,7 +53,7 @@ Optional Add-ons:
 
 <!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #0072ee; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://checkout.square.site/merchant/9VYHXDGP33NTC/checkout/WHZBQ3NKJAKAXEBI3SVCUC5B?src=embed">Book Video Podcast/Livestream</a> <!-- End Square Appointments Embed code -->
 
-<img src="/assets/images/studio-mixing-music-mastering.webp" title="Post Production Podcast Editing" alt="Post Production Podcast Editing" style="width:80%;"/>
+<img src="/assets/images/studio-mixing-music-mastering.webp" title="Post Production Podcast Editing near me" alt="Post Production Podcast Editing near me" style="width:80%;"/>
 
 ## Post Production and Podcast Editing Services
 

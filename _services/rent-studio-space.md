@@ -1,10 +1,11 @@
 ---
-title: 'Recording Studio Space For Rent'
+title: 'Rent Studio Space'
+titleh1: 'Rentable Music Studio Space'
 date: 2022-11-04
 description: Recording studio space for rent. Use HD audio equipment and condenser microphones to record yourself in a private room. Affordable prices - bulk discounts
 tags: [recording studio for rent, rent recording studio, music recording]
 ---
-Recording studio space for rent. Use HD audio equipment and condenser microphones to record yourself in a private room. Affordable prices with bulk discounts.
+Rent a music studio. Utilize HD audio equipment and condenser microphones to record yourself in a private room. Affordable prices with bulk discounts.
 
 <img src="/assets/images/rent-recording-studio-near-me.webp" title="Recording Studio For Rent" alt="Studio Desk With Interface and Speakers" style="width:80%;"/>
 
@@ -17,7 +18,7 @@ Recording studio space for rent. Use HD audio equipment and condenser microphone
 
 What's Included:
 - Studio Desk with TV and Studio Monitors
-- Vocal Booth Area with Condencer Microphones
+- Vocal Booth Area with Condenser Microphones
 - Clarett 8 Pre USB - Audio Interface
 - MIDI Keyboards and Synthesizers
 - Electronic Drum Kit and Other Instruments to Make Beats
@@ -26,7 +27,7 @@ What's Included:
 - - -
 **Engineer And Computer Not Included**
 
-<a href="{{site.baseurl}}/contact/">Contact Zack in Studio A</a> before booking your studio rental to lock-in your desiered date and time.
+<a href="{{site.baseurl}}/contact/">Contact Zack in Studio A</a> before booking your studio rental to lock-in your desired date and time.
 
 <div style="overflow: auto;">
   <a target="_blank" href="https://checkout.square.site/buy/ONTA6ABV475VPA7B4JGXLCA5?src=embed" style="
@@ -68,7 +69,7 @@ There will always be 2 speakers, an audio interface, and a microphone there for 
 
 Feel free to bring any additional equipment that you feel comfortable with using. If you are worried about compatibility problems, someone will always be there at the start of your session to make sure everything is set up correctly.
 
-**Will people be walking in and out of the room while i'm working?**
+**Will people be walking in and out of the room while I'm working?**
 
 No, this is a private room with its own entrance and bathroom. The only time someone will walk in is if you request help or there is some kind of emergency.
 
@@ -82,6 +83,6 @@ We designed this space for all-in-one artists who want to record themselves, or 
 
 - - -
 
-This space is designed to be an option for those on a budget or who may not be able to record at their own home studio. Music **studio space for rent near me**. Check out a wider view of the entier room below. It is enough to also fit a drum kit and several additional guests.
+This space is designed to be an option for those on a budget or who may not be able to record at their own home studio. Music **studio space for rent near me**. Check out a wider view of the entire room below. It is enough to also fit a drum kit and several additional guests.
 
 <img src="/assets/images/recording-studio-for-rent.webp" title="Wide shot of studio C" alt="recording studio desk, speakers and microphone" style="width:80%;"/>
