@@ -1,5 +1,5 @@
 ---
-title: 'Mixing And Mastering Services'
+title: 'Mixing And Mastering'
 titleh1: 'Mixing And Mastering Services'
 date: 2022-11-02
 socialmeta: meta-mixmaster

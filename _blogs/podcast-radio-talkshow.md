@@ -1,5 +1,6 @@
 ---
-title: 'Philadelphia Podcast Recording Studio'
+title: 'Local Podcast Recording'
+titleh1: 'Philadelphia Podcast Recording Studio'
 date: 2022-11-07
 image: '/blogs/noun_591323.png'
 description: Recently, our head engineer Zack was featured on an episode of The Podcast Engineering School Podcast. Take a listen if you love podcast recording!

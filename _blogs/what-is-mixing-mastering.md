@@ -1,5 +1,6 @@
 ---
 title: 'What Is Mixing vs Mastering?'
+titleh1: 'What Is Mixing vs Mastering?'
 date: 2022-11-10
 socialmeta: meta-blog-wimm
 image: '/blogs/noun_591323.png'
