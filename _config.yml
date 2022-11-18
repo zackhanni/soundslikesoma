@@ -46,6 +46,6 @@ plugins:
   - jekyll-environment-variables
 
 
-url: "https://soundslikesoma.com" # the base hostname & protocol for your site
+url: "https://www.soundslikesoma.com" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
