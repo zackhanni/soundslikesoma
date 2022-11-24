@@ -1,0 +1,129 @@
+---
+layout: default
+bodyClass: "page-home"
+---
+<!-- schema -->
+{% include index-schema.html %}
+
+<div class="intro">
+  <div class="container">
+    <div class="row justify-content-start">
+      <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
+        {{ content }}
+        {% if page.show_call_box %}
+          {% include call.html show_button=true %}
+        {% endif %}
+      </div>
+      {% if page.intro_image %}
+      <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
+        <img alt="{{ page.title }}" class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relURL }}" />
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+<!-- services -->
+<div class="strip">
+  <div class="container pt-6 pb-6 pb-md-10">
+    <div class="row justify-content-start">
+      {% assign limit = site.home.limit_services | default: 6 %}
+      {% for service in site.services limit: limit %}
+      <div class="col-12 col-md-4 mb-1">
+        <div class="service service-summary">
+          <div class="service-content">
+            <h2 class="service-title">
+              <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+            </h2>
+            <p>{{ service.content | markdownify | strip_html | truncate: 140 }}</p>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-auto">
+        <a class="button button-primary" href="{{ "services" | relative_url }}">View All Services</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- homepage image -->
+<div style="text-align: center;">
+  <img src="/images/best-philadelphia-recording-studio.webp" title="Music Studios A" alt="Philadelphia Recording Studio with Purple Lights" style="width:100%; max-width: 500px;">
+</div>
+
+<!-- blogs -->
+<div class="strip">
+  <div class="container pt-6 pb-6 pb-md-10">
+    <div class="row justify-content-start">
+      {% assign limit = site.home.limit_blogs | default: 6 %}
+      {% for blog in site.blogs limit: limit %}
+      <div class="col-12 col-md-4 mb-1">
+        <div class="service service-summary">
+          <div class="service-content">
+            <h2 class="service-title">
+              <a href="{{ service.url | relative_url }}">{{ blog.title }}</a>
+            </h2>
+            <p>{{ blog.content | markdownify | strip_html | truncate: 110 }}</p>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-auto">
+        <a class="button button-primary" href="{{ "blogs" | relative_url }}">View All Blogs</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- features -->
+{% if site.data.features %}
+<div class="strip strip-grey">
+  <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
+    <div class="row justify-content-center">
+      {% for feature in site.data.features %}
+      <div class="col-12 col-md-6 col-lg-4 mb-2">
+        <div class="feature">
+          {% if feature.image %}
+          <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image.url | relative_url }}" width="{{ feature.image.width }}" height="{{ feature.image.height }}" /></div>
+          {% endif %}
+          <h2 class="feature-title">{{ feature.title }}</h2>
+          <div class="feature-content">{{ feature.description }}</div>
+        </div>
+      </div>
+      {% endfor %}
+
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<!-- i need to learn to fix hr color routing with scss -->
+<hr hr color="#353535">
+<div>
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-10 text-center">
+        <h2 style="color: #e5261f;">FAQ</h2>
+
+        <p><strong>How long have you been at this location?</strong></p>
+        <p>The recording studio has been located at its South Philadelphia, Point Breeze location since 2017. There have been several studio moves in the past. We have been in Tennessee, NJ and other parts of Philadelphia before finding a long-term home in South Philly.</p>
+        <p><strong>How long have you been recording and mixing music?</strong></p>
+        <p>The head Engineer Zack has over 15 years of experience working with all genres of music from country & bluegrass, to Hip-hop, Rap and R&B. Having a diverse background in recording is what makes our <strong>music studios</strong> stand out among some of the others nearby</p>
+        <p><strong>Have you worked with any famous artists?</strong></p>
+        <p>Pop artists like Charli XCX, Rock bands like Cage the Elephant, Funk bands like Parliament Funkadelic, R&B artists like Jacob Banks, Electronic labels and artists like Mau5trap Records and Kindrid, Hip-Hop aritsts like Sean Smith, Bamahadia, Alt rock bands like Shamir, Nasty Cherry, and many more that we do not have the room to fit here! </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- homepage image2 -->
+<hr hr color="#353535">
+<div style="text-align: center;">
+  <img src="/images/philadelphia-recording-studio.webp" title="Philadelphia Recording Studio Near Me" alt="alt description" style="width:100%; max-width: 500px;">
+</div>

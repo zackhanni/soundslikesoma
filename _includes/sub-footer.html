@@ -1,19 +1,14 @@
-<div class="sub-footer-strip">
+<div class="sub-footer">
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <div class="sub-footer">
-          <ul>
-            <li>Studio A (Zack): <a href="tel:{{ site.data.contact.phone }}" aria-label="8 5 6. 2 9 8. 3 0 9 5.">
-                {{ site.data.contact.phone }}</a></li>
-            <li>Studio B (Gage): <a href="tel:{{ site.data.contact.phone2 }}" aria-label="2 1 5. 6 0 1. 9 5 0 9.">
-                {{ site.data.contact.phone2 }}</a></li>
-            <li>Email: <a href="mailto:{{ site.data.contact.email }}">
-                {{ site.data.contact.email }}</a></li>
-          </ul>
-<!--           <ul>
-            <li class="copyright"><a href="https://www.soundslikesoma.com/">© {{site.footer}} {{site.time | date:'%Y'}}</a></li>
-          </ul> -->
+        <div class="sub-footer-inner">
+          {% if site.data.social %}
+            {% include social.html %}
+          {% endif %}
+          {% if site.data.seo.copyright_text %}
+          <div class="copyright">{{ site.data.seo.copyright_text }}</div>
+          {% endif %}
         </div>
       </div>
     </div>

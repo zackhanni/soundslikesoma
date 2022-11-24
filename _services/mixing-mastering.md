@@ -1,6 +1,7 @@
 ---
 title: 'Mixing And Mastering'
-titleh1: 'Mixing And Mastering Services'
+title-h1: 'Mixing And Mastering Services'
+weight: 2
 date: 2022-11-02
 socialmeta: meta-mixmaster
 description: Here at Sounds Like Soma we use our diverse knowledge and experience to transform your recorded tracks into a finished product ready for radio!
@@ -8,7 +9,7 @@ tags: [studio,mixing,mastering,stems]
 ---
 Here at Sounds Like Soma we use our diverse knowledge and experience to transform your recorded tracks into a finished product ready for radio!
 
-<img src="/assets/images/studio-mixing-music-mastering.webp" alt="mastering studio" style="width:80%;"/>
+<img src="/images/services/studio-mixing-music-mastering.webp" alt="mastering studio" style="width:80%;"/>
 
 ## Music Mixing
 
@@ -27,27 +28,11 @@ We recommend using <a href="https://wetransfer.com" target="WeTransfer Official 
 
 Want to learn more about mixing music? <a href="/blogs/what-is-mixing-mastering" target="Learn more about mixing and mastering">Check out the soma blog</a> to find out more
 
-<div style="overflow: auto;">
-  <a target="_blank" href="https://checkout.square.site/buy/YXBZX5MSKEH53EPQAHZOQNQ7?src=embed" style="
-    display: inline-block;
-    font-family: Helvetica, Arial, sans-serif;
-    font-size: 18px;
-    line-height: 38px;
-    height: 40px;
-    padding-left: 48px;
-    padding-right: 48px;
-    color: #ffffff;
-    min-width: 165px;
-    background-color: #0072ee;
-    border-radius: 4px;
-    text-align: center;
-    box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
-  ">Buy Mix & Master</a>
-</div>
+<p>{% include booking-buttons/mix-master.html %}</p>
 
 - - -
 
-<img src="/assets/images/music-mastering-equipment.webp" alt="mastering equipment" style="width:80%;"/>
+<img src="/images/services/music-mastering-equipment.webp" alt="mastering equipment" style="width:80%;"/>
 
 ## Song Mastering
 
@@ -65,23 +50,7 @@ A 24bit stereo .wav audio file with 1db or more of headroom to <a href="mailto:{
 
 We Recommend using <a href="https://wetransfer.com" target="WeTransfer Official Website">WeTransfer</a>, DropBox, or Google Drive to send large files to us for free.
 
-<div style="overflow: auto;">
-  <a target="_blank" href="https://checkout.square.site/buy/K6HZWJV3BLN6OBWZXUNGG72Y?src=embed" style="
-    display: inline-block;
-    font-family: Helvetica, Arial, sans-serif;
-    font-size: 18px;
-    line-height: 38px;
-    height: 40px;
-    padding-left: 48px;
-    padding-right: 48px;
-    color: #ffffff;
-    min-width: 165px;
-    background-color: #0072ee;
-    border-radius: 4px;
-    text-align: center;
-    box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
-  ">Buy Mastering</a>
-</div>
+<p>{% include booking-buttons/mastering.html %}</p>
 
 - - -
 

@@ -1,13 +1,14 @@
 ---
 title: 'Band Rehearsals'
-titleh1: 'Band Rehearsal Studio Near Me'
+title-h1: 'Band Rehearsal Studio Near Me'
+weight: 6
 date: 2022-11-06
 description: Philadelphia's best hourly band rehearsal studio. Equipped with drums, amps, keyboards, vocal mics and other instruments - Sounds Like Soma 
 tags: [rehearsal studio,practice space,band rehearsal,instrument rental]
 ---
 Philadelphia's Best Hourly Band Rehearsal Studio Near Me. Equipped With Drums, Amps, Keyboards, Vocal Mics And More.
 
-<img src="/assets/images/band-rehearsal-guitar.webp" title="Guitar Player In Band Rehearsal" alt="Guitar player in band rehearsal" style="width:80%;"/>
+<img src="/images/services/band-rehearsal-guitar.webp" title="Guitar Player In Band Rehearsal" alt="Guitar player in band rehearsal" style="width:80%;"/>
 
 ## Studio D - Live Room - Music Practice Rooms
 
@@ -41,7 +42,7 @@ Book a space to rehearse for your next big performance, or just jam out in our l
   justify-content: flex-end;
   align-items: center;
   width: 259px;
-  background: #FFFFFF;
+  background: #000000;
   font-family: SQ Market, SQ Market, Helvetica, Arial, sans-serif;
   ">
   <div style="padding: 20px;">
@@ -60,7 +61,7 @@ Book a space to rehearse for your next big performance, or just jam out in our l
   </div>
 </div>
 
-<img src="/assets/images/studio-drum-practice-rehearsal.webp" title="Recording Drum Practice" alt="Recording Drum Practice" style="width:80%;"/>
+<img src="/images/services/studio-drum-practice-rehearsal.webp" title="Recording Drum Practice" alt="Recording Drum Practice" style="width:80%;"/>
 
 ## Rehearsal FAQ
 
@@ -88,4 +89,4 @@ If your band is searching for - **rehearsal space or music practice rooms near m
 
 - - -
 
-<img src="/assets/images/band-rehearsal-group.webp" title="Group Band Rehearsal Studio" alt="Band with drums, bass, and guitar rehearsing" style="width:80%;"/>
+<img src="/images/services/band-rehearsal-group.webp" title="Group Band Rehearsal Studio" alt="Band with drums, bass, and guitar rehearsing" style="width:80%;"/>

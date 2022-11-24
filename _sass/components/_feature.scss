@@ -1,8 +1,9 @@
 .feature {
   height: 100%;
-  border: 2px solid #eaeaea;
+  border: 1px solid $white-offset;
+  border-radius: 3px;
   padding: 20px;
-  background-color: #000000;
+  background-color: $soma-white;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -16,29 +17,15 @@
     text-align: center;
   }
   img {
-    width: 125%;
-    height: 125%;
+    width: 100%;
+    height: auto;
   }
   .feature-title {
-    font-size: 1.5rem;
-    font-weight: 300;
-    line-height: 1.2;
+    color: $soma-black;
   }
   .feature-content {
+    color: $soma-black;
     margin-bottom: 0;
     margin-top: auto;
-    p {
-      margin: 0;
-      strong {
-        color: $secondary;
-        text-transform: uppercase;
-        font-size: 0.8rem;
-        font-weight: 700;
-      }
-      em {
-        color: $primary;
-        font-style: normal;
-      }
-    }
   }
 }

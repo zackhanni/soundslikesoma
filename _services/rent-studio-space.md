@@ -1,13 +1,14 @@
 ---
 title: 'Rent Studio Space'
-titleh1: 'Rentable Music Studio Space'
+title-h1: 'Rentable Music Studio Space'
+weight: 4
 date: 2022-11-04
 description: Recording studio space for rent. Use HD audio equipment and condenser microphones to record yourself in a private room. Affordable prices - bulk discounts
 tags: [recording studio for rent, rent recording studio, music recording]
 ---
 Rent a music studio. Utilize HD audio equipment and condenser microphones to record yourself in a private room. Affordable prices with bulk discounts.
 
-<img src="/assets/images/rent-recording-studio-near-me.webp" title="Recording Studio For Rent" alt="Studio Desk With Interface and Speakers" style="width:80%;"/>
+<img src="/images/services/rent-recording-studio-near-me.webp" title="Recording Studio For Rent" alt="Studio Desk With Interface and Speakers" style="width:80%;"/>
 
 ## Rent Studio C
 
@@ -29,23 +30,7 @@ What's Included:
 
 <a href="{{site.baseurl}}/contact/">Contact Zack in Studio A</a> before booking your studio rental to lock-in your desired date and time.
 
-<div style="overflow: auto;">
-  <a target="_blank" href="https://checkout.square.site/buy/ONTA6ABV475VPA7B4JGXLCA5?src=embed" style="
-    display: inline-block;
-    font-family: Helvetica, Arial, sans-serif;
-    font-size: 18px;
-    line-height: 38px;
-    height: 40px;
-    padding-left: 48px;
-    padding-right: 48px;
-    color: #ffffff;
-    min-width: 165px;
-    background-color: #000000;
-    border-radius: 4px;
-    text-align: center;
-    box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
-  ">Book Studio C</a>
-</div>
+<p>{% include booking-buttons/studio-c.html %}</p>
 
 - - -
 
@@ -55,7 +40,7 @@ What's Included:
 
 <a href="/services/recording-studios/" target="Studio B">Studio B</a> is also available to rent out when it is not actively in-use by one of our engineers. You will have to <a href="/contact/" target="Contact us">contact one of our staff</a>  to discuss availability and booking options. It has even better equipment - powerful speakers, better acoustics, and a more comfortable, professional looking recording area.
 
-<img src="/assets/images/music-mixing-studio-b.webp" title="Mixing music with Shamir" alt="Music Mixing Console" style="width:80%;"/>
+<img src="/images/services/music-mixing-studio-b.webp" title="Mixing music with Shamir" alt="Music Mixing Console" style="width:80%;"/>
 
 - - -
 
@@ -85,4 +70,4 @@ We designed this space for all-in-one artists who want to record themselves, or 
 
 This space is designed to be an option for those on a budget or who may not be able to record at their own home studio. Music **studio space for rent near me**. Check out a wider view of the entire room below. It is enough to also fit a drum kit and several additional guests.
 
-<img src="/assets/images/recording-studio-for-rent.webp" title="Wide shot of studio C" alt="recording studio desk, speakers and microphone" style="width:80%;"/>
+<img src="/images/services/recording-studio-for-rent.webp" title="Wide shot of studio C" alt="recording studio desk, speakers and microphone" style="width:80%;"/>

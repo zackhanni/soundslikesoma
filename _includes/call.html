@@ -1,0 +1,19 @@
+<div class="call">
+  <div class="call-box-top">
+    {% if site.data.contact.phone %}
+        <div class="call-phone"><strong>Phone: </strong><a href="tel:{{ site.data.contact.phone }}">
+          {{ site.data.contact.phone }}</a>
+        </div>
+    {% endif %}
+    {% if site.data.contact.email %}
+    <div class="call-email"><strong>Email: </strong>
+      <a href="mailto:{{ .site.data.contact.email }}" aria-label="8 5 6. 2 9 8. 3 0 9 5."> {{ site.data.contact.email }}</a>
+    </div>
+    {% endif %}
+  </div>
+    {% if include.show_button %}
+      <div class="call-box-bottom">
+        <a href="{{ site.baseurl }}{{ site.data.contact.contact_button_link }}" class="button">Book A Session</a>
+      </div>
+    {% endif %}
+</div>

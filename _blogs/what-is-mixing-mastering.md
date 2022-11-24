@@ -1,6 +1,6 @@
 ---
 title: 'What Is Mixing vs Mastering?'
-titleh1: 'What Is Mixing vs Mastering?'
+title-h1: 'What Is Mixing vs Mastering?'
 date: 2022-11-10
 socialmeta: meta-blog-wimm
 image: '/blogs/noun_591323.png'
@@ -10,7 +10,7 @@ tags: [music mastering, mastering, audio master]
 
 Learn about the difference between mixing and mastering. It is common for people to get the 2 confused, but hopfully by the end of this you will have a stronger understanding of the difference.
 
-<img src="/assets/images/music-mastering-equipment.webp" alt="Mastering equipment in a rack case" style="width:80%;"/>
+<img src="/images/services/music-mastering-equipment.webp" alt="Mastering equipment in a rack case" style="width:80%;"/>
 
 ## What is mixing?
 
@@ -46,4 +46,4 @@ For details on <a href="/services/mixing-mastering/" target="More Info">pricing 
 
 - - -
 
-<img src="/assets/images/studio-mixing-session.webp" alt="2 artists working with an audio engineer" style="width:80%;"/>
+<img src="/images/blogs/studio-mixing-session.webp" alt="2 artists working with an audio engineer" style="width:80%;"/>

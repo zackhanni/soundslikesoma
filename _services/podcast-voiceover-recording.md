@@ -1,6 +1,7 @@
 ---
 title: 'Podcasts'
-titleh1: 'Podcast Recording Studio Near Me'
+title-h1: 'Podcast Recording Studio Near Me'
+weight: 3
 date: 2022-11-03
 socialmeta: meta-podcast
 description: Podcast studios for high-quality podcast recording! Equipped with crystal-clear SM7B Broadcast Microphones. Podcast video recordings available too!
@@ -9,7 +10,7 @@ tags: [podcast rooms,voiceover,audiobook,voice,recording]
 
 Podcast studios for high-quality podcast recording! Equipped with crystal-clear SM7B Broadcast Microphones. Podcast video recordings available too! Book an in-person or remote recording and post-production studio session. 
 
-<img src="/assets/images/podcast-recording-studio-philadelphia.webp" title="Group Podcast Recording" alt="Group Podcast Recording" style="width:80%;"/>
+<img src="/images/services/podcast-recording-studio-philadelphia.webp" title="Group Podcast Recording" alt="Group Podcast Recording" style="width:80%;"/>
 
 ## Podcast Rooms
 
@@ -25,7 +26,7 @@ Optional add-ons:
 - Intro + outro music, Sound Effects, and Commercial Ad Breaks
 - Adding metadata and uploading to streaming platforms like Spotify, Apple Music, Zen Castr, etc.
 
-<!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #0072ee; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://squareup.com/appointments/book/52758083-5a1a-4b2d-a710-6687d1641594/8GNV6PJ8WK7YH/services">Book A Podcast</a> <!-- End Square Appointments Embed code -->
+<p>{% include booking-buttons/podcast.html %}</p>
 
 - - -
 
@@ -51,9 +52,9 @@ Optional Add-ons:
 
 **Please contact us about scheduling, questions, or any price estimates**
 
-<!-- Start Square Appointments Embed code --> <a target="_top" style=" background-color: #0072ee; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://checkout.square.site/merchant/9VYHXDGP33NTC/checkout/WHZBQ3NKJAKAXEBI3SVCUC5B?src=embed">Book Video Podcast/Livestream</a> <!-- End Square Appointments Embed code -->
+<p>{% include booking-buttons/podcast-video.html %}</p>
 
-<img src="/assets/images/studio-mixing-music-mastering.webp" title="Post Production Podcast Editing near me" alt="Post Production Podcast Editing near me" style="width:80%;"/>
+<img src="/images/services/studio-mixing-music-mastering.webp" title="Post Production Podcast Editing near me" alt="Post Production Podcast Editing near me" style="width:80%;"/>
 
 ## Post Production and Podcast Editing Services
 
@@ -87,8 +88,6 @@ We are able to travel for podcasts, interviews, and live broadcasting events upo
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/1iBOPm1Dr2Y5UEAHwwIldg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/2udNwNkHM7RWpT3DbCh9aT?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/66YG6uMCvQzRkceeNksnVy?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - - -
 

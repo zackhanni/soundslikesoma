@@ -1,6 +1,7 @@
 ---
-title: 'Recording Studios A & B'
-titleh1: 'Music Recording Studios'
+title: "Recording Studios A & B"
+title-h1: 'Music Recording Studios'
+weight: 1
 date: 2022-11-01
 socialmeta: meta-recordingstudios
 description: Enjoy a relaxed atmosphere and record through the amazing analog equipment at Sounds Like Soma Philadelphia recording studio
@@ -8,7 +9,7 @@ tags: [recording studio near me, music studio, philadelphia recording studio]
 ---
 World-class recording and professional mixing studio. Get your next music project completed by our Philly team with state-of-the-art audio equipment! 
 
-<img src="/assets/images/best-philadelphia-recording-studio.webp" title="Recording Studio with Keyboards and Sperkers" alt="Recording Studio with Keyboards and Sperkers" style="width:80%;"/>
+<img src="/images/services/best-philadelphia-recording-studio.webp" title="Recording Studio with Keyboards and Sperkers" alt="Recording Studio with Keyboards and Sperkers" style="width:80%;"/>
 
 ## Studio A
 With Head Engineer Zack Hanni
@@ -26,30 +27,16 @@ If you want the best Sounds Like Soma has to offer, Studio A has what you need.
 
 No matter if you are a full band, solo artist, or need instrumentals produced for you, Studio A is ready for your most important projects. Come and see why we're called one of the best music studios in Philly
 
-**We require deposits up front in order to reserve all studio spaces**
+> **please note:** We require deposits up front in order to reserve all studio spaces. Follow the link below to pay and schedule a session, or <a href="/team/" target="Our Team of Audio Engineers">contact one of our engineers</a> directly to arrange a time to record.
 
-<!-- Start Square Appointments Embed code -->
-<a style=" 
-background-color: #0072ee; 
-color: white; 
-height: 40px; 
-text-transform: uppercase; 
-font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; 
-letter-spacing: 1px; 
-line-height: 38px; 
-padding: 0 28px; 
-border-radius: 4px; 
-font-weight: 500; 
-font-size: 14px; cursor: pointer; 
-display: inline-block; 
-" href="https://squareup.com/appointments/buyer/widget/zkvz7h6ta6pudt/8GNV6PJ8WK7YH">Book Studio A</a><!-- End Square Appointments Embed code -->
+<p>{% include booking-buttons/studio-a.html %}</p>
 
 - - -
 
 ## Studio B
 With Engineer Gage Bingham
 
-<img src="/assets/images/music-mixing-studio-b.webp" title="Mixing With Shamir" alt="Mixing Music In Studio B" style="width:80%;"/>
+<img src="/images/services/music-mixing-studio-b.webp" title="Mixing With Shamir" alt="Mixing Music In Studio B" style="width:80%;"/>
 
 - $45 / Hour ($60 After Midnight)
 - 5+ Years Experience Recording & Mixing
@@ -61,23 +48,7 @@ Studio B is an intimate recording space with a strong red glow throughout. This 
 
 All Sessions booked will be run by engineer Gage Bingham, who is ready to professionally track and mix your song for radio and all digital streaming platforms.
 
-<div style="overflow: auto;">
-  <a target="_blank" href="https://square.site/book/VC0MQHN4GS4ND/sls-studio-b-philadelphia-pa" style="
-    display: inline-block;
-    font-family: Helvetica, Arial, sans-serif;
-    font-size: 18px;
-    line-height: 38px;
-    height: 40px;
-    padding-left: 48px;
-    padding-right: 48px;
-    color: #ffffff;
-    min-width: 165px;
-    background-color: #E10015;
-    border-radius: 4px;
-    text-align: center;
-    box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
-  ">Book Studio B</a>
-</div>
+<p>{% include booking-buttons/studio-b.html %}</p>
 
 - - -
 
@@ -106,6 +77,6 @@ We have a lot of experience working with Pop, Rock, R&B, Electronic and of cours
 
 - - -
 
-<img src="/assets/images/band-recording-guitars.webp" title="Recording Guitars" alt="2 Guitar Players Recording" style="width:80%;"/>
+<img src="/images/services/band-recording-guitars.webp" title="Recording Guitars" alt="2 Guitar Players Recording" style="width:80%;"/>
 
 

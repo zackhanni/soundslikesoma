@@ -1,6 +1,7 @@
 ---
 title: Gear List
-titleh1: Studio Equipment Gear List
+title-h1: Studio Equipment Gear List
+weight: 7
 date: 2022-11-07
 description: Check out Sound Like Soma's full list of studio equipment available to use during booked studio sessions, and studio rentals.
 tags: [interface,preamp,microphone,instrument]

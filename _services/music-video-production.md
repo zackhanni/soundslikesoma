@@ -1,13 +1,14 @@
 ---
 title: '4K Video Production'
-titleh1: '4K Video Production Services'
+title-h1: '4K Video Production Services'
+weight: 6
 date: 2022-11-06
 description: Hire a videographer for music video production or social media promotions in Philadelphia. Get your video done today with Sounds Like Soma
 tags: [video,music video,filming,recording]
 ---
 Hire a videographer for music video production or social media promotions in Philadelphia. Get your video done today!
 
-<img src="/assets/images/outdoor-music-video-shoot.webp" title="Music Video Shoot On Balcony" alt="Music Video Shoot on Balcony" style="width:80%;"/>
+<img src="/images/services/outdoor-music-video-shoot.webp" title="Music Video Shoot On Balcony" alt="Music Video Shoot on Balcony" style="width:80%;"/>
 
 ## Music Videos
 
@@ -39,7 +40,7 @@ Please have **examples of your favorite music videos** or effects you like so we
 
 - - -
 
-<img src="/assets/images/philly-music-video-production.webp" title="Philly Music Video Production" alt="Camera recording rapper smoking in studio" style="width:80%;"/>
+<img src="/images/services/philly-music-video-production.webp" title="Philly Music Video Production" alt="Camera recording rapper smoking in studio" style="width:80%;"/>
 
 ## 1 Minute Social Media Promo Video
 

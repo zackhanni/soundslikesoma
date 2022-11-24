@@ -1,20 +1,29 @@
 [
   {
-    "title": "Professional Engineers",
-    "description": "15+ years of experience producing and recording",
-    "image": "assets/images/features/philadelphia-best-recording-studio.webp",
-    "link": "/team/"
+    "title": "Free Consultation",
+    "description": "New clients receive an obligation free consultation.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
   },
   {
-    "title": "Radio Ready Sound",
-    "description": "Experience with all genres - radio and record label quality",
-    "image": "assets/images/features/professional-mixing-mastering.webp",
-    "link": "/samples/"
+    "title": "Certified Engineers",
+    "description": "All members of our team are certified audio engineers.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
   },
-    {
-    "title": "Book A Free Tour",
-    "description": "Visit our 4 studio spaces for yourself",
-    "image": "assets/images/features/book-a-free-recording-studio-tour.webp",
-    "link": "/contact/"
+  {
+    "title": "Broadcast Ready",
+    "description": "We stay up to date on the latest streaming and radio standards.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
   }
 ]

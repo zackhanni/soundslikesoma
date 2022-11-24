@@ -1,35 +1,16 @@
-<div class="footer-strip">
+<div class="footer">
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <div class="footer">
-          <h3 class="footer-title"><a href="https://www.soundslikesoma.com/">{{site.title}}</a></h3>
-          <ul class="footer-menu">
-            <li><a href="{{site.baseurl}}/">Home</a></li>
-            <li><a href="{{site.baseurl}}/services/">Services</a></li>
-            <li><a href="{{site.baseurl}}/contact/">Contact</a></li>
-            <li><a href="{{site.baseurl}}/book-now/">Book Now</a></li>
-          </ul>
-          <hr>
+        <div class="footer-inner">
+          <h2 class="footer-title">{{site.title}}</h2>
           <ul>
-            <li style="display:inline">
-              <a href="{{ site.data.social.facebook }}"><img src="/assets/images/social-icons/facebook.png" alt="facebook logo" style="width:45px; height:45px"></a>
+            {% assign footermenu = site.data.menus.footer | sort: 'weight'  %}
+            {% for item in footermenu %}
+            <li class="{% if item.url == page.url %}active{% endif %}">
+              <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
             </li>
-            <li style="display:inline">
-              <a href="{{ site.data.social.tiktok }}"><img src="/assets/images/social-icons/tiktok.png" alt="tiktok logo" style="width:45px; height:45px"></a>
-            </li>
-            <li style="display:inline">
-              <a href="{{ site.data.social.instagram }}"><img src="/assets/images/social-icons/instagram.png" alt="instagram logo" style="width:45px; height:45px"></a>
-            </li>
-            <li style="display:inline">
-              <a href="{{ site.data.social.youtube }}"><img src="/assets/images/social-icons/youtube.png" alt="youtube logo" style="width:45px; height:45px"></a>
-            </li>
-            <li style="display:inline">
-              <a href="{{ site.data.social.twitter }}"><img src="/assets/images/social-icons/twitter.png" alt="twitter logo" style="width:45px; height:45px"></a>
-            </li>
-            <li style="display:inline">
-              <a href="{{ site.data.social.linkedin }}"><img src="/assets/images/social-icons/linkedin.png" alt="linkedin logo" style="width:45px; height:45px"></a>
-            </li>
+            {% endfor %}
           </ul>
         </div>
       </div>
