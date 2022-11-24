@@ -1,6 +1,6 @@
 ---
 title: 'Band Rehearsals'
-title-h1: 'Band Rehearsal Studio Near Me'
+title-h1: 'Band Rehearsal Studio In South Philly'
 weight: 6
 date: 2022-11-06
 description: Philadelphia's best hourly band rehearsal studio. Equipped with drums, amps, keyboards, vocal mics and other instruments - Sounds Like Soma 

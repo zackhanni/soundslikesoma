@@ -1,5 +1,5 @@
 ---
-title: Music Recording OR Audio Production Services | Soma Studios
+title: Music Recording & Audio Production Services | Soma Studios
 layout: services
 description: Professional music mixing, song mastering, podcasts, audiobooks and voiceovers - Sounds Like Soma - Philadelphia recording studio
 intro_image: "images/recording-studio-mixing-music.webp"
