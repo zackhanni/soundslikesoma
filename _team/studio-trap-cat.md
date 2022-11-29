@@ -4,6 +4,7 @@ image: '/images/team/studio-trap-cat.jpg'
 jobtitle: 'Secret Studio Owner, Profesional Trap Gangster'
 email: ''
 instagramurl: 'https://www.instagram.com/studiotrapcat'
+description: Studio Trap Cat AKA Buddy, is the mascot of Sounds Like Soma in Philadelphia, PA
 weight: 3
 ---
 

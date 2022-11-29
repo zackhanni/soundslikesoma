@@ -4,6 +4,7 @@ image: '/images/team/gage-bingham.jpg'
 jobtitle: 'Audio Engineer & Team Lead'
 email: 'gagerbingham@gmail.com'
 instagramurl: 'https://www.instagram.com/gage_bingham'
+description: Gage Bingham is an expert audio engineer and music producer at Sounds Like Soma
 promoted: true
 weight: 2
 ---

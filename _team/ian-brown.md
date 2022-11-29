@@ -4,6 +4,7 @@ image: '/images/team/ian-brown.jpeg'
 jobtitle: 'Junior Engineer'
 email: ''
 instagramurl: 'https://www.instagram.com/eyebrow_n'
+description: Ian Brown is a junior audio engineer who works out of Sounds Like Soma
 weight: 4
 ---
 

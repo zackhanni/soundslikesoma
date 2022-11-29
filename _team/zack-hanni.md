@@ -5,6 +5,7 @@ jobtitle: 'Head Audio Engineer'
 linkedinurl: "https://www.linkedin.com/"
 email: 'soundslikesoma@gmail.com'
 instagramurl: 'https://www.instagram.com/zackhanni'
+description: Zachary Hanni is an expert audio engineer who has worked with thousands of clients
 promoted: true
 weight: 1
 ---
