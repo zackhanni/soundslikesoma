@@ -65,7 +65,7 @@
   hr {
     color: $soma-white;
     border: none;
-    border-bottom: 1px solid $white-offset;
+    border-bottom: 1px solid $soma-white;
   }
   table {
     width: 100%;
@@ -75,17 +75,17 @@
     td {
       padding: 5px;
       vertical-align: top;
-      border-top: 1px solid $white-offset;
+      border-top: 1px solid $soma-white;
       color: $soma-white;
     }
     thead th {
       vertical-align: bottom;
-      border-bottom: 1px solid $white-offset;
+      border-bottom: 1px solid $soma-white;
       text-align: left;
       font-weight: bold;
     }
     tbody + tbody {
-      border-top: 1px solid $white-offset;
+      border-top: 1px solid $soma-white;
     }
   }
   blockquote {

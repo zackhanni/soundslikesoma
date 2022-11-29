@@ -25,7 +25,7 @@
   .call-box-bottom {
     flex: auto;
     padding: 20px;
-    border-top: 1px solid darken($white-offset, 5%);
+    border-top: 1px solid darken($soma-white, 5%);
     @include media-breakpoint-up(sm) {
       flex: 0 0 auto;
       border: none;
