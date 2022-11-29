@@ -26,7 +26,7 @@ You’ll need to send equal length 24-bit .wav file stems in your native sample 
 
 We recommend using <a href="https://wetransfer.com" target="WeTransfer Official Website">WeTransfer.com</a> to send large files to us for free. Alternatively, you are welcome to use DropBox, Google Drive, or bring in a portable hard drive.
 
-Want to learn more about mixing music? <a href="/blogs/what-is-mixing-mastering" target="Learn more about mixing and mastering">Check out the soma blog</a> to find out more
+Want to learn more about mixing music? <a href="/blogs/what-is-mixing-mastering/" target="Learn more about mixing and mastering">Check out the soma blog</a> to find out more
 
 <p>{% include booking-buttons/mix-master.html %}</p>
 
