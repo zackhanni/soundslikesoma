@@ -1,5 +1,5 @@
 ---
-title: 'Rent Studio Space'
+title: 'Rentable Music Studio Space'
 title-h1: 'Rentable Music Studio Space'
 weight: 4
 date: 2022-11-04
