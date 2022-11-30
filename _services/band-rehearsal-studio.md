@@ -6,7 +6,7 @@ date: 2022-11-06
 description: Philadelphia's best hourly band rehearsal studio. Equipped with drums, amps, keyboards, vocal mics and other instruments - Sounds Like Soma 
 tags: [rehearsal studio,practice space,band rehearsal,instrument rental]
 ---
-Philadelphia's Best Hourly Band Rehearsal Studio Near Me. Equipped With Drums, Amps, Keyboards, Vocal Mics And More.
+Philadelphia's Best Hourly Band Rehearsal Studio. Equipped With Drums, Amps, Keyboards, Vocal Mics And More.
 
 <img src="/images/services/band-rehearsal-guitar.webp" title="Guitar Player In Band Rehearsal" alt="Guitar player in band rehearsal" style="width:80%;"/>
 
@@ -28,38 +28,11 @@ Optional Add-ons:
 - Have an engineer there to help you set up and stays with you the entire session to assist
 - Professionally recorded **band** practice - every instrument is properly tracked out into stems
 
+Book a space to rehearse for your next big performance, or just jam out in our live room for fun with friends.
 
-An engineer will always be there to help set up. 
+>  An engineer will always be there to help set up. **Call or text us ahead of time** to let us know what equipment you need us to have set up - stage mics, drums, amps, stands, etc. 
 
-- - -
-
-Book a space to rehearse for your next big performance, or just jam out in our live room for fun with friends. **Call or text us ahead of time** to let us know what equipment you need us to have set up - stage mics, drums, amps, stands, etc. 
-
-<div style="
-  overflow: auto;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
-  align-items: center;
-  width: 259px;
-  background: #000000;
-  font-family: SQ Market, SQ Market, Helvetica, Arial, sans-serif;
-  ">
-  <div style="padding: 20px;">
-  <a target="_blank" href="https://checkout.square.site/buy/QRQWE2MKRDVH3ZS6NDRTP4QP" style="
-    display: inline-block;
-    font-size: 18px;
-    line-height: 38px;
-    height: 40px;
-    color: #ffffff;
-    min-width: 212px;
-    background-color: #0072ee;
-    text-align: center;
-    box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
-    border-radius: 6px;
-  ">Book Band Rehearsal</a>
-  </div>
-</div>
+{% include booking-buttons/rehearsal.html %}
 
 <img src="/images/services/studio-drum-practice-rehearsal.webp" title="Recording Drum Practice" alt="Recording Drum Practice" style="width:80%;"/>
 

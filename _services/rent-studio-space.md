@@ -14,13 +14,14 @@ Rent a music studio. Utilize HD audio equipment and condenser microphones to rec
 
 - $30 / Hour
 - $150 / Day (Up To 8 Hours)
-- $300 / Week (Up to 40 Hours)
-- $600 / Month (Up to 160 Hours)
+- $450 / Week (Up to 40 Hours)
+- $900 / Month (Up to 160 Hours)
+- <a href="/contact/">Contact Zack</a> about scheduling, questions, or special pricing
 
 What's Included:
 - Studio Desk with TV and Studio Monitors
-- Vocal Booth Area with Condenser Microphones
-- Clarett 8 Pre USB - Audio Interface
+- Vocal Booth Area with Condenser or Dynanic Microphone
+- Clarett 8 Pre USB Audio Interface
 - MIDI Keyboards and Synthesizers
 - Electronic Drum Kit and Other Instruments to Make Beats
 - Private Acoustically Treated Room
@@ -38,7 +39,7 @@ What's Included:
 
 - $40 / Hour
 
-<a href="/services/recording-studios/" target="Studio B">Studio B</a> is also available to rent out when it is not actively in-use by one of our engineers. You will have to <a href="/contact/" target="Contact us">contact one of our staff</a>  to discuss availability and booking options. It has even better equipment - powerful speakers, better acoustics, and a more comfortable, professional looking recording area.
+<a href="/services/recording-studios/" target="Studio B">Studio B</a> is also rentable when not actively in-use by one of our engineers. You will have to <a href="/contact/" target="Contact us">contact one of our staff</a>  to discuss availability and booking options. It has even better equipment - powerful speakers, better acoustics, and a more comfortable, professional looking recording area.
 
 <img src="/images/services/music-mixing-studio-b.webp" title="Mixing music with Shamir" alt="Music Mixing Console" style="width:80%;"/>
 

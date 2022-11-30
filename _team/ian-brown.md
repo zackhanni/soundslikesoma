@@ -8,5 +8,5 @@ description: Ian Brown is a junior audio engineer who works out of Sounds Like S
 weight: 4
 ---
 
-Ian is a junior engineer taking clients out of Studio C. He is still perfecting his craft and rapidly growing his skills under the guidance of Zack and Gage.
+Ian Brown is a junior engineer taking clients out of Studio C. He is still perfecting his craft and rapidly growing his skills under the guidance of Zack and Gage.
 

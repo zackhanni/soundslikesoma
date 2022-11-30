@@ -8,4 +8,4 @@ description: Studio Trap Cat AKA Buddy, is the mascot of Sounds Like Soma in Phi
 weight: 3
 ---
 
-Buddy the Cat is the real OG of the studio. Don't let Gage or Zack fool you, he is the one in charge calling the shots. He will join your session if he thinks your music is worthy.
+Buddy the Cat is the real OG of the studio. Don't let Gage or Zack fool you, he is the one in charge calling the shots. He will join your session if he thinks your music is worthy. THE official studio trap cat.
