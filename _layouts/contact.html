@@ -9,7 +9,7 @@ bodyClass: "page-contact"
         <div class="col-12 col-md-8">
             <div class="service service-single">
                 <h1 class="title">{{page.title-h1}}</h1>
-                {% include call.html show_button=true %}
+                {% include call.html show_button=false %}
                 <p>Find us on Google Maps - <a href="https://g.page/soundslikesoma?share" target="_blank">{{ site.data.contact.address }}</a></p>
                 <p>{% if site.data.social %}{% include social.html %}{% endif %}</p>
                 <div class="content mt-4">{{content}}</div>
