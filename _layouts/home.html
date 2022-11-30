@@ -11,7 +11,7 @@ bodyClass: "page-home"
       <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
         {{ content }}
         {% if page.show_call_box %}
-          {% include call.html show_button=true %}
+          {% include call.html show_button=true show_addr=false %}
         {% endif %}
       </div>
       {% if page.intro_image %}
@@ -35,7 +35,7 @@ bodyClass: "page-home"
             <h2 class="service-title">
               <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
             </h2>
-            <p>{{ service.content | markdownify | strip_html | truncate: 140 }}</p>
+            <p>{{ service.content | markdownify | strip_html | truncate: 150 }}</p>
           </div>
         </div>
       </div>
@@ -51,11 +51,11 @@ bodyClass: "page-home"
 
 <!-- homepage image -->
 <div style="text-align: center;">
-  <img src="/images/best-philadelphia-recording-studio.webp" title="Music Studios A" alt="Philadelphia Recording Studio with Purple Lights" style="width:100%; max-width: 500px;">
+  <img src="/images/best-philadelphia-recording-studio.webp" title="Music Studios in Philadelphia" alt="Music Studios in Philadelphia" style="width:100%; max-width: 500px;">
 </div>
 
 <!-- blogs -->
-<div class="strip">
+<!-- <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
       {% assign limit = site.home.limit_blogs | default: 6 %}
@@ -78,52 +78,100 @@ bodyClass: "page-home"
       </div>
     </div>
   </div>
+</div> -->
+
+<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+    <div class="row justify-content-center">
+        <div class="col-12 col-md-6">
+          <h2>Music Studios in Philadelphia</h2>
+          <p>Sounds Like Soma is located in South Philadelphia, Point Breeze neighborhood. This area is rich in history and natural beauty. We are located 10 minutes from Center city and only a few blocks from Broad Street. Also, if you are coming from the Delaware or New Jersey area, we are only a quick drive away from your bridge of choice via the Schuylkill Expressway. If you are looking for a music studio in the tri-state area or beyond, we are ready to work with you!</p>
+        </div>
+        <div class="col-12 col-md-4">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3059.417715510432!2d-75.18159518486705!3d39.93204519289818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6c86b178847e9%3A0x31cd81aa74a5defd!2sSounds%20Like%20Soma!5e0!3m2!1sen!2sus!4v1669830918714!5m2!1sen!2sus" width="350" height="275" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+    </div>
 </div>
+
 
 <!-- features -->
 {% if site.data.features %}
 <div class="strip strip-grey">
   <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
+        <div class="row justify-content-center">
+          <h3>We Help You Every Step Of The Way</h3>
+        </div>
     <div class="row justify-content-center">
-      {% for feature in site.data.features %}
+      {% for feature in site.data.features2 %}
       <div class="col-12 col-md-6 col-lg-4 mb-2">
         <div class="feature">
           {% if feature.image %}
           <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image.url | relative_url }}" width="{{ feature.image.width }}" height="{{ feature.image.height }}" /></div>
           {% endif %}
-          <h2 class="feature-title">{{ feature.title }}</h2>
+          <h3 class="feature-title">{{ feature.title }}</h3>
           <div class="feature-content">{{ feature.description }}</div>
         </div>
       </div>
       {% endfor %}
+
+    <div class="col-12 col-md-6">
+      <h3>Sounds Like Soma </h3>
+      <p>Soma Sound is a modern, 4 room creative facility located in the Point Breeze district of South Philadelphia. This 3 story building can accommodate all of your tracking needs, from bands to gospel choirs to voiceovers.</p>
+    </div>
+    {% include booking-buttons/studio-a.html %}
 
     </div>
   </div>
 </div>
 {% endif %}
 
-<!-- i need to learn to fix hr color routing with scss -->
-<hr hr color="#353535">
-<div>
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-10 text-center">
-        <h2 style="color: #e5261f;">FAQ</h2>
-
-        <p><strong>How long have you been at this location?</strong></p>
-        <p>The recording studio has been located at its South Philadelphia, Point Breeze location since 2017. There have been several studio moves in the past. We have been in Tennessee, NJ and other parts of Philadelphia before finding a long-term home in South Philly.</p>
-        <p><strong>How long have you been recording and mixing music?</strong></p>
-        <p>The head Engineer Zack has over 15 years of experience working with all genres of music from country & bluegrass, to Hip-hop, Rap and R&B. Having a diverse background in recording is what makes our <strong>music studios</strong> stand out among some of the others nearby</p>
-        <p><strong>Have you worked with any famous artists?</strong></p>
-        <p>Pop artists like Charli XCX, Rock bands like Cage the Elephant, Funk bands like Parliament Funkadelic, R&B artists like Jacob Banks, Electronic labels and artists like Mau5trap Records and Kindrid, Hip-Hop aritsts like Sean Smith, Bamahadia, Alt rock bands like Shamir, Nasty Cherry, and many more that we do not have the room to fit here! </p>
-      </div>
+<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+  <div class="row justify-content-center">
+    <div class="col-12 col-md-6">
+      <h2>Music Studios </h2>
+      <p>We have everything you might possibly need to finish your musical endeavor. We can take care of everything for you, from pre production through recording, to post sound rooms. Our music studios and team are prepared to handle whatever you throw at them!</p>
+    </div>
+    <div class="col-12 col-md-6">
+      <h2>Recording Studios</h2>
+      <p>The purpose of our recording studios was to provide something new to the neighborhood. Our recording studio has ample room to accommodate projects of any size. To give our clients the greatest sound quality possible, the studio has undergone meticulous acoustical treatment. We have loaded up on every piece of cutting-edge equipment a recording studio needs to elevate the sound quality of any audio track.</p>
+    </div>
+<hr hr color="#fffff0">
+    <div class="col-12 col-md-12">
+      <h2>Philadelphia Recording Studios</h2>
+      <p>Four cutting-edge recording spaces in our studio may be configured in a variety of ways to meet your needs. One studio could suit your needs more than the other, depending on what your project requires. When attempting to keep under budgetary constraints, many artists find that using both spaces together is ideal. You may customize the studio as big or as little as you like, and we can meet any requirements you may have. We have 24 hour, free street parking</p>
+    </div>
+    <div class="col-12 col-md-12">
+      <h2>Rehearsal Studios</h2>
+      <p>We also welcome bands and other artists that desire a space to rehearse their works inside our facility. We always have instruments available to rent for your rehearsal. For a fantastic sounding location for your rehearsal, rent out our studio!</p>
     </div>
   </div>
 </div>
 
-
 <!-- homepage image2 -->
 <hr hr color="#353535">
 <div style="text-align: center;">
-  <img src="/images/philadelphia-recording-studio.webp" title="Philadelphia Recording Studio Near Me" alt="alt description" style="width:100%; max-width: 500px;">
+  <img src="/images/philadelphia-recording-studio.webp" title="Recording Studios in Philadelphia" alt="Recording Studios in Philadelphia" style="width:100%; max-width: 500px;">
 </div>
+
+<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+  <div class="row justify-content-center">
+    <div class="col-12 col-md-12">
+      <h2>Studio Recording</h2>
+      <p>Studio recording can be very different from recording you may already be doing in your home. We have meticulously created acoustically treated rooms to allow for the best of musical creations to develop. The more planning we do before it is time to record the better. This way everything runs smoothly when recording and everyone is on the same page. This is where studio recording can be different from other recording situations as there are many stages when it comes to recording in the studio. There is pre production, production, and post production. It is important to allow the necessary time to utilize each of these steps to their fullest.</p>
+    </div>
+  </div>
+</div>
+
+<!-- i need to learn to fix hr color routing with scss -->
+<!-- <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+  <div class="row justify-content-center">
+    <div class="col-12 col-md-8">
+      <h2 style="color: #e5261f;">FAQ</h2>
+      <p><strong>How long have you been at this location?</strong></p>
+      <p>The recording studio has been located at its South Philadelphia, Point Breeze location since 2017. There have been several studio moves in the past. We have been in Tennessee, NJ and other parts of Philadelphia before finding a long-term home in South Philly.</p>
+      <p><strong>How long have you been recording and mixing music?</strong></p>
+      <p>The head Engineer Zack has over 15 years of experience working with all genres of music from country & bluegrass, to Hip-hop, Rap and R&B. Having a diverse background in recording is what makes our <strong>music studios</strong> stand out among some of the others nearby</p>
+      <p><strong>Have you worked with any famous artists?</strong></p>
+      <p>Pop artists like Charli XCX, Rock bands like Cage the Elephant, Funk bands like Parliament Funkadelic, R&B artists like Jacob Banks, Electronic labels and artists like Mau5trap Records and Kindrid, Hip-Hop aritsts like Sean Smith, Bamahadia, Alt rock bands like Shamir, Nasty Cherry, and many more that we do not have the room to fit here! </p>
+    </div>
+  </div>
+</div> -->
