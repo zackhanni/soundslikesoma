@@ -10,13 +10,21 @@
       <a href="mailto:{{ .site.data.contact.email }}" aria-label="8 5 6. 2 9 8. 3 0 9 5."> {{ site.data.contact.email }}</a>
     </div>
     {% endif %}
+
+<!-- fix aria address tag -->
+    {% if site.data.contact.address %}
+    <div class="call-address"><strong>Addr: </strong>
+      <a href="https://goo.gl/maps/kzLZe3AYDm8sx2oN8" aria-label="21st & Tasker St"> {{ site.data.contact.address }}</a>
+    </div>
+    {% endif %}
+
   </div>
       <div class="call-box-bottom">
         <a href="https://squareup.com/appointments/buyer/widget/zkvz7h6ta6pudt/8GNV6PJ8WK7YH" class="button">Book Now</a>
       </div>
-    {% if include.show_button %}
+<!--     {% if include.show_button %}
       <div class="call-box-bottom">
         <a href="/{{ site.data.contact.contact_button_link }}" class="button">Contact Us</a>
       </div>
-    {% endif %}
+    {% endif %} -->
 </div>
