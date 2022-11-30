@@ -60,9 +60,11 @@ Optional Add-ons:
 
 ## Podcast Production and Editing Services
 
-Sounds Like Soma has become one of the highest rated podcast production compnaies in the Philadelphia area. Currently located in South Philly, our experianced team of audio engineers are ready to take on all challenges. If your company is already experianced with podcasting or are a newcomer to the scene, let us know how we can help capture your ideas and turn them into a top quality production capable of reaching millions. We network closly with dozens of local radio talk shows and live streamers. Our state-of-the-art studio spaces have the equipment to tackle any audio or video related project, no matter how small or large the scale.
+Sounds Like Soma has become one of the highest rated podcast production compnaies in the Philadelphia area. Currently located in South Philly, our experienced team of audio engineers are ready to take on all challenges. If your company is already experienced with podcasting or are a newcomer to the scene, let us know how we can help capture your ideas and turn them into a top quality production capable of reaching millions. We network closly with dozens of local radio talk shows and live streamers. Our state-of-the-art studio spaces have the equipment to tackle any audio or video related project, no matter how small or large the scale.
 
 <a href="/contact/" target="Contact">Contact us</a> to figure out an approach that works best for your project or budget.
+
+- - -
 
 > Corporate expertise - Working on a podcast for your business? Let us guide your team in best practices from start to finish to obtain the clearest sound possible. After you are done recording, our editing team will make your voice 'pop' and condense any unwanted pauses or vocal hichups. Broadcast standards are constantly exolving, so let us take the wheel and elevate your company's voice to get you sounding your best!
 
