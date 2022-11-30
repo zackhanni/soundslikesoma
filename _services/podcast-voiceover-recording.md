@@ -64,8 +64,6 @@ Sounds Like Soma has become one of the highest rated podcast production compnaie
 
 <a href="/contact/" target="Contact">Contact us</a> to figure out an approach that works best for your project or budget.
 
-- - -
-
 > Corporate expertise - Working on a podcast for your business? Let us guide your team in best practices from start to finish to obtain the clearest sound possible. After you are done recording, our editing team will make your voice 'pop' and condense any unwanted pauses or vocal hichups. Broadcast standards are constantly exolving, so let us take the wheel and elevate your company's voice to get you sounding your best!
 
 - - -

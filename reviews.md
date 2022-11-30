@@ -1,5 +1,5 @@
 ---
-title: Reviews, Testimonials - Sounds Like Soma
+title: Endorsements And Client Reviews | Sounds Like Soma
 layout: reviews
 description: Testimonials and reviews from artists and bands who record with us. We value all feedback and make changes daily to match your expectations
 intro_image: "images/studio-reviews.webp"
