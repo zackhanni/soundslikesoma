@@ -64,7 +64,7 @@ bodyClass: "page-home"
         <div class="service service-summary">
           <div class="service-content">
             <h2 class="service-title">
-              <a href="{{ service.url | relative_url }}">{{ blog.title }}</a>
+              <a href="{{ blog.url | relative_url }}">{{ blog.title }}</a>
             </h2>
             <p>{{ blog.content | markdownify | strip_html | truncate: 110 }}</p>
           </div>
