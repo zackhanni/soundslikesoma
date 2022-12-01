@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: false
 
 # Meet Our Team of Recording & Mixing Engineers
 
-Our engineers are our most valuable assets, carrying with them a wealth of experience, passion and expertise.
+Our engineers are our most valuable assets, carrying with them a wealth of experience, passion and expertise. We welcome studio tours that give you a chance to meet us in person and check out the spaces we work in.
