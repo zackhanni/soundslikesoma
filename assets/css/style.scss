@@ -26,9 +26,9 @@ $font-family-base: Helvetica, Arial, sans-serif, -apple-system;
 $font-family-heading: "Arial", serif, -apple-system;
 
 // Footer
-$footer-background-color: $primary;
+$footer-background-color: darken($primary, 20%);
 $footer-text-color: $soma-white;
-$sub-footer-background-color: darken($primary, 10%);
+$sub-footer-background-color: darken($primary, 30%);
 $sub-footer-text-color: $soma-white;
 
 // Bootstrap
