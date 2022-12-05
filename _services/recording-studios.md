@@ -9,7 +9,7 @@ tags: [recording studio near me, music studio, philadelphia recording studio]
 ---
 World-class recording and professional mixing studio. Get your next music project completed by our Philly team with state-of-the-art audio equipment! 
 
-<img src="/images/services/best-philadelphia-recording-studios.webp" title="Recording Studio with Keyboards and Sperkers" alt="Recording Studio with Keyboards and Sperkers" style="width:80%;"/>
+<img src="/images/best-philadelphia-recording-studios.webp" title="Recording Studio with Keyboards and Sperkers" alt="Recording Studio with Keyboards and Sperkers" style="width:80%;"/>
 
 ## Studio A
 With Head Engineer Zack Hanni
