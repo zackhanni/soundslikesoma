@@ -6,7 +6,7 @@ date: 2022-11-06
 description: Philadelphia's best hourly band rehearsal studio. Equipped with drums, amps, keyboards, vocal mics and other instruments | Sounds Like Soma 
 tags: [rehearsal studio,practice space,band rehearsal,instrument rental]
 ---
-Philadelphia's Best Hourly Band Rehearsal Studio. Equipped With Drums, Amps, Keyboards, Vocal Mics And More.
+Philadelphia's Best Hourly Band Rehearsal Studios. Equipped With Drums, Amps, Keyboards, Vocal Mics And More.
 
 <img src="/images/services/band-rehearsal-guitar.webp" title="Guitar Player In Band Rehearsal" alt="Guitar player in band rehearsal" style="width:80%;"/>
 
@@ -39,7 +39,7 @@ Book a space to rehearse for your next big performance, or just jam out in our l
 <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
   <div class="row justify-content-center">
     <div class="col-12 col-md-6">
-      <h2>Band Practice Studio</h2>
+      <h2>Band Practice Studios</h2>
       <p>Here at Sounds Like Soma, we provide first-rate rehearsal space in a welcoming and supportive setting. To enable you to perform and sound your best, we provide well maintained, high quality equipment in all of our studios. From aspiring musicians and students to Gold and Platinum Recording Artists, Writers, Producers, and everyone in between, we serve as a valuable tool for our clients. Our practice areas are hygienic, comfortable, and air conditioned. We have a highly knowledgeable team and a wealth of resources to assist you with any musical needs you may have.</p>
     </div>
     <div class="col-12 col-md-6">
@@ -48,11 +48,11 @@ Book a space to rehearse for your next big performance, or just jam out in our l
     </div>
 <hr hr color="#fffff0">
     <div class="col-12 col-md-12">
-      <h2>Philadelphia Band Rehearsal Studio</h2>
+      <h2>Philadelphia Band Practice Studios</h2>
       <p>High-quality instruments in acoustically-treated studios. Soma's  live room music rehearsal studios are your space to embrace your creativity. The rehearsal studios are fully kitted, with a variety of room types to suit your needs. Bring your own kit or use ours. Practicing drums solo? Vocals with a backing band? Fine-tuning your ensemble performance? Out Studio D Rehearsal Showcase studio fits individuals and large groups easily.</p>
     </div>
     <div class="col-12 col-md-12">
-      <h2>Philadelphia Music Practice Studio</h2>
+      <h2>Philadelphia Music Practice Studios</h2>
       <p>Get your friends to jam in one of our accessible, cheap rehearsal studios. Use them as your own drum practice space, dominate your band rehearsal, or practice your stage presence before a performance. This area is available to anybody who wants to practice solo or in a band, regardless of their race, sexual orientation, gender, or social standing.</p>
     </div>
   </div>

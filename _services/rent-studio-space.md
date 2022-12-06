@@ -10,32 +10,28 @@ Rent a music studio. Utilize HD audio equipment and condenser microphones to rec
 
 <img src="/images/services/rent-recording-studio-south-philadelphia.webp" title="Recording Studio For Rent" alt="Studio Desk With Interface and Speakers" style="width:80%;"/>
 
-## Rent Studio C
+## Rent Recording Studio C
 
 - $30 / Hour
 - $150 / Day (Up To 8 Hours)
 - $450 / Week (Up to 40 Hours)
 - $900 / Month (Up to 160 Hours)
-- <a href="/contact/">Contact Zack</a> about scheduling, questions, or special pricing
 
 What's Included:
 - Studio Desk with TV and Studio Monitors
-- Vocal Booth Area with Condenser or Dynanic Microphone
+- Vocal Booth Area with Condenser or Dynamic Microphone
 - Clarett 8 Pre USB Audio Interface
 - MIDI Keyboards and Synthesizers
 - Electronic Drum Kit and Other Instruments to Make Beats
 - Private Acoustically Treated Room
 
-- - -
-**Engineer And Computer Not Included**
-
-<a href="{{site.baseurl}}/contact/">Contact Zack in Studio A</a> before booking your studio rental to lock-in your desired date and time.
+> Engineer And Computer Not Included. Please bring your own or book a regular studio session in <a href="{{site.baseurl}}/services/recording-studios/">Studio A or B</a>. Before booking, please contact a member of our staff to reserve your desired date and block of studio time.
 
 <p>{% include booking-buttons/studio-c.html %}</p>
 
 - - -
 
-## Studio B
+## Rent Recording Studio B
 
 - $40 / Hour
 
@@ -47,23 +43,23 @@ What's Included:
 
 ## Studio Space For Rent FAQ
 
-**What studio equipment will we have access to?**
+### What studio equipment will we have access to?
 
 There will always be 2 speakers, an audio interface, and a microphone there for use. Sometimes we do swap out equipment between studios, but you can always ask if you have a favorite piece of gear. If you are a producer and need instruments, synths, or drum pads, just ask, and we can have them ready for your studio session
 
-**Can I bring my own equipment?**
+### Can I bring my own equipment?
 
 Feel free to bring any additional equipment that you feel comfortable with using. If you are worried about compatibility problems, someone will always be there at the start of your session to make sure everything is set up correctly.
 
-**Will people be walking in and out of the room while I'm working?**
+### Will people be walking in and out of the room while I'm working?
 
 No, this is a private room with its own entrance and bathroom. The only time someone will walk in is if you request help or there is some kind of emergency.
 
-**Are there discounts if I book more hours in studio C?**
+### Are there discounts if I book more hours in studio C?
 
 We now offer discounts on day, week, and month sessions. You will still have to schedule and let us know when you plan to be at the studio so that there is no conflicts with band rehearsals or podcasts. If, when you rent our studio, YOU become a priority client! We will do everything we can to make sure you can schedule when it is convenient for you. We are flexible with time and are willing to work with people who book sessions regularly.
 
-**Who is this space for?**
+### Who is this space for?
 
 We designed this space for all-in-one artists who want to record themselves, or beat producers who need an acoustically treated space to work when their home studio just doesn't make the cut for whatever reason. 
 
