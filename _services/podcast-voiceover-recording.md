@@ -3,7 +3,7 @@ title: 'Podcast Production'
 title-h1: 'Podcast Production and Editing'
 weight: 3
 date: 2022-11-03
-socialmeta: meta-podcast
+intro_image: "images/services/podcast-recording-studio-philadelphia.webp"
 description: Podcast studios for high-quality podcast recording! Equipped with crystal-clear SM7B Broadcast Microphones. Podcast video recordings available too!
 tags: [podcast rooms,voiceover,audiobook,voice,recording]
 ---

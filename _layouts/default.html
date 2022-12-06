@@ -2,11 +2,6 @@
 <html lang="en">
 
 <head>
-
-  {% if page.socialmeta %}
-    {% include social-meta/{{ page.socialmeta }} %}
-  {% endif %}
-
   <meta charset="utf-8">
   <!-- this could be causing the webrick error when the first page.title has -h1 on it. im not sure so i put this note -->
   <title>{% if page.title-h1 %}{{page.title-h1}} | Sounds Like Soma{% else %}{{ page.title }}{% endif %}</title>
@@ -21,17 +16,28 @@
   <!-- <link rel="preload" href="{{ '/assets/fonts/playfair-display.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin> -->
   <link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet">
 
+  <!-- Open Graph / Facebook / Canonicals -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  {% if page.meta_title %}<meta property="og:title" content="{{ page.meta_title }}" />{% else %}<meta property="og:title" content="{{ page.title }}" />{% endif %}
   {% if page.description %}<meta name="description" content="{{ page.description }}" />{% endif %}
-  {% if page.meta_title %}<meta property="og:title" content="{{ page.meta_title }}"/>{% else %}<meta property="og:title" content="{{ page.title }}"/>{% endif %}
-  <meta property="og:type" content="website"/>
-
-  <!-- working on cononicals -->
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
-  {% if page.image %}<meta property="og:image" content="{{ page.image | absolute_url }}"/>{% endif %}
-  {% if page.description %}<meta property="og:description" content="{{ page.description }}"/>{% endif %}
+  {% if page.description %}<meta property="og:description" content="{{ page.description }}" />{% endif %}
+  {% if page.intro_image %}<meta property="og:image" content="{{ page.intro_image | absolute_url }}" />{% endif %}
+  
+  <!-- Twitter -->
   <meta name="twitter:card" content="summary"/>
-  {% if site.data.seo.meta_twitter_site %}<meta name="twitter:site" content="{{ site.seo.meta_twitter_site }}"/>{% endif %}
-  {% if site.data.seo.meta_twitter_creator %}<meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}"/>{% endif %}
+  {% if site.data.seo.meta_twitter_site %}<meta name="twitter:site" content="{{ site.seo.meta_twitter_site }}" />{% endif %}
+  {% if site.data.seo.meta_twitter_creator %}<meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}" />{% endif %}
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="{{ site.url }}{{ page.url }}" />
+  {% if page.meta_title %}<meta property="twitter:title" content="{{ page.meta_title }}" />{% else %}<meta property="og:title" content="{{ page.title }}" />{% endif %}
+  {% if page.description %}<meta property="twitter:description" content="{{ page.description }}" />{% endif %}
+  {% if page.intro_image %}<meta property="twitter:image" content="{{ page.intro_image | absolute_url }}" />{% endif %}
+
+
+
+
+
 
 </head>
 

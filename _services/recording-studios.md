@@ -3,7 +3,7 @@ title: "Recording Studios"
 title-h1: 'Mix Music Recording Studios Philly'
 weight: 1
 date: 2022-11-01
-socialmeta: meta-recordingstudios
+intro_image: "images/best-philadelphia-recording-studios.webp"
 description: Enjoy a relaxed atmosphere and record through the amazing analog equipment at Sounds Like Soma Philadelphia recording studio
 tags: [recording studio near me, music studio, philadelphia recording studio]
 ---
