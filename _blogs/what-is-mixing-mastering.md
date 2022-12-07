@@ -38,7 +38,7 @@ Mixing has more creative opportunities to capture the artists vision, whole mast
 
 Side note - mastering can also include adding metadata but most aggregators like CDBABY, DistroKid or other venders take care of that for you now.  
 
-Written by Zachary Hanni
+Written by Zachary Hanni on November 11th 2022
 
 - - -
 

@@ -64,7 +64,7 @@ Here at <a href="/" target="Soma Home Page">Sounds Like Soma</a> recording studi
 
 We recently showcased our artist, <a href="https://www.instagram.com/p/CjbfmX-rWPN/?hl=en" target="Instagram">Juice Elliott, on Instagram</a>, who masterfully combines rap, RnB, and indie pop in his latest releases. Check out his music on Apple Music and Spotify if you appreciate today's modern twist on RnB
 
-Written by Zachary Hanni
+Written by Zachary Hanni on December 7th 2022
 
 - - -
 
