@@ -40,7 +40,7 @@ Mastering can range from being a very delicate technique that just requires mode
 
 We work with you to get your best overall tone and balance on your recordings. We will communicate with you if we feel there are issues with your mix before we proceed with the mastering process.
 
-Unsure if mastering is the best next step for your project? <a href="/blogs/what-is-mixing-mastering" target="Learn more about mixing and mastering">Learn about the difference between mixing & mastering</a> in our new Soma blog posts where we take you on an in-depth comparison about the similarities and differences between the 2.
+Unsure if mastering is the best next step for your project? <a href="/blogs/what-is-mixing-mastering/" target="Learn more about mixing and mastering">Learn about the difference between mixing & mastering</a> in our new Soma blog posts where we take you on an in-depth comparison about the similarities and differences between the 2.
 
 - $45 Mastering Only
 
