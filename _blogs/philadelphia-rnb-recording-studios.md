@@ -2,6 +2,7 @@
 title: 'Evolution of RnB in Philly'
 title-h1: 'Philadelphia RnB Recording Studios'
 date: 2022-11-08
+intro_image: 'images/blogs/rnb-recording-studio-philadelphia.webp'
 description: Over decades, Rhythm and Blues has evolved to fit modern music tastes. From RnB groups to solo artists, the genre is still as popular as ever. 
 tags: [music mastering, mastering, audio master]
 ---
