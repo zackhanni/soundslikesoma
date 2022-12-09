@@ -55,15 +55,21 @@ Book a space to rehearse for your next big performance, or just jam out in our l
       <h2>Philadelphia Music Practice Studios</h2>
       <p>Get your friends to jam in one of our accessible, <strong>cheap rehearsal studios</strong>. Use them as your own drum practice space, dominate your band rehearsal, or practice your stage presence before a performance. This area is available to anybody who wants to practice solo or in a band, regardless of their race, sexual orientation, gender, or social standing.</p>
     </div>
-    <div class="col-12 col-md-12">
-      <h2>Philadelphia Band Rehearsal Studios</h2>
-      <p>We also welcome bands and other artists that desire a space to rehearse their works inside our facility. We always have instruments available to rent for your rehearsal. For a fantastic sounding location for your rehearsal, rent out our studio!</p>
-    </div>
   </div>
 </div>
 
 <img src="/images/services/band-rehearsal-group.webp" title="Group Band Rehearsal Studio" alt="Band with drums, bass, and guitar rehearsing" style="width:80%;"/>
 
+<div class="strip strip-grey">
+  <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-12">
+      <h2>Philadelphia Band Rehearsal Studios</h2>
+      <p>We welcome bands and artists that desire a space to rehearse their works inside our facility. We always have instruments available to rent for your rehearsal. For a fantastic sounding location for your rehearsal, rent out our studio!</p>
+      </div>
+    </div>
+  </div>
+</div>
 
 
 ## Music Rehearsal FAQ
