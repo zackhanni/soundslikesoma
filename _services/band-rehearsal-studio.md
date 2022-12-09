@@ -1,6 +1,6 @@
 ---
 title: 'Band Rehearsals'
-title-h1: 'Philadelphia Band Rehearsal Studio'
+title-h1: 'Philadelphia Band Rehearsal Studios'
 weight: 6
 date: 2022-11-06
 description: Philadelphia's best hourly band rehearsal studio. Equipped with drums, amps, keyboards, vocal mics and other instruments | Sounds Like Soma 
@@ -24,9 +24,9 @@ What's Included:
 
 Optional Add-ons:
 
-- Audio Recording Band rehearsal - with 1 quality omni-condenser room mic for a great sounding song demo or live jam!
+- Audio Recording **Band rehearsal** - with 1 quality omni-condenser room mic for a great sounding song demo or live jam!
 - Have an engineer there to help you set up and stays with you the entire session to assist
-- Professionally recorded **band** practice - every instrument is properly tracked out into stems
+- Professionally recorded **band practice** - every instrument is properly tracked out into stems
 
 Book a space to rehearse for your next big performance, or just jam out in our live room for fun with friends.
 
@@ -44,7 +44,7 @@ Book a space to rehearse for your next big performance, or just jam out in our l
     </div>
     <div class="col-12 col-md-6">
       <h2>Music Rehearsal Services</h2>
-      <p>When you reserve Soma Sound for your next music rehearsal, you will have private and exclusive access to our fully furnished, live performance band practice room. All appointments must be confirmed and rescheduled using our online booking system with a minimum of two hours. Six days a week, rehearsals can be booked from 12 noon to 1:00 a.m.</p>
+      <p>When you reserve Soma Sound for your next <strong>music rehearsal</strong>, you will have private and exclusive access to our fully furnished, live performance band practice room. All appointments must be confirmed and rescheduled using our online booking system with a minimum of two hours. Six days a week, rehearsals can be booked from 12 noon to 1:00 a.m.</p>
     </div>
 <hr hr color="#fffff0">
     <div class="col-12 col-md-12">
@@ -53,7 +53,11 @@ Book a space to rehearse for your next big performance, or just jam out in our l
     </div>
     <div class="col-12 col-md-12">
       <h2>Philadelphia Music Practice Studios</h2>
-      <p>Get your friends to jam in one of our accessible, cheap rehearsal studios. Use them as your own drum practice space, dominate your band rehearsal, or practice your stage presence before a performance. This area is available to anybody who wants to practice solo or in a band, regardless of their race, sexual orientation, gender, or social standing.</p>
+      <p>Get your friends to jam in one of our accessible, <strong>cheap rehearsal studios</strong>. Use them as your own drum practice space, dominate your band rehearsal, or practice your stage presence before a performance. This area is available to anybody who wants to practice solo or in a band, regardless of their race, sexual orientation, gender, or social standing.</p>
+    </div>
+    <div class="col-12 col-md-12">
+      <h2>Philadelphia Band Rehearsal Studios</h2>
+      <p>We also welcome bands and other artists that desire a space to rehearse their works inside our facility. We always have instruments available to rent for your rehearsal. For a fantastic sounding location for your rehearsal, rent out our studio!</p>
     </div>
   </div>
 </div>
