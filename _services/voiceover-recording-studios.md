@@ -37,7 +37,7 @@ Additional Offerings
 - Audio for Video
 - Jingles & Original Music Soundtracks
 
-> Please <a href="/contact/">contact us</a> about scheduling, questions, and price estimates for any additional special requests.
+> Don not hesitate to <a href="/contact/">contact us</a> about any scheduling questions or price estimates for any additional special requests.
 
 <p>{% include booking-buttons/studio-a.html %}</p>
 
