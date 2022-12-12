@@ -1,13 +1,13 @@
 <div class="call">
   <div class="call-box-top">
     {% if site.data.contact.phone %}
-        <div class="call-phone"><strong>Phone: </strong><a href="tel:{{ site.data.contact.phone }}">
+        <div class="call-phone"><strong>Phone: </strong><a href="tel:{{ site.data.contact.phone }}" aria-label="8 5 6. 2 9 8. 3 0 9 5.">
           {{ site.data.contact.phone }}</a>
         </div>
     {% endif %}
     {% if site.data.contact.email %}
     <div class="call-email"><strong>Email: </strong>
-      <a href="mailto:{{ .site.data.contact.email }}" aria-label="8 5 6. 2 9 8. 3 0 9 5."> {{ site.data.contact.email }}</a>
+      <a href="mailto:{{ .site.data.contact.email }}" aria-label="soundslikesoma@gmail.com"> {{ site.data.contact.email }}</a>
     </div>
     {% endif %}
 
@@ -24,10 +24,4 @@
       <div class="call-box-bottom">
         <a href="https://squareup.com/appointments/buyer/widget/zkvz7h6ta6pudt/8GNV6PJ8WK7YH" class="button">Book Now</a>
       </div>
-      <!-- make it show only when on mobile on homepage -->
-<!--     {% if include.show_button %}
-      <div class="call-box-bottom">
-        <a href="/{{ site.data.contact.contact_button_link }}" class="button">Contact Us</a>
-      </div>
-    {% endif %} -->
 </div>
