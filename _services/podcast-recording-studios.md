@@ -1,6 +1,6 @@
 ---
 title: 'Podcast Production'
-title-h1: 'Podcast Production and Editing'
+title-h1: 'Podcast Production, Recording, and Editing Studios'
 weight: 3
 date: 2022-11-03
 intro_image: "images/services/podcast-recording-studio-philadelphia.webp"
@@ -11,7 +11,7 @@ tags: [podcast rooms,voice,recording]
 Philly's top podcast production studio invites you to work with our team of audio editing experts.
 Equipped with crystal-clear SM7B broadcast dynamic microphones, our noise treated facilities are perfect for any size production. 
 
-<img src="/images/services/podcast-recording-studio-philadelphia.webp" title="Group Podcast Recording" alt="Group Podcast Recording" style="width:80%;"/>
+<img src="/images/services/podcast-recording-studio-philadelphia.webp" title="Group Podcast Recording Studios" alt="Group Podcast Recording Studios" style="width:80%;"/>
 
 ## Book Our Podcast Rooms
 
@@ -57,7 +57,7 @@ Optional Add-ons:
 
 <p>{% include booking-buttons/podcast-video.html %}</p>
 
-<img src="/images/services/studio-mixing-music-mastering.webp" title="Post Production Podcast Editing south philadelphia" alt="Post Production Podcast Editing south philadelphia" style="width:80%;"/>
+<img src="/images/services/podcast-studio-production-recording.webp" title="Post Production Podcast Editing south philadelphia" alt="Post Production Podcast Editing south philadelphia" style="width:80%;"/>
 
 <!-- special services -->
 <div class="strip strip-grey">
@@ -66,7 +66,7 @@ Optional Add-ons:
 <div class="col-12 col-md-12">
 
 <h2>Podcast Production and Editing Services</h2>
-<p>Sounds Like Soma has become one of the highest rated **podcast production compnaies** in the Philadelphia area. Currently located in South Philly, our experienced team of audio engineers and podcast producers are ready to take on all challenges. We network closly with dozens of local radio talk shows and live streamers.</p>
+<p>Sounds Like Soma has become one of the highest rated <strong>podcast production compnaies</strong> in the Philadelphia area. Currently located in South Philly, our experienced team of audio engineers and podcast producers are ready to take on all challenges. We network closly with dozens of local radio talk shows and live streamers.</p>
 <p>If your company is already experienced with podcasting, or are a newcomer to the scene, let us know how we can help capture your ideas and turn them into a top quality production capable of reaching millions. Our state-of-the-art podcast studio spaces have the equipment to tackle any audio or video related project, no matter how small or large the scale. Contact us to plan an approach that works best for your project or budget.</p>
 
 <div class="row justify-content-center">
@@ -94,12 +94,12 @@ Optional Add-ons:
 <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
   <div class="row justify-content-center">
     <div class="col-12 col-md-6">
-      <h2>Podcast Studios</h2>
-      <p>We offer everything you could require to complete your next podcast project. Everything from pre-production preparation to sound effects and music will be professionally handled by us for you. Our podcast recording studios and staff are equipped to meet any challenge you may provide!</p>
+      <h2>Podcast Studios in Philadelphia, PA</h2>
+      <p>We offer everything you could require to complete your next podcast project. Everything from pre-production preparation to sound effects and music will be professionally handled by us for you. Our <strong>podcast recording studios<strong> and staff are equipped to meet any challenge you may provide!</p>
     </div>
     <div class="col-12 col-md-6">
       <h2>Podcasting Services</h2>
-      <p>Our podcast studios were built with the intention of giving the community something unique. Projects of any scale can be accommodated in out podcast studio - whether it's a solo project or a large group with musical performances. The studio has undergone rigorous acoustical treatment in order to provide our clients with the best sound quality possible. Every cutting-edge piece of gear a podcast recording studio needs to improve the listening experience of any recording is available up in our collection.</p>
+      <p>Our podcast studios were built with the intention of giving the community something unique. Projects of any scale can be accommodated in our Philadelphia podcast studio - whether it's a solo project or a large group with musical performances. The studio has undergone rigorous acoustical treatment in order to provide our clients with the best sound quality possible. Every cutting-edge piece of gear a podcast recording studio needs to improve the listening experience of any recording is available up in our collection.</p>
     </div>
 <hr hr color="#fffff0">
     <div class="col-12 col-md-12">
@@ -121,7 +121,7 @@ Optional Add-ons:
 
 Corporate expertise - Working on a podcast for your business? Let us guide your team in best practices from start to finish to obtain the clearest sound possible. After you are done recording, our editing team will make your voice 'pop' and condense any unwanted pauses or vocal hichups. Broadcast standards are constantly exolving, so let us take the wheel and elevate your company's voice to get you sounding your best!
 
-### I'm new to podcasting, any tips?
+### I'm new to recording, any tips?
 
 Quick tips - Write down topics ahead of time and have extras just in case the episode moves at a quicker pace than expected. Do your best to avoid dead air, but know that we are always able to edit anything out you don not like. It is common to want to drink or smoke to shake off nervous jitters, but try not to get too inebriated (and definitely don't mix the 2).
 
@@ -129,7 +129,7 @@ We have a detailed blog (coming soon) covering podcast **creation** and equipmen
 
 We would love to work with you to grow your brand or ideas if you are new! You can <a href="https://squareup.com/appointments/buyer/widget/zkvz7h6ta6pudt/8GNV6PJ8WK7YH" target="Schedule A Tour">schedule a free consultation</a> by contacting one of the engineers. Or talk to us after your first podcast episode for an honest critique on what we think you should try out or improve on. 
 
-### What's the longest running podcast you've worked on?
+### What's the longest running show you've worked on?
 
 Some of our clients have completed 200+ episodes. Some have even expanded to doing live radio shows, both in our studio and on a radio near you. Check out the episode demos below to hear some of the longer running shows we currently work with.
 
