@@ -27,7 +27,7 @@ If you want the best Sounds Like Soma has to offer, Studio A has what you need.
 
 No matter if you are a full band, solo artist, or need instrumentals produced for you, Studio A is ready for your most important projects. Come and see why we're called one of the best music studios in Philly
 
-> **please note:** We require deposits up front in order to reserve all studio spaces. Follow the link below to pay and schedule a session, or <a href="/team/" target="Our Team of Audio Engineers">contact one of our engineers</a> directly to arrange a time to record.
+> **please note:** We require deposits up front in order to reserve all studio spaces. Follow the link below to pay and schedule a session, or <a href="/contact/" target="Our Team of Audio Engineers">contact one of our engineers</a> directly to arrange a time to record.
 
 <p>{% include booking-buttons/studio-a.html %}</p>
 
