@@ -1,6 +1,6 @@
 ---
 title: 'Podcast Production'
-title-h1: 'Podcast Production, Recording, and Editing Studios'
+title-h1: 'Podcast Production, Recording, and Editing'
 weight: 3
 date: 2022-11-03
 intro_image: "images/services/podcast-recording-studio-philadelphia.webp"
