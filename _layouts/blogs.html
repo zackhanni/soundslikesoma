@@ -27,7 +27,7 @@ bodyClass: "page-blogs"
           <h2 class="service-title">
             <a href="{{ blog.url | relative_url }}">{{ blog.title }}</a>
           </h2>
-          <p>{{ blog.content | markdownify | strip_html | truncate: 160 }}</p>
+          <p>{{ blog.content | markdownify | strip_html | truncate: 150 }}</p>
         </div>
       </div>
     </div>

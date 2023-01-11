@@ -7,7 +7,7 @@ description: Over decades, Rhythm and Blues has evolved to fit modern music tast
 tags: [music mastering, mastering, audio master]
 ---
 
-In this article I cover the Rhythm and Blues genre trajectory from the perspective of a Philadelphia recording studio with a passion for RnB music recording.
+Rhythm and Blues genre trajectory from the perspective of a Philadelphia recording studio with a passion for RnB music recording.
 
 <img src="/images/blogs/rnb-recording-studio-philadelphia.webp" title="RnB Recording artist Juice Elliott" alt="RnB Recording artist Juice Elliott" style="width:80%;"/>
 
