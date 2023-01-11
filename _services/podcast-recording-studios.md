@@ -95,7 +95,7 @@ Optional Add-ons:
   <div class="row justify-content-center">
     <div class="col-12 col-md-6">
       <h2>Podcast Studios in Philadelphia, PA</h2>
-      <p>We offer everything you could require to complete your next podcast project. Everything from pre-production preparation to sound effects and music will be professionally handled by us for you. Our <strong>podcast recording studios<strong> and staff are equipped to meet any challenge you may provide!</p>
+      <p>We offer everything you could require to complete your next podcast project. Everything from pre-production preparation to sound effects and music will be professionally handled by us for you. Our <strong>podcast recording studios</strong> and staff are equipped to meet any challenge you may provide!</p>
     </div>
     <div class="col-12 col-md-6">
       <h2>Podcasting Services</h2>
@@ -112,6 +112,7 @@ Optional Add-ons:
     </div>
   </div>
 </div>
+
 
 - - -
 
