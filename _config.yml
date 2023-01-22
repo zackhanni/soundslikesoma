@@ -56,7 +56,7 @@ defaults:
 sass:
   style: compressed # possible values: nested expanded compact compressed
 
-url: "https://soundslikesoma.com" # the base hostname & protocol for your site
+url: "https://www.soundslikesoma.com" # the base hostname & protocol for your site
 
 plugins:
   - jekyll-environment-variables
