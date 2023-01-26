@@ -3,7 +3,7 @@ title: 'Reverse Ghost Reverb (With Instructions)'
 title-h1: 'Reverse Ghost Reverb (With Instructions)'
 date: 2023-01-22
 intro_image: 'images/blogs/spooky-audio-effects-ableton-mixing.webp'
-description: Instructions for ghost-like reverb effect on vocals that is used in movies, TV and music. 
+description: Instructions for a ghost-like reverb audio effect for vocals that is commonly used in movies, TV and music, and more!
 tags: [vocal mixing, reverb efect, audio effects]
 ---
 
