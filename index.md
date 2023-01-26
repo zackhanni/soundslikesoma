@@ -10,5 +10,5 @@ show_call_box: true
 
 # Music Recording Studios in Philadelphia
 
-A Philadelphia Recording Studio for Professional Audio Editing and Music Mixing
+Philadelphia Recording Studios for Professional Audio Editing and Music Mixing
 
