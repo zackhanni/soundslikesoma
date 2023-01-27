@@ -13,7 +13,7 @@ Equipped with crystal-clear SM7B broadcast dynamic microphones, our noise treate
 
 <img src="/images/services/podcast-recording-studio-philadelphia.webp" title="Group Podcast Recording Studios" alt="Group Podcast Recording Studios" style="width:80%;"/>
 
-## Book Our Podcast Rooms
+## Podcast Recording Studio Rooms
 
 What's Included:
 - Podcast Recording Equipment, Microphones, and Setup
