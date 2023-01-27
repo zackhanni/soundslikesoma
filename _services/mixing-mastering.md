@@ -19,7 +19,9 @@ The mixing process has more opportunity for creativity to capture the artists vi
 
 Visit the Soma blog where We cover  <a href="/blogs/what-is-mixing-mastering/" target="Learn more about mixing and mastering">the differences in mixing and mastering</a> in more detail.
 
-## Music Mixing
+--- 
+
+## Professional Music Mixing
 
 - $105 Mix and Master : Stereo Instrumental + Vocal Stems
 - $195 Mix and Master : Multi-track Recording 10 - 25 Track Stems
@@ -40,13 +42,13 @@ We recommend using <a href="https://wetransfer.com" target="WeTransfer Official 
 
 <img src="/images/services/music-mastering-equipment.webp" alt="mastering equipment" style="width:80%;"/>
 
-## Song Mastering
+## Radio Ready Song Mastering
 
 Mastering can range from being a very delicate technique that just requires modest adjustments to enhance the existing mixes to, on rare occasions, a full-scale rescue operation for troublesome songs where meticulous restoration is required.
 
 We work with you to get your best overall tone and balance on your recordings. We will communicate with you if we feel there are issues with your mix before we proceed with the mastering process.
 
-Unsure if mastering is the best next step for your project? <a href="/blogs/what-is-mixing-mastering/" target="Learn more about mixing and mastering">Learn about the difference between mixing & mastering</a> in our new Soma blog posts where we take you on an in-depth comparison about the similarities and differences between the 2.
+Unsure if mastering is the best next step for your project? <a href="/blogs/what-is-mixing-mastering/" target="Learn more about mixing and mastering">Learn about mastering</a> in out mixing and mastering blog post.
 
 - $45 Mastering Only
 
@@ -66,26 +68,9 @@ We Recommend using <a href="https://wetransfer.com" target="WeTransfer Official 
 
 > Exporting track stems may not be a difficult task, but it is time consuming to do correctly (especially for multiple songs). That is why we charge a small fee to fully export stems when its outside of booked studio time. 
 
-Please specify ahead of time if you want **dry** or **wet** stem exports
+Please specify ahead of time if you want dry or wet stem exports
 
-<div style="overflow: auto;">
-  <a target="_blank" href="https://checkout.square.site/buy/PI5PLBDE3S3IAHWWZS6F5RE5?src=embed" style="
-    display: inline-block;
-    font-family: Helvetica, Arial, sans-serif;
-    font-size: 18px;
-    line-height: 38px;
-    height: 40px;
-    padding-left: 48px;
-    padding-right: 48px;
-    color: #ffffff;
-    min-width: 165px;
-    background-color: #0072ee;
-    border-radius: 4px;
-    text-align: center;
-    box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
-  ">Buy Song Trackout</a>
-</div>
-
+<div><a target="_blank" href="https://checkout.square.site/buy/PI5PLBDE3S3IAHWWZS6F5RE5?src=embed" class="button">Buy Song Stem Trackout</a></div>
 
 <!-- Good seo keyword paragraphs -->
 <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
