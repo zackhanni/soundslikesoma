@@ -2,6 +2,7 @@
 title: Contact Us About Booking A Session Today | Sounds Like Soma
 title-h1: Contact Us About Booking A Session Today 
 layout: contact
+intro_image: "images/music-studios-philadelphia.webp"
 description: Call, text, or email our staff members with any questions about booking one of our amazing recording studios. We are happy to answer any questions
 ---
 

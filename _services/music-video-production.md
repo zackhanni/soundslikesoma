@@ -3,6 +3,7 @@ title: '4K Video Production'
 title-h1: '4K Video Production Services'
 weight: 6
 date: 2022-11-06
+intro_image: "images/services/outdoor-music-video-shoot.webp"
 description: Hire a videographer for music video production or social media promotions in Philadelphia. Get your video done today with Sounds Like Soma
 tags: [video,music video,filming,recording]
 ---

@@ -3,6 +3,7 @@ title: 'Rentable Music Studio Space'
 title-h1: 'Rentable Music Studio Space'
 weight: 4
 date: 2022-11-04
+intro_image: "images/services/rent-recording-studio-south-philadelphia.webp"
 description: Recording studio space for rent. Use HD audio equipment and condenser microphones to record yourself in a private room. Affordable prices - bulk discounts
 tags: [recording studio for rent, rent recording studio, music recording]
 ---
