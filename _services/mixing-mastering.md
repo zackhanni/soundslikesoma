@@ -11,22 +11,28 @@ tags: [studio,mixing,mastering,stems]
 
 <img src="/images/services/studio-mixing-music-mastering.webp" alt="mastering studio" style="width:80%;"/>
 
+## What is mixing and mastering?
+
+Mixing and mastering is a process to achieve musical and tonal balance. Typically, mixing audio stems usually has significant and obvious changes while song mastering is a more subtle art with broad changes that effect the entire song.
+
+The mixing process has more opportunity for creativity to capture the artists vision, while mastering focuses on sound quality and making your song competitive to songs on the radio or streaming platforms.
+
+Visit the Soma blog where We cover  <a href="/blogs/what-is-mixing-mastering/" target="Learn more about mixing and mastering">the differences in mixing and mastering</a> in more detail.
+
 ## Music Mixing
 
 - $105 Mix and Master : Stereo Instrumental + Vocal Stems
-- $195 Mix and Master : Multitrack Recording 10 - 25 Track Stems
-- $260 Mix and Master : Multitrack Recording 25 - 50 Track Stems
+- $195 Mix and Master : Multi-track Recording 10 - 25 Track Stems
+- $260 Mix and Master : Multi-track Recording 25 - 50 Track Stems
 - Prices Include Mastering
 - Contact Us Directly for Projects Larger Than 50 Track Stems
 - Discounts On Albums If You Submit Your Order All Together
 
 **What To Send**
 
-Please send equal length 24-bit .wav file stems in your native sample rate along with a reference demo mix to <a href="mailto:{{ site.data.contact.email }}">{{ site.data.contact.email }}</a>
+Please send equal length 24-bit .WAV file stems in your native sample rate along with a reference demo mix to <a href="mailto:{{ site.data.contact.email }}">{{ site.data.contact.email }}</a>
 
 We recommend using <a href="https://wetransfer.com" target="WeTransfer Official Website">WeTransfer.com</a> to send large files to us for free. Alternatively, you are welcome to use DropBox, Google Drive, or bring in a portable hard drive.
-
-Want to learn more about mixing music? <a href="/blogs/what-is-mixing-mastering/" target="Learn more about mixing and mastering">Check out the soma blog</a> to find out more
 
 <p>{% include booking-buttons/mix-master.html %}</p>
 
@@ -46,7 +52,7 @@ Unsure if mastering is the best next step for your project? <a href="/blogs/what
 
 **Please Send Us...**
 
-A 24bit stereo .wav audio file with 1db or more of headroom to <a href="mailto:{{ site.data.contact.email }}">{{ site.data.contact.email }}</a>
+A 24-bit stereo .WAV audio file with 1db or more of headroom to <a href="mailto:{{ site.data.contact.email }}">{{ site.data.contact.email }}</a>
 
 We Recommend using <a href="https://wetransfer.com" target="WeTransfer Official Website">WeTransfer</a>, DropBox, or Google Drive to send large files to us for free.
 
@@ -54,7 +60,7 @@ We Recommend using <a href="https://wetransfer.com" target="WeTransfer Official 
 
 - - -
 
-## Song Trackout - Export Stems
+## Song Track-out - Export Stems
 
 - $10 Per Song
 
@@ -89,7 +95,7 @@ Please specify ahead of time if you want **dry** or **wet** stem exports
       <p>Your recording is delivered to a mix engineer who will make it listenable, increase the emotional transmission of the song, balance out each frequency, and prepare it for radio play. We will professionally manage everything for you, including music arrangement and audio leveling to post-production mastering. Our highly skilled mix engineers at specialize in mixing with a quick workflow and are prepared to handle any challenge you may present!</p>
     </div>
     <div class="col-12 col-md-6">
-      <h2>Mastering Studio</h2>
+      <h2>Mastering Studio in Philadelphia</h2>
       <p>We have dedicated post-production engineers here at Sounds Like Soma Studios. Since mixing and mastering are distinct from tracking, they specialize in bringing out every nuance in a recording while also expertly balancing and fine-tuning the music to ensure that it is listenable and effectively speaks to every audience.</p>
     </div>
 <hr hr color="#fffff0">
@@ -113,23 +119,23 @@ Please specify ahead of time if you want **dry** or **wet** stem exports
 
 ### What is Music Mixing?
 
-This is a complicated tipic, in short - mixing is typically cleaning up many audio tracks. For example, adjusting volume, timing, adding EQ, compression, reverb, autotune or other methods that may characteristically change the sound of each recorded track.
+This is a complicated topic, in short - mixing is typically cleaning up many audio tracks. For example, adjusting volume, timing, adding EQ, compression, reverb, autotune or other methods that may characteristically change the sound of each recorded track.
 
 Mixing has more creative opportunities to capture the artists vision. The goal is to transform many recorded files into a single cohesive and balanced whole.
 
 ### What is Music Mastering?
 
-Typically, when mastering, youre working with a single stereo file or just the master output of the mix.
+Typically, when mastering, you are working with a single stereo file or just the master output of the mix.
 
 Mastering is about sound quality and making the overall song as good or better than the competition on the radio now.
 
-For some, mastering is about making the song AS LOUD AS POSSIBLE while maintaining the feeling, emotion and PUNCH that it was given in the mixing stage. Check out this iZotope article to <a href="https://www.izotope.com/en/learn/what-is-mastering.html" target="what is mastering">Learn More about mastering</a>
+For some, mastering is about making the song AS LOUD AS POSSIBLE while maintaining the feeling, emotion and PUNCH that it was given in the mixing stage. 
 
 ### What if I want my song AS LOUD AS POSSIBLE!!
 
-If that's what you want we will do it, but there are a few things you should know. Streaming platforms like Apple Music and Spotify turn down loud songs on their platform to -14 LUFS to make volumes across songs sound more even. 
+If maximum loudness is your goal, we can make it happen, but you should know there may be trade offs. Streaming platforms like Apple Music and Spotify turn down loud songs on their platform to -14 LUFS to make volumes across songs sound more even. 
 
-You may actually be hurting your music by making it too loud because it loses punch and power compared to less compressed songs at the same LUFS level. Audio equipment retailer Sweetwater has <a href="https://www.sweetwater.com/insync/what-is-lufs-and-why-should-i-care/" target="What is lufs and why should I care">long but thorough article covering LUFS</a> in more detail.
+You may actually be hurting your music by making it too loud because it loses punch and power compared to less compressed songs at the same LUFS level. Visit the studio for a live demo.
 
 - - -
 
