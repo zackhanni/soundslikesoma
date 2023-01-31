@@ -12,7 +12,7 @@ World-class recording and professional mixing studio. Get your next music projec
 <img src="/images/best-philadelphia-recording-studios.webp" title="Recording Studio with Keyboards and Sperkers" alt="Recording Studio with Keyboards and Sperkers" style="width:80%;"/>
 
 ## Studio A
-With Head Engineer Zack Hanni
+With Head Audio Engineer Zack Hanni
 
 - $65 / Hour ($80 After Midnight)
 - Vocal Booth and Private Recording Area
@@ -34,12 +34,11 @@ No matter if you are a full band, solo artist, or need instrumentals produced fo
 - - -
 
 ## Studio B
-With Engineer Gage Bingham
+With Sound Engineer Gage Bingham
 
 <img src="/images/services/music-mixing-studio-b.webp" title="Mixing With Shamir" alt="Mixing Music In Studio B" style="width:80%;"/>
 
 - $45 / Hour ($60 After Midnight)
-- 5+ Years Experience Recording & Mixing
 - Industry Standard Plugins from Waves, Izotope, and Antares
 - Custom Beat Production
 - <a href="/services/gearlist/" target="Gear List">State-Of-The-Art Audio Equipment</a>
@@ -59,7 +58,15 @@ We have all of the equipment you need from speakers, interface, microphones, and
 
 When you complete recording, maybe you'll need a second pair of ears on it. Consider contacting one of our engineers to discuss moving forward with getting it touched up.
 
-- - -
+<img src="/images/services/hip-hop-recording-studio-philly.webp" title="Hip-Hop Recording Studios" alt="Hip-Hop Recording Studios" style="width:80%;"/>
+
+## Hip Hop Recording Studio
+
+Due to our proximity in Philadelphia, we have the opportinuty to work with the city's many great up and coming rappers, singers, and musicians. Especially in regards to RnB, this this studio has been able to explore new techniques and continue to adapt to fuzing and growing genres. So when someone asks if were just another philly hip hop recording studio, we can say that we dont confine ourselves to just 1 style of music.
+
+We work in all genres inclusing Electronic, House, Funk, Alternative, Pop, Bluegrass, Ghospel, and more! By working with such a variety of clients on a day to day basis, we are able to combine ideas and mixing techniques when it comes ot producing a song. We work closely with out music clients to build a work of art the artist and out studio cna be proud of. 
+
+I hope that in the years to come, that we can all look back and see out contribution to the 'Philly Sound'.
 
 ## FAQ
 
