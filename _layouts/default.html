@@ -3,7 +3,6 @@
 
 <head>
   <meta charset="utf-8">
-  <!-- this could be causing the webrick error when the first page.title has -h1 on it. im not sure so i put this note -->
   <title>{% if page.title-h1 %}{{page.title-h1}} | Sounds Like Soma{% else %}{{ page.title }}{% endif %}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="icon" type="image/png" href="{{ '/images/favicon.webp' | relative_url }}">
