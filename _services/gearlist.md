@@ -97,7 +97,7 @@ High-end studio quality equipment ranging from guitars to microphones to preamps
 - Serum
 - Omnisphere
 
-## Other
+## Other Equipment
 - Pioneer DDJ-400 Turntables
 - Ableton Push Controller
 - Tascam Ministudio Porta02 mkII (cassette deck)
@@ -117,4 +117,10 @@ High-end studio quality equipment ranging from guitars to microphones to preamps
 We are always buying and trading new equipment, so this gear list may be incomplete. If you have or know of audio equipment for sale, drop us a line!
 
 We just got off the phone with Google, and they said it is important to have a paragraph or 2 of text on just about every page. The goal is to assist with SEO - meaning we show up higher in search results. When you search for things like - Recording studios near me, or Band music recording equipment, we want to be at the top. Anywhoo, thanks for listening to what we have to say.
+
+## How Much Is Recording Studio Equipment?
+
+There are so many versions of the same equipment at various price points. A complete basic studio setup may cost around $500, while a medium setup may cost 30 thousand or more. High-End recording studio setups could cost in the hundreds of thousands to the millions.
+
+Keep in mind that you do not need the best equipment to make good music. The right mic can help capture crisper high end and a cleaner low end, but at the end of the day, a good catchy song is going to be catchy regardless of what mic you use. Especially for those just getting started, do not let lack of equipment stop you from recording vocals or your instrument.
 
