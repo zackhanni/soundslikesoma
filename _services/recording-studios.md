@@ -36,7 +36,7 @@ No matter if you are a full band, solo artist, or need instrumentals produced fo
 ## Studio B
 With Sound Engineer Gage Bingham
 
-<img src="/images/services/music-mixing-studio-b.webp" title="Mixing With Shamir" alt="Mixing Music In Studio B" style="width:80%;"/>
+<img src="/images/services/music-mixing-studio-b.webp" loading="lazy" title="Mixing With Shamir" alt="Mixing Music In Studio B" style="width:80%;"/>
 
 - $45 / Hour ($60 After Midnight)
 - Industry Standard Plugins from Waves, Izotope, and Antares
@@ -58,7 +58,7 @@ We have all of the equipment you need from speakers, interface, microphones, and
 
 When you complete recording, maybe you'll need a second pair of ears on it. Consider contacting one of our engineers to discuss moving forward with getting it touched up.
 
-<img src="/images/services/hip-hop-recording-studio-philly.webp" title="Hip-Hop Recording Studios" alt="Hip-Hop Recording Studios" style="width:80%;"/>
+<img src="/images/services/hip-hop-recording-studio-philly.webp" loading="lazy" title="Hip-Hop Recording Studios" alt="Hip-Hop Recording Studios" style="width:80%;"/>
 
 ## Hip Hop Recording Studio
 
@@ -84,6 +84,6 @@ We have a lot of experience working with Pop, Rock, R&B, Electronic and of cours
 
 - - -
 
-<img src="/images/services/band-recording-guitars.webp" title="Recording Guitars" alt="2 Guitar Players Recording" style="width:80%;"/>
+<img src="/images/services/band-recording-guitars.webp" loading="lazy" title="Recording Guitars" alt="2 Guitar Players Recording" style="width:80%;"/>
 
 

@@ -31,7 +31,7 @@ Thanks to modern software, audio engineers are about to digitally re-create a va
 
 It is difficult to describe whats going on without hearing it so before you read further, consider taking a listen to this demo on <a href="https://youtube.com/shorts/CbGy2qIvqC4?feature=share" target="Watch on YouTube">YouTube</a> or <a href="https://www.tiktok.com/@sounds_like_soma/video/7137440670041640238?is_from_webapp=1&sender_device=pc&web_id=7164488931840263722" target="Watch on TikTok">TikTok</a>!
 
-<img src="/images/blogs/reverse-ghost-reverb-plugin-effect.webp" title="ghost reverb audio effects for vocals" alt="ghost reverb audio effects for vocals" style="width:80%;"/>
+<img src="/images/blogs/reverse-ghost-reverb-plugin-effect.webp" loading="lazy" title="ghost reverb audio effects for vocals" alt="ghost reverb audio effects for vocals" style="width:80%;"/>
 
 ## Instructions for Reverse Ghost Reverb Audio Effect
 
@@ -45,7 +45,7 @@ Here are typed out instructions on how to create this effect for yourself on you
 - Reverse that audio and line it up in front of the original recording.
 - Now you have a cool fade in build-up effect for your vocals
 
-<img src="/images/blogs/spooky-audio-effects-ableton-mixing.webp" title="spooky ghost" alt="spooky ghost" style="width:80%;"/>
+<img src="/images/blogs/spooky-audio-effects-ableton-mixing.webp" loading="lazy" title="spooky ghost" alt="spooky ghost" style="width:80%;"/>
 
 ## Final Thoughts
 

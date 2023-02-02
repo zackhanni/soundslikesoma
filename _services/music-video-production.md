@@ -41,7 +41,7 @@ Please have **examples of your favorite music videos** or effects you like so we
 
 - - -
 
-<img src="/images/services/philly-music-video-production.webp" title="Philly Music Video Production" alt="Camera recording rapper smoking in studio" style="width:80%;"/>
+<img src="/images/services/philly-music-video-production.webp" loading="lazy" title="Philly Music Video Production" alt="Camera recording rapper smoking in studio" style="width:80%;"/>
 
 ## 1 Minute Social Media Promo Video
 

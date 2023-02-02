@@ -40,7 +40,7 @@ We recommend using <a href="https://wetransfer.com" target="WeTransfer Official 
 
 - - -
 
-<img src="/images/services/music-mastering-equipment.webp" title="mixing mastering studio equipment" alt="mixing mastering studio equipment" style="width:80%;"/>
+<img src="/images/services/music-mastering-equipment.webp" loading="lazy" title="mixing mastering studio equipment" alt="mixing mastering studio equipment" style="width:80%;"/>
 
 ## Radio Ready Song Mastering
 

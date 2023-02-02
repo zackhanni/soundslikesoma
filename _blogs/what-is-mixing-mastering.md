@@ -46,4 +46,4 @@ For details on <a href="/services/mixing-mastering/" target="More Info">pricing 
 
 - - -
 
-<img src="/images/blogs/studio-mixing-session.webp" alt="2 artists working with an audio engineer" style="width:80%;"/>
+<img src="/images/blogs/studio-mixing-session.webp" loading="lazy" alt="2 artists working with an audio engineer" style="width:80%;"/>

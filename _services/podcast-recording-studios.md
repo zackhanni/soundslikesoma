@@ -57,7 +57,7 @@ Optional Add-ons:
 
 <p>{% include booking-buttons/podcast-video.html %}</p>
 
-<img src="/images/services/podcast-studio-production-recording.webp" title="Post Production Podcast Editing south philadelphia" alt="Post Production Podcast Editing south philadelphia" style="width:80%;"/>
+<img src="/images/services/podcast-studio-production-recording.webp" loading="lazy" title="Post Production Podcast Editing south philadelphia" alt="Post Production Podcast Editing south philadelphia" style="width:80%;"/>
 
 <!-- special services -->
 <div class="strip strip-grey">

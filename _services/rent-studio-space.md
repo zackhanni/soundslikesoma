@@ -38,7 +38,7 @@ What's Included:
 
 <a href="/services/recording-studios/" target="Studio B">Studio B</a> is also rentable when not actively in-use by one of our engineers. You will have to <a href="/contact/" target="Contact us">contact one of our staff</a>  to discuss availability and booking options. It has even better equipment - powerful speakers, better acoustics, and a more comfortable, professional looking recording area.
 
-<img src="/images/services/music-mixing-studio-b.webp" title="Mixing music with Shamir" alt="Music Mixing Console" style="width:80%;"/>
+<img src="/images/services/music-mixing-studio-b.webp" loading="lazy" title="Mixing music with Shamir" alt="Music Mixing Console" style="width:80%;"/>
 
 - - -
 
@@ -68,4 +68,4 @@ We designed this space for all-in-one artists who want to record themselves, or 
 
 This space is designed to be an option for those on a budget or who may not be able to record at their own home studio. Music **studio space for rent near me**. Check out a wider view of the entire room below. It is enough to also fit a drum kit and several additional guests.
 
-<img src="/images/services/recording-studio-for-rent.webp" title="Wide shot of studio C" alt="recording studio desk, speakers and microphone" style="width:80%;"/>
+<img src="/images/services/recording-studio-for-rent.webp" loading="lazy" title="Wide shot of studio C" alt="recording studio desk, speakers and microphone" style="width:80%;"/>
