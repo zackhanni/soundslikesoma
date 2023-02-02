@@ -11,4 +11,4 @@ intro_image_hide_on_mobile: false
 
 Learn about music recording or keep up to date with recent events happening at the studio. If you have any questions regarding audio recording or music mixing, <a href="/contact/" target="Contact An Audio Expert">reach out to an audio expert</a>. 
 
-Lessons covering the difference between mixing and mastering in addition to what they both have in common. Hear news about some of our favorite artists, events and articles released by our expert engineers.
+Lessons covering the difference between mixing and mastering in addition to what they both have in common. Hear **news** about some of our favorite artists, **events and articles** released by our expert engineers.

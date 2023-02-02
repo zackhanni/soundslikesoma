@@ -8,7 +8,7 @@ description: What is mixing and mastering? Is your music properly mixed to a rad
 tags: [music mastering, mastering, audio master]
 ---
 
-Learn about the difference between mixing and mastering. It is common for people to get the 2 confused, but hopefully by the end of this you will have a stronger understanding of the difference.
+Learn about the difference between **mixing and mastering**. It is common for people to get the 2 confused, but hopefully by the end of this you will have a stronger understanding of the difference.
 
 <img src="/images/services/music-mastering-equipment.webp" alt="Mastering equipment in a rack case" style="width:80%;"/>
 

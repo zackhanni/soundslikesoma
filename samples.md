@@ -10,4 +10,4 @@ intro_image_hide_on_mobile: false
 
 # Music Samples From Artists We Love
 
-We record artists all genres of music. Check out some our song demos from bands, rappers and singers we love working with! 
+We record artists **all genres of music**. Check out some our **song demos** from bands, rappers and singers we love working with! 
