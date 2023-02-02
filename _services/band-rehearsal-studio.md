@@ -65,7 +65,7 @@ Book a space to rehearse for your next big performance, or just jam out in our l
   <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
     <div class="row justify-content-center">
       <div class="col-12 col-md-12">
-      <h2>Philadelphia Band Rehearsal Studios</h2>
+      <h2>Rent Our Band Rehearsal Studios</h2>
       <p>We welcome bands and artists that desire a space to rehearse their works inside our facility. We always have instruments available to rent for your rehearsal. For a fantastic sounding location for your rehearsal, rent out our studio!</p>
       </div>
     </div>
