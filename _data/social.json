@@ -2,31 +2,31 @@
   {
     "name": "Twitter",
     "link": "https://twitter.com/SomaaaMusic",
-    "image": "images/social/twitter.png"
+    "image": "images/social/twitter.webp"
   },
   {
     "name": "Instagram",
     "link": "https://instagram.com/soundslikesoma/",
-    "image": "images/social/instagram.png"
+    "image": "images/social/instagram.webp"
   },
   {
     "name": "TikTok",
     "link": "https://www.tiktok.com/@sounds_like_soma",
-    "image": "images/social/tiktok.png"
+    "image": "images/social/tiktok.webp"
   },
   {
     "name": "Facebook",
     "link": "https://www.facebook.com/soundslikesoma/",
-    "image": "images/social/facebook.png"
+    "image": "images/social/facebook.webp"
   },
   {
     "name": "YouTube",
     "link": "https://www.youtube.com/user/basscreators",
-    "image": "images/social/youtube.png"
+    "image": "images/social/youtube.webp"
   },
   {
     "name": "Linkedin",
     "link": "https://www.linkedin.com/in/zackhanni/",
-    "image": "images/social/linkedin.png"
+    "image": "images/social/linkedin.webp"
   }
 ]
