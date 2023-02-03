@@ -1,27 +1,30 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Recording",
+    "description": "",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/features/philadelphia-vocal-recording.webp",
+      "title": "Philadelphia Vocal Recording",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Certified Engineers",
-    "description": "All members of our team are certified audio engineers.",
+    "title": "Mixing",
+    "description": "",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/features/philadelphia-mixing-studios.webp",
+      "title": "Philadelphia Mixing Studios",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Broadcast Ready",
-    "description": "We stay up to date on the latest streaming and radio standards.",
+    "title": "Mastering",
+    "description": "",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/philadelphia-mastering-studios.webp",
+      "title": "Philadelphia Mastering Studios",
       "width": 80,
       "height": 80
     }
