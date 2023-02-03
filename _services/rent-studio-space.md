@@ -26,7 +26,7 @@ What's Included:
 - Electronic Drum Kit and Other Instruments to Make Beats
 - Private Acoustically Treated Room
 
-> Engineer And Computer Not Included. Please bring your own or book a regular studio session in <a href="{{site.baseurl}}/services/recording-studios/">Studio A or B</a>. Before booking, please contact a member of our staff to reserve your desired date and block of studio time.
+> Engineer And Computer Not Included. Please bring your own or book a regular studio session in <a href="/services/recording-studios/">Studio A or B</a>. Before booking, please contact a member of our staff to reserve your desired date and block of studio time.
 
 <p>{% include booking-buttons/studio-c.html %}</p>
 
