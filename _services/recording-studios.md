@@ -62,15 +62,15 @@ When you complete recording, maybe you'll need a second pair of ears on it. Cons
 
 ## Hip Hop Recording Studio
 
-Due to our proximity in Philadelphia, we have the opportinuty to work with the city's many great up and coming rappers, singers, and musicians. Especially in regards to RnB, this this studio has been able to explore new techniques and continue to adapt to fuzing and growing genres. So when someone asks if were just another philly hip hop recording studio, we can say that we dont confine ourselves to just 1 style of music.
+Due to our proximity in Philadelphia, we have the opportunity to work with the city's many great up and coming rappers, singers, and musicians. Especially in regards to RnB, this this studio has been able to explore new techniques and continue to adapt to fusing and growing genres. So when someone asks if were just another Philly hip hop recording studio, we can say that we do not define ourselves to just 1 style of music.
 
-We work in all genres inclusing Electronic, House, Funk, Alternative, Pop, Bluegrass, Ghospel, and more! By working with such a variety of clients on a day to day basis, we are able to combine ideas and mixing techniques when it comes ot producing a song. We work closely with out music clients to build a work of art the artist and out studio cna be proud of. 
+We work in all genres including Electronic, House, Funk, Alternative, Pop, Bluegrass, Gospel, and more! By working with such a variety of clients on a day to day basis, we are able to combine ideas and mixing techniques when it comes to producing a song. We work closely with out music clients to build a work of art the artist and out studio can be proud of. 
 
 I hope that in the years to come, that we can all look back and see out contribution to the 'Philly Sound'.
 
 ## Music Recording Studios
 
-Our building houses 4 fully equiped music recording studios that are specially designed depending on your needs. Asside from Studio A and Studio B described above, we have Studio D which is a live room, podcast space, rehearsal studio, and live performance space (like a tiny desk concert). When you book studio time thorugh us, we have access to every room and will move the session acordingly to best suit the needs of your session. 
+Our building houses 4 fully equipped music recording studios that are specially designed depending on your needs. Aside from Studio A and Studio B described above, we have Studio D which is a live room, podcast space, rehearsal studio, and live performance space (like a tiny desk concert). When you book studio time through us, we have access to every room and will move the session accordingly to best suit the needs of your session. 
 
 ## FAQ
 
