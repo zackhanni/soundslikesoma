@@ -24,9 +24,9 @@
   {% if page.intro_image %}<meta property="og:image" content="{{ page.intro_image | absolute_url }}" />{% endif %}
   
   <!-- Twitter -->
-  <meta name="twitter:card" content="summary"/>
-  {% if site.data.seo.meta_twitter_site %}<meta name="twitter:site" content="{{ site.seo.meta_twitter_site }}" />{% endif %}
-  {% if site.data.seo.meta_twitter_creator %}<meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}" />{% endif %}
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@somaaamusic" />
+  <meta name="twitter:creator" content="@somaaamusic" />
   <meta property="twitter:card" content="summary_large_image">
   <meta property="twitter:url" content="{{ site.url }}{{ page.url }}" />
   {% if page.meta_title %}<meta property="twitter:title" content="{{ page.meta_title }}" />{% else %}<meta property="og:title" content="{{ page.title }}" />{% endif %}
