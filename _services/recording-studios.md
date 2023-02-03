@@ -68,6 +68,10 @@ We work in all genres inclusing Electronic, House, Funk, Alternative, Pop, Blueg
 
 I hope that in the years to come, that we can all look back and see out contribution to the 'Philly Sound'.
 
+## Music Recording Studios
+
+Our building houses 4 fully equiped music recording studios that are specially designed depending on your needs. Asside from Studio A and Studio B described above, we have Studio D which is a live room, podcast space, rehearsal studio, and live performance space (like a tiny desk concert). When you book studio time thorugh us, we have access to every room and will move the session acordingly to best suit the needs of your session. 
+
 ## FAQ
 
 **Can I book a day session?**
