@@ -114,7 +114,7 @@ Typically, when mastering, you are working with a single stereo file or just the
 
 Mastering is about sound quality and making the overall song as good or better than the competition on the radio now.
 
-For some, mastering is about making the song AS LOUD AS POSSIBLE while maintaining the feeling, emotion and PUNCH that it was given in the mixing stage. 
+For some artists, the mastering process is for making their song AS LOUD AS POSSIBLE while ideally maintaining the emotion, feeling, and PUNCHYNESS that developed during the mixing stage. 
 
 ### What if I want my song AS LOUD AS POSSIBLE!!
 
