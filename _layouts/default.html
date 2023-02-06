@@ -16,6 +16,8 @@
   {% if page.description %}<meta property="og:description" content="{{ page.description }}" />{% endif %}
   {% if page.intro_image %}<meta property="og:image" content="{{ page.intro_image | absolute_url }}" />{% endif %}
   
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+
   <!-- Twitter -->
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@somaaamusic" />
