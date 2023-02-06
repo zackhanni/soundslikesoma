@@ -10,7 +10,7 @@ tags: [music mastering, mastering, audio master]
 
 Learn about the difference between **mixing and mastering**. It is common for people to get the 2 confused, but hopefully by the end of this you will have a stronger understanding of the difference.
 
-<img src="/images/services/music-mastering-equipment.webp" alt="Mastering equipment in a rack case" style="width:80%;"/>
+<img src="/images/services/music-mastering-equipment.webp" loading="lazy" alt="Mastering equipment in a rack case" style="width:80%;"/>
 
 ## What is mixing?
 

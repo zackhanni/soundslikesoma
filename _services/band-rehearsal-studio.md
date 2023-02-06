@@ -9,7 +9,7 @@ tags: [rehearsal studio,practice space,band rehearsal,instrument rental]
 ---
 Philadelphia's Best Hourly Band Rehearsal Studios. Equipped With Drums, Amps, Keyboards, Vocal Mics And More.
 
-<img src="/images/services/band-rehearsal-guitar.webp" title="Guitar Player In Band Rehearsal" alt="Guitar player in band rehearsal" style="width:80%;"/>
+<img src="/images/services/band-rehearsal-guitar.webp" loading="lazy" title="Guitar Player In Band Rehearsal" alt="Guitar player in band rehearsal" style="width:80%;"/>
 
 ## Studio D - Live Room - Music Practice Rooms
 

@@ -9,7 +9,7 @@ tags: [studio,mixing,mastering,stems]
 ---
  We use our diverse knowledge multiple genres and decades of experience of to transform your recorded tracks into a finished product ready for the radio airwaves!
 
-<img src="/images/services/studio-mixing-music-mastering.webp" title="song mastering studio" alt="song mastering studio" style="width:80%;"/>
+<img src="/images/services/studio-mixing-music-mastering.webp" loading="lazy" title="song mastering studio" alt="song mastering studio" style="width:80%;"/>
 
 ## What is mixing and mastering?
 

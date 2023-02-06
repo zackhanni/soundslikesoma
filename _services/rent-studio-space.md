@@ -9,7 +9,7 @@ tags: [recording studio for rent, rent recording studio, music recording]
 ---
 Rent a Philadelphia music studio. Utilize HD audio equipment and condenser microphones to record yourself in a private room. Affordable prices with bulk discounts.
 
-<img src="/images/services/rent-recording-studio-south-philadelphia.webp" title="Recording Studio For Rent" alt="Studio Desk With Interface and Speakers" style="width:80%;"/>
+<img src="/images/services/rent-recording-studio-south-philadelphia.webp" loading="lazy" title="Recording Studio For Rent" alt="Studio Desk With Interface and Speakers" style="width:80%;"/>
 
 ## Rent Recording Studio C
 

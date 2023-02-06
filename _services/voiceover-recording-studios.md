@@ -11,7 +11,7 @@ tags: [voiceover rooms,voice-over,audiobook recording,voice recording]
 Our expert Voice Over production team invites you to record in our soundproof vocal booths.
 Equipped with crystal-clear Neumann Condenser microphones, our noise treated studios are perfect for any size production. 
 
-<img src="/images/blogs/rnb-recording-studio-philadelphia.webp" title="philadelphia voiceover recording studios" alt="philadelphia voiceover recording studios" style="width:80%;"/>
+<img src="/images/blogs/rnb-recording-studio-philadelphia.webp" loading="lazy" title="philadelphia voiceover recording studios" alt="philadelphia voiceover recording studios" style="width:80%;"/>
 
 ## Book Our Voice Over Rooms
 

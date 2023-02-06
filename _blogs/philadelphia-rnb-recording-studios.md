@@ -9,7 +9,7 @@ tags: [music mastering, mastering, audio master]
 
 Rhythm and Blues genre trajectory from the perspective of a Philadelphia recording studio with a passion for RnB music recording.
 
-<img src="/images/blogs/rnb-recording-studio-philadelphia.webp" title="RnB Recording artist Juice Elliott" alt="RnB Recording artist Juice Elliott" style="width:80%;"/>
+<img src="/images/blogs/rnb-recording-studio-philadelphia.webp" loading="lazy" title="RnB Recording artist Juice Elliott" alt="RnB Recording artist Juice Elliott" style="width:80%;"/>
 
 ## The Evolution Into Today's RnB Music
 
