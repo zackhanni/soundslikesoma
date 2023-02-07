@@ -33,7 +33,8 @@
     content="default-src 'self' 'unsafe-inline' *.soundslikesoma.com *.google.com *.googletagmanager.com *.doubleclick.net *.spotify.com *.youtube.com *.spotifycdn.com;" />
 
 
-  {% include google-analytics.html %}
+  <!-- {% include google-analytics.html %} -->
+  <script defer src="https://www.googletagmanager.com/gtag/js?id={{ site.data.seo.google_analytics_id }}"></script>
   <script defer src="/assets/js/defer-scripts.js"></script>
 
 </head>
