@@ -53,7 +53,7 @@ Optional Add-ons:
 - Additional seating, furnature, and other audio/video equipment available
 - Adding metadata and uploading to streaming platforms like YouTube, Twitch, Etc
 
-> Please <a href="/contact/">contact us</a> about scheduling, questions, and price estimates for any add-ons or special requests
+> Please <a href="/contact/">contact a podcast engineer</a> about scheduling, questions, and price estimates for any add-ons or special requests
 
 <p>{% include booking-buttons/podcast-video.html %}</p>
 
