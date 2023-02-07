@@ -14,29 +14,29 @@ Learn about the difference between **mixing and mastering**. It is common for pe
 
 ## What is mixing?
 
-Once you are done recording individual tracks - vocals or instruments , you’re ready to have the project mixed. 
+Once you are done recording individual tracks - vocals or instruments, you’re ready to have the project mixed. 
 
 Mixing is typically cleaning up many audio tracks - for example, adjusting volume, timing, adding EQ, compression, reverb, auto-tune or other methods that may characteristically change the sound of each recorded track
 
-The goal is to transform the many into a single cohesive and balanced whole.
+The goal is to transform the many into a single, cohesive and balanced whole.
 
 ## What is Mastering?
 
 Then, in mastering, you take that whole and give it a final polish to get it ready for streaming or the radio. 
 
-Typically when mastering you're working with a single stereo file or just the master output of the mix
+Typically, when mastering, you're working with a single stereo file or just the master output of the mix
 
-Mastering engineers still may use EQ or Compression but usually do so in subtle amounts that tighten up the entire song.
+Mastering engineers still may use EQ or Compression, but usually do so in subtle amounts that tighten up the entire song.
 
 For some, mastering is about making the song AS LOUD AS POSSIBLE while maintaining the feeling, emotion and PUNCH that it was given in the mixing stage.
 
 ## Mixing vs Mastering
 
-In both mixing and mastering, the goal is to achieve balance. Mixing usually has big obvious changes while mastering is more subtle with broad changes that effect the song as a whole.
+In both mixing and mastering, the goal is to achieve balance. Mixing usually has big obvious changes, while mastering is more subtle with broad changes that affect the song as a whole.
 
-Mixing has more creative opportunities to capture the artists vision, while mastering is more about sound quality and making the song as good or better than the competition on the radio now.
+Mixing has more creative opportunities to capture the artist's vision, while mastering is more about sound quality and making the song as good or better than the competition on the radio now.
 
-Side note - mastering can also include adding metadata but most aggregators like CDBABY, DistroKid or other vendors take care of that for you now.  
+Side note - mastering can also include adding metadata, but most aggregators like CDBABY, DistroKid or other vendors take care of that for you now.  
 
 Written by Zachary Hanni on November 11th 2022
 
