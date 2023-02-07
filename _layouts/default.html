@@ -32,6 +32,10 @@
     http-equiv="Content-Security-Policy" 
     content="default-src 'self' 'unsafe-inline' *.soundslikesoma.com *.google.com *.googletagmanager.com *.doubleclick.net *.spotify.com *.youtube.com *.spotifycdn.com;" />
 
+
+  {% include google-analytics.html %}
+  <script defer src="defer-scripts.js"></script>
+
 </head>
 
 <body class='page {{layout.bodyClass}}'>
@@ -43,6 +47,5 @@
   {% include footer.html %}
   {% include sub-footer.html %}
   <script type="text/javascript" src="{{ '/assets/js/scripts.js' | relative_url }}"></script>
-  {% include google-analytics.html %}
 </body>
 </html>
