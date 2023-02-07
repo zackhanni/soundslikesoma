@@ -11,7 +11,7 @@ tags: [podcast rooms,voice,recording]
 Philly's top podcast production studio invites you to work with our team of audio editing experts.
 Equipped with crystal-clear SM7B broadcast dynamic microphones, our noise treated facilities are perfect for any size production. 
 
-<img src="/images/services/podcast-recording-studio-philadelphia.webp"  loading="lazy"title="Group Podcast Recording Studios" alt="Group Podcast Recording Studios" />
+<img src="/images/services/podcast-recording-studio-philadelphia.webp" loading="lazy" title="Group Podcast Recording Studios" alt="Group Podcast Recording Studios" />
 
 ## Podcast Recording Studio Rooms
 
@@ -141,9 +141,11 @@ We are able to travel for podcasts, interviews, and live broadcasting events upo
 - - -
 ## Episode Demos
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/1iBOPm1Dr2Y5UEAHwwIldg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<a href="https://pennj-sos.org/episode-1-conversations-on-pain"><img src="/images/services/opioid-conversations-with-surgeons-pennj-sos.webp" loading="lazy" title="Opioid Conversations with Surgeons Pennj SOS" alt="Opioid Conversations with Surgeons Pennj SOS" width="50%" /></a>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/2udNwNkHM7RWpT3DbCh9aT?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<a href="https://www.spreaker.com/user/16587574"><img src="/images/services/girl-talk-in-the-spirit-shavon-mcgee.webp" loading="lazy" title="girl talk in the spirit shavon mcgee" alt="girl talk in the spirit shavon mcgee" width="50%" /></a>
+
+<a href="https://open.spotify.com/show/2udNwNkHM7RWpT3DbCh9aT?si=e8da216e425848a9"><img src="/images/services/right-on-que-live.webp" loading="lazy" title="right on que live" alt="right on que live" width="50%" /></a>
 
 - - -
 
