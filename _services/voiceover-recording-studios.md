@@ -13,7 +13,7 @@ Equipped with crystal-clear Neumann Condenser microphones, our noise treated stu
 
 <img src="/images/blogs/rnb-recording-studio-philadelphia.webp" loading="lazy" title="philadelphia voiceover recording studios" alt="philadelphia voiceover recording studios" />
 
-## Book Our Voice Over Rooms
+## Voice Over and Automated Dialogue Replacement
 
 What's Included:
 - Private and Isolated Recording Area
@@ -22,6 +22,22 @@ What's Included:
 - Connect Live Audio to a Remote Producer or anyone From Your Team
 - Organized, and properly named files for each vocal take
 - Easy and Immediate File Delivery - 24bit 48K WAV files
+
+<p>{% include booking-buttons/studio-a.html %}</p>
+
+- - -
+
+## Audio Book Recording
+
+What's Included
+- Raw or edited WAV audio files
+- Optional effects or background music to added dramatics
+- Acoustically treated rooms with no background noise
+- A patient audio engineer to double check pronunciation and dialog
+
+<p>{% include booking-buttons/studio-a.html %}</p>
+
+- - -
 
 Additional Offerings
 - Public Service Announcements (PSA)
@@ -39,7 +55,13 @@ Additional Offerings
 
 > Don not hesitate to <a href="/contact/">contact us</a> about any scheduling questions or price estimates for any additional special requests.
 
-<p>{% include booking-buttons/studio-a.html %}</p>
+- - -
+
+## Automated Dialogue Replacement
+
+If a film has issues with original audio or has plans to replace dialog in a controlled, less noisy environment, they bring the vocal talent over to sound recording engineers like us. Automated Dialogue Replacement, or ADR has been in use since the 1920's, and is used even more today due to how easy technology make it.
+
+Audio plays a big role in video production. Its obviously valuable to have the option to salvage scenes shot for a TV series if they have compromised audio. With large TV displays in each studio, we make it easy to speak or sing along to the scene you're working on. 
 
 <div class="strip strip-grey">
 <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
@@ -49,18 +71,12 @@ Additional Offerings
 <h2>Go from Amateur to Pro Voice Recordings</h2>
 <p>We work closely with voice over training programs designed to elevate your voice from amateur to pro. We have test scrips available to help you create your own demo reel as you begin your professional voice over journey. Let us give you live and direct feedback on on your vocal takes to help improve your overall performance. We will combine your best vocal takes to create the perfect recordings that you can show off and get paid for your work.</p>
 
-<div class="row justify-content-center">
-	<div class="call-box-bottom">
-		<a href="/{{ site.data.contact.contact_button_link }}" class="button">Contact Us</a>
-	</div>
-</div>
-
 <h2>Make your Voice Over Engaging</h2>
 <p>Whether you are recording your voice over for TV or an audio book, you need to put in compelling emotion into your vocals. The audience needs to believe you mean what you are saying - regardless if that is selling a hamburger on TV or telling a story of a red-caped girl traveling alone in the woods. Having an expert working along side you with additional perspective will elevate your vocals to the next level. Sounds Like Soma can give you the edge when you need to stand out!</p>
 
 <div class="row justify-content-center">
 	<div class="call-box-bottom">
-		<a href="/{{ site.data.contact.contact_button_link }}" class="button">Contact Us</a>
+		<a href="/{{ site.data.contact.contact_button_link }}" class="button">Contact a VO and ADR Specialist</a>
 	</div>
 </div>
 

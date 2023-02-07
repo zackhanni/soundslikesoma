@@ -114,13 +114,19 @@ High-end **studio quality** equipment ranging from guitars to microphones to pre
 
  - - -
 
-We are always buying and trading new equipment, so this **gear list** may be incomplete. If you have or know of audio equipment for sale, drop us a line!
+## Buy, Sell, Trade
 
-We just got off the phone with Google, and they said it is important to have a paragraph or 2 of text on just about every page. The goal is to assist with SEO - meaning we show up higher in search results. When you search for things like - Recording studios near me, or Band music recording equipment, we want to be at the top. Any-who, thanks for listening to what we have to say.
+We are always buying and trading equipment, so this **gear list** may be incomplete. If you have audio equipment, microphones, or instruments for sale, <a href="/contact/">drop us a line</a>!
 
 ## How Much Is Recording Studio Equipment?
 
 Just how expensive is **recording equipment**? There are so many versions of the same equipment at various price points. A complete basic studio setup may cost around $500, while a medium setup may cost 30 thousand or more. High-End recording studio setups could cost in the hundreds of thousands to the millions.
 
 Keep in mind that you do not need the best equipment to make good music. The right microphone can help capture crisper high end and a cleaner low end, but at the end of the day, a good catchy song is going to be catchy regardless of what mic you use. Especially for those just getting started, do not let lack of equipment stop you from recording vocals or your instrument.
+
+## Music Studio Equipment For Rent
+
+When you book a rehearsal at out studio, you are given access to not only amps, and microphones, but instruments like drums, acoustic guitars, electric guitars, and bass guitars. Please communicate with a member of our team before you <a href="/services/band-rehearsal-studio/">schedule a band rehearsal</a> so we can lock in your desiered session time and needed eqipment.
+
+We just got off the phone with Google, and they said it is important to have a paragraph or 2 of text on just about every page. The goal is to assist with SEO - meaning we show up higher in search results. When you search for things like - Recording studios near me, or Band music recording equipment, we want to be at the top. Any-who, thanks for listening to what we have to say.
 
