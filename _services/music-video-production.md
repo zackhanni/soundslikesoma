@@ -62,7 +62,7 @@ The typical 30s - 1 minute promo video costs between $65-$100
 
 ## Podcast Video Production
 
-Record a podcast, radio show, or livestream. Learn more about our<a href="services/podcast-recording-studios/" target="Podcast recording studios">podcast recording studio</a> spaces available.
+Record a podcast, radio show, or livestream. Learn more about our <a href="/services/podcast-recording-studios/" target="Podcast recording studios">podcast recording studio</a> spaces available.
 
 - - -
 
