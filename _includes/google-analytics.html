@@ -1,4 +1,4 @@
-{% if jekyll.environment == "production" %}
+<!-- {% if jekyll.environment == "production" %}
     {% assign gid = site.env.NETLIFY_GOOGLE_ANALYTICS_ID %}
     {% if gid %}
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ gid }}"></script>
@@ -11,7 +11,9 @@
       gtag('js', new Date());
       gtag('config', '{{ $gid }}');
     </script>
-    {% elsif site.data.seo.google_analytics_id %}
+    {% elsif site.data.seo.google_analytics_id %} -->
+
+    
     <script defer src="https://www.googletagmanager.com/gtag/js?id={{ site.data.seo.google_analytics_id }}"></script>
 
 <!-- moved content here to defer-scripts js file -->
