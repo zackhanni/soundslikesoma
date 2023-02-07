@@ -9,7 +9,7 @@ tags: [music mastering, mastering, audio master]
 
 Rhythm and Blues genre trajectory from the perspective of a Philadelphia recording studio with a passion for RnB music recording.
 
-<img src="/images/blogs/rnb-recording-studio-philadelphia.webp" loading="lazy" title="RnB Recording artist Juice Elliott" alt="RnB Recording artist Juice Elliott" style="width:80%;"/>
+<img src="/images/blogs/rnb-recording-studio-philadelphia.webp" loading="lazy" title="RnB Recording artist Juice Elliott" alt="RnB Recording artist Juice Elliott" />
 
 ## The Evolution Into Today's RnB Music
 
@@ -21,7 +21,7 @@ With modern computers and music applications, anyone with a phone can call thems
 
 Some argue that classic **RnB recordings** of past generations have a certain swing and soulful emotion in the live instrumentation. Live bands and backup players clearly contributed to the final production. Today we have computer generated, highly repetitive, and autotuned melodies that sound, well… different. I will let you, dear reader, decide who wins the new-school vs old-school competition as I don't believe it is fair for anyone to gatekeep what good RnB music is, even if the genre has changed to feature much stronger hip-hop, rap-singing, and electronic elements.
 
-<img src="/images/blogs/rnb-music-recording-drummer.webp" loading="lazy" title="RnB music recording with a drummer" alt="RnB music recording with a drummer" style="width:80%;"/>
+<img src="/images/blogs/rnb-music-recording-drummer.webp" loading="lazy" title="RnB music recording with a drummer" alt="RnB music recording with a drummer" />
 
 ## Rhythm, Blues, and Soul
 
@@ -39,7 +39,7 @@ Consider the role of people like Quincy Jones and Niles Rodgers in the music cre
 
 **RnB singing** groups began to be favored over the band structure that groups like Mint Condition and Atlantic Starr retained. Unfortunately, by the 1990s, RnB and soul bands were relics of the past; Mint Condition was the only **RnB group** still carrying the flame. Boyz II Men, TLC, Destiny's Child, Eternal, and All 4 One all scored chart-topping songs while working with various hip-hop producers and rappers, ensuring the sustained success of R&B singing groups.
 
-<img src="/images/blogs/rnb-vocal-recording-singer.webp" loading="lazy" title="RnB singer recording vocals" alt="RnB singer recording vocals" style="width:80%;"/>
+<img src="/images/blogs/rnb-vocal-recording-singer.webp" loading="lazy" title="RnB singer recording vocals" alt="RnB singer recording vocals" />
 
 ## An RnB Renaissance
 
@@ -59,7 +59,7 @@ While we can all agree music is not what it used to be, I, for one, love the new
 
 ## Soulful Rhythm and Blues
 
-<img src="/images/services/studio-mixing-music-mastering.webp" loading="lazy" title="Soma Recording Studios RnB Mixing" alt="Soma Recording Studios RnB Mixing" style="width:80%;"/>
+<img src="/images/services/studio-mixing-music-mastering.webp" loading="lazy" title="Soma Recording Studios RnB Mixing" alt="Soma Recording Studios RnB Mixing" />
 
 Here at <a href="/" target="Soma Home Page">Sounds Like Soma</a> recording studios, our team works with all genres of music. One of my personal favorites to work with is RnB because of the feelings it evokes, and the smooth vocal tones accompanying rich melodic instrumentation.
 
