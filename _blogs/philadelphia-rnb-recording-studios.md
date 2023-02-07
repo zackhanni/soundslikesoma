@@ -17,9 +17,9 @@ Throughout Philadelphia’s music history, our city continues to have strong roo
 
 ## Modern RnB Music Production
 
-With modern computers and music applications, anyone with a phone can call themselves a music producer. It is much faster and simpler to combine premade melodies, that are automatically in the correct key, with programs like Garageband - free to install on any Apple phone or laptop. Heavy sampling of older melodies, riffs, and RnB lyrics from classics of old are becoming commonplace, and bring back a nostalgic feel with a modern twist. Synthesizers and beat sampling techniques are still growing and creeping into every genre so it is no surprise that we hear them in today's modern **RnB music**.
+With modern computers and music applications, anyone with a phone can call themselves a music producer. It is much faster and simpler to combine premade melodies, that are automatically in the correct key, with programs like GarageBand - free to install on any Apple phone or laptop. Heavy sampling of older melodies, riffs, and RnB lyrics from classics of old are becoming commonplace, and bring back a nostalgic feel with a modern twist. Synthesizers and beat sampling techniques are still growing and creeping into every genre, so it is no surprise that we hear them in today's modern **RnB music**.
 
-Some argue that classic **RnB recordings** of past generations have a certain swing and soulful emotion in the live instrumentation. Live bands and backup players clearly contributed to the final production. Today we have computer generated, highly repetitive, and autotuned melodies that sound, well… different. I will let you, dear reader, decide who wins the new-school vs old-school competition as I don't believe it is fair for anyone to gatekeep what good RnB music is, even if the genre has changed to feature much stronger hip-hop, rap-singing, and electronic elements.
+Some argue that classic **RnB recordings** of past generations have a certain swing and soulful emotion in the live instrumentation. Live bands and backup players clearly contributed to the final production. Today we have computer generated, highly repetitive, and autotuned melodies that sound, well… different. I will let you, dear reader, decide who wins the new-school vs old-school competition as I don't believe it is fair for anyone to gate keep what good RnB music is, even if the genre has changed to feature much stronger hip-hop, rap-singing, and electronic elements.
 
 <img src="/images/blogs/rnb-music-recording-drummer.webp" loading="lazy" title="RnB music recording with a drummer" alt="RnB music recording with a drummer" />
 
@@ -29,13 +29,13 @@ The RnB band remained the standard up to the 1980s and was absorbing further ele
 
 ## The Transition From Bands to Solo RnB Vocal Artists
 
-Disco music gained popularity and later developed into electro and hip-hop music. With the influence of punk rock, new wave music was created. By the 1980s, the foundation for modern RnB had been set.
+Disco music gained popularity and later developed into electronic and hip-hop music. With the influence of punk rock, new wave music was created. By the 1980s, the foundation for modern RnB had been set.
 
 Synthesizers, drum machines, sequencers, electronic keyboards, and samplers were widely used in 80s music. With the various band members choosing to include these new electronic music gadgets into their conventional band configuration, the **RnB band** continued to be the expected standard.
 
 Kool & The Gang, DeBarge, Lionel Richie, The Jacksons, Cameo, Chic, Sade, New Edition, and some of the most important performers, Michael Jackson, and Prince, were among the outfits and artists who embodied this adaptation. By favoring session musicians and producers over regular band members, Prince, Whitney Houston, Janet Jackson, and Michael Jackson set the foundation for modern R&B.
 
-Consider the role of people like Quincy Jones and Niles Rodgers in the music created during this period. With many bands and groups already performing in solo settings with varying degrees of success, this cleared the way for new solo performers to dominate the soul and RnB scene. This is also valid for the members of New Edition, who later achieved chart-topping success as solo artists, with a specific Bobby Brown, taking the lead.
+Consider the role of people like Quincy Jones and Niles Rodgers in the music created during this period. With many bands and groups already performing in solo settings with varying degrees of success, this cleared the way for new solo performers to dominate the soul and RnB scene. This is also valid for the members of New Edition, who later achieved chart-topping success as solo artists, with a specific, Bobby Brown, taking the lead.
 
 **RnB singing** groups began to be favored over the band structure that groups like Mint Condition and Atlantic Starr retained. Unfortunately, by the 1990s, RnB and soul bands were relics of the past; Mint Condition was the only **RnB group** still carrying the flame. Boyz II Men, TLC, Destiny's Child, Eternal, and All 4 One all scored chart-topping songs while working with various hip-hop producers and rappers, ensuring the sustained success of R&B singing groups.
 
@@ -51,11 +51,9 @@ By the late 2000s, even the RnB genre had been phased out or diluted into pop, a
 
 Modern RnB is a blend of hip-hop studio production with a significant influence from electronic dance music, and trap music, and frequently includes 'singing rap' or just plain rap vocals. While topics such as finding love, relationships, and having fun are still common, today's lyrical content tends to lean explicit with more intimate details on similar topics.
 
-
-
 ## Final Thoughts
 
-While we can all agree music is not what it used to be, I, for one, love the new creative horizon I see before me. New artists like SZA and H.E.R. clearly have extraordinary talent and know how to draw enormous crowds. Learning about the past only helps me to appreciate how far music has come and I am sure in another decade or 2, the genre will continue breaking into new territories.
+While we can all agree music is not what it used to be, I, for one, love the new creative horizon I see before me. New artists like SZA and H.E.R. clearly have extraordinary talent and know how to draw enormous crowds. Learning about the past only helps me to appreciate how far music has come, and I am sure in another decade or 2, the genre will continue breaking into new territories.
 
 ## Soulful Rhythm and Blues
 
