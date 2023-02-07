@@ -62,10 +62,10 @@ Already have a song mixed? Get it professionally mastered <a href="/services/mix
 
 - - -
 
-## Voiceovers
+## Voiceovers and ADR
 
 <p>{% include booking-buttons/studio-a.html %}</p>
-Improve your voice over quality for audiobooks, TV or Movices with our experienced audio engineers. <a href="/services/voiceover-recording-studios/" target="More info on audio podcasts">Learn More About Voice overs</a>
+Improve your voice over quality for audiobooks, TV or Movices with our experienced audio engineers. Acoustically treated vocal booths for automated dialogue replacement.<a href="/services/voiceover-recording-studios/" target="More info on audio podcasts">Learn More About Voice overs</a>
 
 - - -
 
