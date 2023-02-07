@@ -9,7 +9,7 @@ tags: [rehearsal studio,practice space,band rehearsal,instrument rental]
 ---
 Philadelphia's Best Hourly Band Rehearsal Studios. Equipped With Drums, Amps, Keyboards, Vocal Mics And More.
 
-<img src="/images/services/band-rehearsal-guitar.webp" loading="lazy" title="Guitar Player In Band Rehearsal" alt="Guitar player in band rehearsal" style="width:80%;"/>
+<img src="/images/services/band-rehearsal-guitar.webp" loading="lazy" title="Guitar Player In Band Rehearsal" alt="Guitar player in band rehearsal" />
 
 ## Studio D - Live Room - Music Practice Rooms
 
@@ -35,7 +35,7 @@ Book a space to rehearse for your next big performance, or just jam out in our l
 
 {% include booking-buttons/rehearsal.html %}
 
-<img src="/images/services/studio-drum-practice-rehearsal.webp" loading="lazy" title="Recording Drum Practice" alt="Recording Drum Practice" style="width:80%;"/>
+<img src="/images/services/studio-drum-practice-rehearsal.webp" loading="lazy" title="Recording Drum Practice" alt="Recording Drum Practice" />
 
 <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
   <div class="row justify-content-center">
@@ -59,7 +59,7 @@ Book a space to rehearse for your next big performance, or just jam out in our l
   </div>
 </div>
 
-<img src="/images/services/band-rehearsal-group.webp" loading="lazy" title="Group Band Rehearsal Studio" alt="Band with drums, bass, and guitar rehearsing" style="width:80%;"/>
+<img src="/images/services/band-rehearsal-group.webp" loading="lazy" title="Group Band Rehearsal Studio" alt="Band with drums, bass, and guitar rehearsing" />
 
 <div class="strip strip-grey">
   <div class="container pb-6 pt-6 pt-md-10 pb-md-10">

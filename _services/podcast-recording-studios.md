@@ -11,7 +11,7 @@ tags: [podcast rooms,voice,recording]
 Philly's top podcast production studio invites you to work with our team of audio editing experts.
 Equipped with crystal-clear SM7B broadcast dynamic microphones, our noise treated facilities are perfect for any size production. 
 
-<img src="/images/services/podcast-recording-studio-philadelphia.webp"  loading="lazy"title="Group Podcast Recording Studios" alt="Group Podcast Recording Studios" style="width:80%;"/>
+<img src="/images/services/podcast-recording-studio-philadelphia.webp"  loading="lazy"title="Group Podcast Recording Studios" alt="Group Podcast Recording Studios" />
 
 ## Podcast Recording Studio Rooms
 
@@ -57,7 +57,7 @@ Optional Add-ons:
 
 <p>{% include booking-buttons/podcast-video.html %}</p>
 
-<img src="/images/services/podcast-studio-production-recording.webp" loading="lazy" title="Post Production Podcast Editing south philadelphia" alt="Post Production Podcast Editing south philadelphia" style="width:80%;"/>
+<img src="/images/services/podcast-studio-production-recording.webp" loading="lazy" title="Post Production Podcast Editing south philadelphia" alt="Post Production Podcast Editing south philadelphia" />
 
 <!-- special services -->
 <div class="strip strip-grey">

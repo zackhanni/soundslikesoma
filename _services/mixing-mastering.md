@@ -9,7 +9,7 @@ tags: [studio,mixing,mastering,stems]
 ---
  We use our diverse knowledge multiple genres and decades of experience of to transform your recorded tracks into a finished product ready for the radio airwaves!
 
-<img src="/images/services/studio-mixing-music-mastering.webp" loading="lazy" title="song mastering studio" alt="song mastering studio" style="width:80%;"/>
+<img src="/images/services/studio-mixing-music-mastering.webp" loading="lazy" title="song mastering studio" alt="song mastering studio" />
 
 ## What is mixing and mastering?
 
@@ -40,7 +40,7 @@ We recommend using <a href="https://wetransfer.com" target="WeTransfer Official 
 
 - - -
 
-<img src="/images/services/music-mastering-equipment.webp" loading="lazy" title="mixing mastering studio equipment" alt="mixing mastering studio equipment" style="width:80%;"/>
+<img src="/images/services/music-mastering-equipment.webp" loading="lazy" title="mixing mastering studio equipment" alt="mixing mastering studio equipment" />
 
 ## Radio Ready Song Mastering
 

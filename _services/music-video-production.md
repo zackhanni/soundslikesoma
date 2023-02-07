@@ -9,7 +9,7 @@ tags: [video,music video,filming,recording]
 ---
 Hire a videographer for music video production or social media promotions in Philadelphia. Get your video done today!
 
-<img src="/images/services/outdoor-music-video-shoot.webp" loading="lazy" title="Music Video Shoot On Balcony" alt="Music Video Shoot on Balcony" style="width:80%;"/>
+<img src="/images/services/outdoor-music-video-shoot.webp" loading="lazy" title="Music Video Shoot On Balcony" alt="Music Video Shoot on Balcony" />
 
 ## Music Videos
 
@@ -41,7 +41,7 @@ Please have **examples of your favorite music videos** or effects you like so we
 
 - - -
 
-<img src="/images/services/philly-music-video-production.webp" loading="lazy" title="Philly Music Video Production" alt="Camera recording rapper smoking in studio" style="width:80%;"/>
+<img src="/images/services/philly-music-video-production.webp" loading="lazy" title="Philly Music Video Production" alt="Camera recording rapper smoking in studio" />
 
 ## 1 Minute Social Media Promo Video
 

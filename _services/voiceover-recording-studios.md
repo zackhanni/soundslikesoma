@@ -11,7 +11,7 @@ tags: [voiceover rooms,voice-over,audiobook recording,voice recording]
 Our expert Voice Over production team invites you to record in our soundproof vocal booths.
 Equipped with crystal-clear Neumann Condenser microphones, our noise treated studios are perfect for any size production. 
 
-<img src="/images/blogs/rnb-recording-studio-philadelphia.webp" loading="lazy" title="philadelphia voiceover recording studios" alt="philadelphia voiceover recording studios" style="width:80%;"/>
+<img src="/images/blogs/rnb-recording-studio-philadelphia.webp" loading="lazy" title="philadelphia voiceover recording studios" alt="philadelphia voiceover recording studios" />
 
 ## Book Our Voice Over Rooms
 
@@ -69,7 +69,7 @@ Additional Offerings
 </div>
 </div>
 
-<img src="/images/services/studio-mixing-music-mastering.webp" loading="lazy" title="Post Production Podcast Editing services South Philadelphia" alt="Post Production Podcast Editing services South Philadelphia" style="width:80%;"/>
+<img src="/images/services/studio-mixing-music-mastering.webp" loading="lazy" title="Post Production Podcast Editing services South Philadelphia" alt="Post Production Podcast Editing services South Philadelphia" />
 
 <!-- Good seo keyword paragraphs -->
 <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
@@ -118,7 +118,7 @@ The cost of a voiceover work is determined by a wide range of variables. Signifi
 The price of voice acting is influenced by outside variables including inflation, economic health, and demand, just like any other sector.
 You may message your talent to get more detailed information about your task or look at the Project Marketplace to see what other talent is charging for comparable jobs. 
 
-<img src="/images/blogs/philadelphia-voiceover-recording-studios.webp" loading="lazy" title="philadelphia audiobook recording studios" alt="philadelphia audiobook recording studios" style="width:80%;"/>
+<img src="/images/blogs/philadelphia-voiceover-recording-studios.webp" loading="lazy" title="philadelphia audiobook recording studios" alt="philadelphia audiobook recording studios" />
 
 - - -
 
