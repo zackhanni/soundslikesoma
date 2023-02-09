@@ -4,3 +4,10 @@
 
 [build.environment]
   JEKYLL_ENV = "production"
+
+[[headers]]
+for = "/*" # This defines which paths this specific [[headers]] block will cover.
+[headers.values]
+  X-Frame-Options = "DENY"
+  X-Content-Type-Options = "nosniff"
+  Content-Security-Policy = "default-src 'self' 'unsafe-inline' *.soundslikesoma.com *.google.com *.googletagmanager.com *.doubleclick.net *.spotify.com *.youtube.com *.spotifycdn.com"
