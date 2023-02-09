@@ -9,7 +9,7 @@ tags: [recording studio near me, music studio, philadelphia recording studio]
 ---
 World-class recording and professional mixing studio. Get your next music project completed by our Philly team with state-of-the-art audio equipment! 
 
-<img src="/images/best-philadelphia-recording-studios.webp" loading="lazy" title="Recording Studio with Keyboards and Sperkers" alt="Recording Studio with Keyboards and Sperkers" />
+<img src="/images/best-philadelphia-recording-studios.webp" loading="lazy" title="Recording Studio with Keyboards and Sperkers" alt="Recording Studio with Keyboards and Sperkers" width="763" height="533"/>
 
 ## Studio A
 With Head Audio Engineer Zack Hanni
@@ -36,7 +36,7 @@ No matter if you are a full band, solo artist, or need instrumentals produced fo
 ## Studio B
 With Sound Engineer Gage Bingham
 
-<img src="/images/services/music-mixing-studio-b.webp" loading="lazy" title="Mixing With Shamir" alt="Mixing Music In Studio B" />
+<img src="/images/services/music-mixing-studio-b.webp" loading="lazy" title="Mixing With Shamir" alt="Mixing Music In Studio B" width="1055" height="737" />
 
 - $45 / Hour ($60 After Midnight)
 - Industry Standard Plugins from Waves, Izotope, and Antares
@@ -58,7 +58,7 @@ We have all of the equipment you need from speakers, interface, microphones, and
 
 When you complete recording, maybe you'll need a second pair of ears on it. Consider contacting one of our engineers to discuss moving forward with getting it touched up.
 
-<img src="/images/services/hip-hop-recording-studio-philly.webp" loading="lazy" title="Hip-Hop Recording Studios" alt="Hip-Hop Recording Studios" />
+<img src="/images/services/hip-hop-recording-studio-philly.webp" loading="lazy" title="Hip-Hop Recording Studios" alt="Hip-Hop Recording Studios" width="750" height="938" />
 
 ## Hip Hop Recording Studio
 
@@ -88,6 +88,6 @@ We have a lot of experience working with Pop, Rock, R&B, Electronic and of cours
 
 - - -
 
-<img src="/images/services/band-recording-guitars.webp" loading="lazy" title="Recording Guitars" alt="2 Guitar Players Recording" />
+<img src="/images/services/band-recording-guitars.webp" loading="lazy" title="Recording Guitars" alt="2 Guitar Players Recording" width="7975" height="1300" />
 
 
