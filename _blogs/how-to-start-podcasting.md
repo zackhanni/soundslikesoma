@@ -16,7 +16,7 @@ We will cover pre-production tips before you even begin talking on the microphon
 
 ## Choose A Conversation Topic
 
-Pick a theme for your overall podcast and break that overall theme into subcategories or stories that you can give your listener each episode. Making a podcast on women empowerment? Maybe each episode can be about a perspective of a different woman on various topics or current events.
+The first thing to consider in Podcasting 101, is what your podcast topic should be about. Pick a theme for your overall podcast and break that overall theme into subcategories or stories that you can give your listener each episode. Making a podcast on women empowerment? Maybe each episode can be about a perspective of a different woman on various topics or current events.
 
 Try to have several episodes of content paid out ahead of time. It’s common for someone to flake and not show up to a schedules podcast episode, so you should have backup topics or plans to save the day. Maybe you have a friend you’ve been meaning to talk to, you can fill in for the person who didn’t show up.
 
