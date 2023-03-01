@@ -29,6 +29,8 @@ No matter if you are a full band, solo artist, or need instrumentals produced fo
 
 > **please note:** We require deposits up front in order to reserve all studio spaces. Follow the link below to pay and schedule a session, or <a href="/contact/" target="Our Team of Audio Engineers">contact one of our engineers</a> directly to arrange a time to record.
 
+>MARCH UPDATE: Studio A will reopen on March 25th. Studio B is still open!
+
 <p>{% include booking-buttons/studio-a.html %}</p>
 
 - - -
