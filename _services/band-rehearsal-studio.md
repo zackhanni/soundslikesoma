@@ -31,7 +31,7 @@ Optional Add-ons:
 
 Book a space to rehearse for your next big performance, or just jam out in our live room for fun with friends.
 
->  An engineer will always be there to help set up. Please call or text us ahead of time to let us know what equipment you need us to have set up - stage mics, drums, amps, stands, etc. 
+> Contact our engineers before paying to lock in a day and time for your session. Let us know what equipment you need us to have set up - stage mics, drums, amps, stands, etc. 
 
 {% include booking-buttons/rehearsal.html %}
 
