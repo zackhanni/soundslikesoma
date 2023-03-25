@@ -11,6 +11,3 @@ show_call_box: true
 # Music Recording Studios in Philadelphia
 
 Philadelphia Recording Studios for Professional Audio Editing and Music Mixing
-
-MARCH UPDATE: Studio A will reopen on March 25th. Studio B is still open!
-
