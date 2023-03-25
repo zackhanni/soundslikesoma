@@ -10,7 +10,7 @@ description: Call, text, or email our staff members with any questions about boo
 
 Please don't hesitate to reach out and contact us with any questions. <a href="https://squareup.com/appointments/buyer/widget/zkvz7h6ta6pudt/8GNV6PJ8WK7YH" target="Schedule A Tour">Schedule a studio tour</a> to check out our space in person. There is a lot we can do that isn't listed directly on the website. Get in touch with professionals today about booking a session! - we really can do everything audio!
 
-## Business Hours
+## Business Hours Of Operation
 
 | Day       | Opening Hours   |
 | --------- | --------------- |
