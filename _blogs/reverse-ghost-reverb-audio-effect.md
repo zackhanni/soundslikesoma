@@ -4,7 +4,7 @@ title-h1: 'Reverse Ghost Reverb (With Instructions)'
 date: 2023-01-22
 intro_image: 'images/blogs/spooky-audio-effects-ableton-mixing.webp'
 description: Instructions for a ghost-like reverb audio effect for vocals that is commonly used in movies, TV and music, and more!
-tags: [vocal mixing, reverb efect, audio effects]
+tags: [vocal mixing, reverb effect, audio effects]
 ---
 
 Sound like a ghost with this amazing sounding audio effect idea for vocals.
@@ -39,7 +39,7 @@ Here are typed out instructions on how to create this effect for yourself on you
 
 - Start by duplicating a vocal on an audio track, and cutting out everything except for the beginning word or syllable that you want the effect on.
 - Consolidate to the grid.
-- Reverse it the dry sound
+- Reverse the dry sound
 - Throw a BIG reverb on it. All the way wet. Turn up the reverb time. A longer tail will give you more flexibility to shorten or manipulate it later on.
 - Now, solo and export just this sound and bring it back into your program (If you are using Ableton Live, you can freeze and flatten that track instead of exporting it).
 - Reverse that audio and line it up in front of the original recording.
@@ -54,9 +54,3 @@ So far, I have not heard any other name for it than ‘reverse ghost reverb’. 
 Want to learn more audio production tips? Consider checking out my channel on <a href="https://www.youtube.com/@SomaStudios/shorts" target="Watch Soma Shorts on YouTube">YouTube</a> or <a href="https://www.tiktok.com/@sounds_like_soma" target="Watch More on TikTok">TikTok</a>! If you want one of our experts to record, mix, or master your audio, reach out to us through the studio <a href="/contact/" target="More Info">Contact Page</a>. We would love to hear what you’re working on!
 
 Written by Zachary Hanni on January 25th 2023
-
-
-
-
-
-

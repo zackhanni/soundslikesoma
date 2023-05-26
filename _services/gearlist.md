@@ -5,9 +5,9 @@ weight: 7
 date: 2022-11-07
 intro_image: "images/music-studios-philadelphia.webp"
 description: Check out Sound Like Soma's full list of studio equipment available to use during booked studio sessions, and studio rentals.
-tags: [interface,preamp,microphone,instrument]
+tags: [interface, preamp, microphone, instrument]
 ---
-High-end **studio quality** equipment ranging from guitars to microphones to preamps and more.
+High-end **studio quality** equipment, ranging from guitars to microphones to preamps and more.
 
 - - -
 
@@ -108,7 +108,7 @@ High-end **studio quality** equipment ranging from guitars to microphones to pre
 ## Photography / Video
 - Sony ZV E10 4k Camera
 - Professional Lighting
-- Large Green Screen x2
+- Large Green Screens x2
 - Final Cut Pro
 - Various props and decorations
 
@@ -122,11 +122,10 @@ We are always buying and trading equipment, so this **gear list** may be incompl
 
 Just how expensive is **recording equipment**? There are so many versions of the same equipment at various price points. A complete basic studio setup may cost around $500, while a medium setup may cost 30 thousand or more. High-End recording studio setups could cost in the hundreds of thousands to the millions.
 
-Keep in mind that you do not need the best equipment to make good music. The right microphone can help capture crisper high end and a cleaner low end, but at the end of the day, a good catchy song is going to be catchy regardless of what mic you use. Especially for those just getting started, do not let lack of equipment stop you from recording vocals or your instrument.
+Keep in mind that you do not need the best equipment to make good music. The right microphone can help capture a crisper high end and a cleaner low end, but at the end of the day, a good catchy song is going to be catchy regardless of what mic you use. Especially for those just getting started, do not let lack of equipment stop you from recording vocals or your instrument.
 
 ## Music Studio Equipment For Rent
 
-When you book a rehearsal at out studio, you are given access to not only amps, and microphones, but instruments like drums, acoustic guitars, electric guitars, and bass guitars. Please communicate with a member of our team before you <a href="/services/band-rehearsal-studio/">schedule a band rehearsal</a> so we can lock in your desiered session time and needed eqipment.
+When you book a rehearsal at our studio, you are given access to not only amps, and microphones, but instruments like drums, acoustic guitars, electric guitars, and bass guitars. Please communicate with a member of our team before you <a href="/services/band-rehearsal-studio/">schedule a band rehearsal</a> so we can lock in your desired session time and needed equipment.
 
 We just got off the phone with Google, and they said it is important to have a paragraph or 2 of text on just about every page. The goal is to assist with SEO - meaning we show up higher in search results. When you search for things like - Recording studios near me, or Band music recording equipment, we want to be at the top. Any-who, thanks for listening to what we have to say.
-

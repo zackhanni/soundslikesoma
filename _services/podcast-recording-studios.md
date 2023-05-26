@@ -5,7 +5,7 @@ weight: 3
 date: 2022-11-03
 intro_image: "images/services/podcast-recording-studio-philadelphia.webp"
 description: Podcast studios for high-quality podcast recording! Equipped with crystal-clear SM7B Broadcast Microphones. Podcast video recordings available too!
-tags: [podcast rooms,voice,recording]
+tags: [podcast rooms, voice, recording]
 ---
 
 Philly's top podcast production studio invites you to work with our team of audio editing experts.
@@ -15,7 +15,7 @@ Equipped with crystal-clear SM7B broadcast dynamic microphones, our noise treate
 
 ## Podcast Recording Studio Rooms
 
-What's Included:
+What's included:
 - Podcast Recording Equipment, Microphones, and Setup
 - Expert Audio Engineer to Record and Monitor your Podcast
 - Vocal Leveling and compression to make volume consistent
@@ -35,7 +35,7 @@ Optional add-ons:
 
 ## Video Podcast Recording
 
-What's Included:
+What's included:
 - Podcast Recording Equipment, Microphones, and Setup
 - 4k Video Camera
 - Professional Lighting (with color options)
@@ -50,7 +50,7 @@ Optional Add-ons:
 - Audio and Video Condensing - remove unwanted sections and re-arrange content
 - Intro / Outro video clips, Sound Effects, and Commercial Ad Breaks
 - TVs to show off your brand or chat feed
-- Additional seating, furnature, and other audio/video equipment available
+- Additional seating, furniture, and other audio/video equipment available
 - Adding metadata and uploading to streaming platforms like YouTube, Twitch, Etc
 
 > Please <a href="/contact/">contact a podcast engineer</a> about scheduling, questions, and price estimates for any add-ons or special requests
@@ -66,23 +66,23 @@ Optional Add-ons:
 <div class="col-12 col-md-12">
 
 <h2>Podcast Production and Editing Services</h2>
-<p>Sounds Like Soma has become one of the highest rated <strong>podcast production compnaies</strong> in the Philadelphia area. Currently located in South Philly, our experienced team of audio engineers and podcast producers are ready to take on all challenges. We network closly with dozens of local radio talk shows and live streamers.</p>
+<p>Sounds Like Soma has become one of the highest rated <strong>podcast production companies</strong> in the Philadelphia area. Currently located in South Philly, our experienced team of audio engineers and podcast producers are ready to take on all challenges. We network closely with dozens of local radio talk shows and live streamers.</p>
 <p>If your company is already experienced with podcasting, or are a newcomer to the scene, let us know how we can help capture your ideas and turn them into a top quality production capable of reaching millions. Our state-of-the-art podcast studio spaces have the equipment to tackle any audio or video related project, no matter how small or large the scale. Contact us to plan an approach that works best for your project or budget.</p>
 
 <div class="row justify-content-center">
-	<div class="call-box-bottom">
-		<a href="/{{ site.data.contact.contact_button_link }}" class="button">Contact Us</a>
-	</div>
+  <div class="call-box-bottom">
+    <a href="/{{ site.data.contact.contact_button_link }}" class="button">Contact Us</a>
+  </div>
 </div>
 
 <h2>Business and Corporate Podcast Recording</h2>
-<p>Working on a podcast for your business? Let us guide your team in best practices from start to finish to obtain the clearest sound possible. After you are done recording, our editing team will make your voice 'pop' and condense any unwanted pauses or vocal hichups. Broadcast standards are constantly exolving, so let us take the wheel and elevate your company's voice to get you sounding your best!</p>
-<p>Previous corporate clients include AmericourceBergen Foundation, Jefferson Health, Temple Health, Nutrition Facts, Vox Media, and more.</p>
+<p>Working on a podcast for your business? Let us guide your team in best practices from start to finish, obtaining the clearest sound possible. After you are done recording, our editing team will make your voice 'pop' and condense any unwanted pauses or vocal hiccups. Broadcast standards are constantly evolving, so let us take the wheel and elevate your company's voice to get you sounding your best!</p>
+<p>Previous corporate clients include Americource Bergen Foundation, Jefferson Health, Temple Health, Nutrition Facts, Vox Media, and more.</p>
 
 <div class="row justify-content-center">
-	<div class="call-box-bottom">
-		<a href="/{{ site.data.contact.contact_button_link }}" class="button">Contact Us</a>
-	</div>
+  <div class="call-box-bottom">
+    <a href="/{{ site.data.contact.contact_button_link }}" class="button">Contact Us</a>
+  </div>
 </div>
 
 </div>
@@ -108,7 +108,7 @@ Optional Add-ons:
     </div>
     <div class="col-12 col-md-12">
       <h2>Podcast Recording With Musicians</h2>
-      <p>We also invite live musicians and other creatives who want a place to play their music for a live broadcasted audience. For your performance, we always have instruments available to rent should you need them. Utilize our podcast studio equipment for a great sounding vocal recording ready to hit the radio!</p>
+      <p>We also invite live musicians and other creatives who want a place to play their music for a live, broadcasted audience. For your performance, we always have instruments available to rent should you need them. Utilize our podcast studio equipment for a great sounding vocal recording ready to hit the radio!</p>
     </div>
   </div>
 </div>
@@ -120,13 +120,13 @@ Optional Add-ons:
 
 ### Do you have Corporate Business Podcasting Experience?
 
-Corporate expertise - Working on a podcast for your business? Let us guide your team in best practices from start to finish to obtain the clearest sound possible. After you are done recording, our editing team will make your voice 'pop' and condense any unwanted pauses or vocal hichups. Broadcast standards are constantly exolving, so let us take the wheel and elevate your company's voice to get you sounding your best!
+Corporate expertise - Working on a podcast for your business? Let us guide your team in best practices from start to finish, obtaining the clearest sound possible. After you are done recording, our editing team will make your voice 'pop' and condense any unwanted pauses or vocal hiccups. Broadcast standards are constantly evolving, so let us take the wheel and elevate your company's voice to get you sounding your best!
 
 ### I'm new to recording, any tips?
 
-Quick tips - Write down topics ahead of time and have extras just in case the episode moves at a quicker pace than expected. Do your best to avoid dead air, but know that we are always able to edit anything out you don not like. It is common to want to drink or smoke to shake off nervous jitters, but try not to get too inebriated (and definitely don't mix the 2).
+Quick tips - Write down topics ahead of time and have extras just in case the episode moves at a quicker pace than expected. Do your best to avoid dead air, but know that we are always able to edit anything out you do not like. It is common to want to drink or smoke to shake off nervous jitters, but try not to get too inebriated (and definitely don't mix the 2).
 
-We have a detailed blog (coming soon) covering podcast **creation** and equipment for beginners if you want to start your podcast journey outside of the studio.
+We have a detailed blog (coming soon) covering podcast **creation** and equipment for beginners if you want to start your podcast journey outside the studio.
 
 We would love to work with you to grow your brand or ideas if you are new! You can <a href="https://squareup.com/appointments/buyer/widget/zkvz7h6ta6pudt/8GNV6PJ8WK7YH" target="Schedule A Tour">schedule a free consultation</a> by contacting one of the engineers. Or talk to us after your first podcast episode for an honest critique on what we think you should try out or improve on. 
 
@@ -137,6 +137,7 @@ Some of our clients have completed 200+ episodes. Some have even expanded to doi
 ### Are you able to travel?
 
 We are able to travel for podcasts, interviews, and live broadcasting events upon request. Depending on the equipment needed, and the distance traveled, we will charge an additional fee. <a href="/contact/">Message Zack</a>, our expert **podcast producer**, to coordinate a good time to chat about where and when you plan to record your event.
+
 
 - - -
 ## Episode Demos
@@ -149,7 +150,7 @@ We are able to travel for podcasts, interviews, and live broadcasting events upo
 
 - - -
 
-If you need any help or ideas on podcast creation, mixing or editing, please <a href="https://squareup.com/appointments/buyer/widget/zkvz7h6ta6pudt/8GNV6PJ8WK7YH" target="Schedule A Tour">book a FREE studio tour</a>  or even give our head engineer, Zack a call to talk about what we can do for your next project. Even if you are not near our studios, we are happy to work with you and your team remotely.
+If you need any help or ideas on podcast creation, mixing or editing, please <a href="https://squareup.com/appointments/buyer/widget/zkvz7h6ta6pudt/8GNV6PJ8WK7YH" target="Schedule A Tour">book a FREE studio tour</a>  or even give our head engineer, Zack, a call to talk about what we can do for your next project. Even if you are not near our studios, we are happy to work with you and your team remotely.
 
 <div class="row justify-content-center">
   <div class="call-box-bottom">

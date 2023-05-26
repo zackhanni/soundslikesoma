@@ -5,7 +5,7 @@ weight: 6
 date: 2022-11-06
 intro_image: "images/services/band-rehearsal-guitar.webp"
 description: Philadelphia's best hourly band rehearsal studio. Equipped with drums, amps, keyboards, vocal mics and other instruments | Sounds Like Soma 
-tags: [rehearsal studio,practice space,band rehearsal,instrument rental]
+tags: [rehearsal studio, practice space, band rehearsal, instrument rental]
 ---
 Philadelphia's Best Hourly Band Rehearsal Studios. Equipped With Drums, Amps, Keyboards, Vocal Mics And More.
 
@@ -13,7 +13,7 @@ Philadelphia's Best Hourly Band Rehearsal Studios. Equipped With Drums, Amps, Ke
 
 ## Studio D - Live Room - Music Practice Rooms
 
-What's Included:
+What's included:
 
 - $25 / hr (2hr Minimum)
 - Safe Music Practice Room
@@ -41,7 +41,7 @@ Book a space to rehearse for your next big performance, or just jam out in our l
   <div class="row justify-content-center">
     <div class="col-12 col-md-6">
       <h2>Band Practice Studios</h2>
-      <p>Here at Sounds Like Soma, we provide first-rate rehearsal space in a welcoming and supportive setting. To enable you to perform and sound your best, we provide well maintained, high quality equipment in all of our studios. From aspiring musicians and students to Gold and Platinum Recording Artists, Writers, Producers, and everyone in between, we serve as a valuable tool for our clients. Our practice areas are hygienic, comfortable, and air conditioned. We have a highly knowledgeable team and a wealth of resources to assist you with any musical needs you may have.</p>
+      <p>Here at Sounds Like Soma, we provide first-rate rehearsal space in a welcoming and supportive setting. To enable you to perform and sound your best, we provide well maintained, high quality equipment in all of our studios. From aspiring musicians and students to Gold and Platinum Recording Artists, Writers, Producers, and everyone in between, we serve as a valuable tool for our clients. Our practice areas are hygienic, comfortable, and air-conditioned. We have a highly knowledgeable team and a wealth of resources to assist you with any musical needs you may have.</p>
     </div>
     <div class="col-12 col-md-6">
       <h2>Music Rehearsal Services</h2>
@@ -50,7 +50,7 @@ Book a space to rehearse for your next big performance, or just jam out in our l
 <hr hr color="#fffff0">
     <div class="col-12 col-md-12">
       <h2>Philadelphia Band Practice Studios</h2>
-      <p>High-quality instruments in acoustically-treated studios. Soma's  live room music rehearsal studios are your space to embrace your creativity. The rehearsal studios are fully kitted, with a variety of room types to suit your needs. Bring your own kit or use ours. Practicing drums solo? Vocals with a backing band? Fine-tuning your ensemble performance? Out Studio D Rehearsal Showcase studio fits individuals and large groups easily.</p>
+      <p>High-quality instruments in acoustically-treated studios. Soma's  live room music rehearsal studios are your space to embrace your creativity. The rehearsal studios are fully kitted, with a variety of room types to suit your needs. Bring your own kit or use ours. Practicing drums solo? Vocals with a backing band? Fine-tuning your ensemble performance? Our Studio D Rehearsal Showcase studio fits individuals and large groups easily.</p>
     </div>
     <div class="col-12 col-md-12">
       <h2>Philadelphia Music Practice Studios</h2>
@@ -81,7 +81,7 @@ Yes, of course you can, no matter how big it is. Also, consider only bringing th
 
 ### Can I bring my photographer?
 
-We don not mind if you bring along a few guests to your music rehearsal. Or you can consider hiring a member of our trusted team for photography or videography as well. We have 4k cameras, professional lighting, and backdrops available to make you look your best.
+We do not mind if you bring along a few guests to your music rehearsal. Or you can consider hiring a member of our trusted team for photography or videography as well. We have 4k cameras, professional lighting, and backdrops available to make you look your best.
 
 ### Can we extend our music rehearsal studio session?
 
@@ -89,7 +89,7 @@ As long as the studio space is available, you can always add more time to an alr
 
 ### Are there any noise issues with neighbors?
 
-The building and room are insulated so there are little to no noise issues from neighbors. We do ask that people schedule in advance for rehearsal time to avoid the occasional studio noise conflicts. For some podcasts or audio book recordings, we will make the rehearsal space unavailable to book to avoid any background noise creeping into the recordings. 
+The building and room are insulated, so there are little to no noise issues from neighbors. We do ask that people schedule in advance for rehearsal time to avoid the occasional studio noise conflicts. For some podcasts or audiobook recordings, we will make the rehearsal space unavailable to book to avoid any background noise creeping into the recordings. 
 
 - - -
 

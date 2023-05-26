@@ -5,7 +5,7 @@ weight: 6
 date: 2022-11-06
 intro_image: "images/services/outdoor-music-video-shoot.webp"
 description: Hire a videographer for music video production or social media promotions in Philadelphia. Get your video done today with Sounds Like Soma
-tags: [video,music video,filming,recording]
+tags: [video, music video, filming, recording]
 ---
 Hire a videographer for music video production or social media promotions in Philadelphia. Get your video done today!
 
@@ -13,7 +13,7 @@ Hire a videographer for music video production or social media promotions in Phi
 
 ## Music Videos
 
-What's Included:
+What's included:
 
 - Consultation and Planning
 - 4K Ultra HD Video Recording
@@ -35,7 +35,7 @@ Additional Options
 
 The typical 2-3 minute music videos only cost between $200-$300
 
-Please have **examples of your favorite music videos** or effects you like so we can clearly understand your vision and edit more quickly!
+Please have **examples of your favorite music videos** or effects you like, so we can clearly understand your vision and edit more quickly!
 
 <p>{% include booking-buttons/contact.html %}</p>
 
@@ -45,16 +45,16 @@ Please have **examples of your favorite music videos** or effects you like so we
 
 ## 1 Minute Social Media Promo Video
 
-What's Included:
+What's included:
 
 - Consultation and Planning
 - 4K Ultra HD Video Recording
 - Color Correction
 - Green Screen or Black Theatre Curtain Backdrop
-- Color Changing LED Lights, Balcklights
+- Color Changing LED Lights, Backlights
 - 1-2 Hour Turnaround If Shot In Our Studio 
 
-The typical 30s - 1 minute promo video costs between $65-$100
+The typical 30s - 1-minute promo video costs between $65-$100
 
 <p>{% include booking-buttons/contact.html %}</p>
 
