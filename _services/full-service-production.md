@@ -38,26 +38,32 @@ Sounds Like Soma is a one-stop destination for all your artistic production need
 
 ## Pricing
 
-- Typical pricing ranges around $2000 for this full service song release package. 
+- Typical pricing ranges from $1400 - $2000 for this full service song release package. 
 
 > reach out to us for alternative pricing options if you need more or less work done for your project. We will work within your budget to achieve your desiered goals
 
 
 ## Learn more about our Full Service Production
 
-### Recording:
+### Studio Recording & Sound Engineering:
 Step into our <a href="/services/recording-studios/" target="Recording Studios">acoustically treated studios</a> and capture your performances with pristine quality. Our experienced engineers will ensure that every nuance of your sound is faithfully captured, allowing you to showcase your talent in the best possible light. From vocals to instruments, we're equipped to handle diverse genres and styles.
 
-### Hiring Backup Singers and Musicians:
+### Hire Backup Singers and Professional Musicians:
 Take your music to the next level by collaborating with our talented roster of backup singers and session musicians. Whether you need harmonies to enrich your tracks or professional instrumentalists to bring depth and texture, we can connect you with the right talent to complement your sound.
 
-### Instrumentals:
+### Instrumental Music Production:
 Need an instrumental track to lay the foundation for your music? Our skilled producers can create original, high-quality instrumentals tailored to your artistic vision. Whether you're looking for a specific genre or a unique blend of styles, we'll work closely with you to ensure the final product matches your creative vision.
 
 ### Music Videos and Lyric Videos:
-
-<img src="/images/services/philly-music-video-production.webp" loading="lazy" title="Philly Music Video Production" alt="Camera recording rapper smoking in studio" />
 Elevate your music's visual appeal with captivating music videos and lyric videos. Our team of videographers and editors will bring your songs to life through engaging visuals, enhancing the overall impact of your music. From conceptualization to post-production, we'll guide you through the entire process, making sure your videos align with your artistic vision.
 
 ### Vocal Recording, Mixing, and Mastering:
 Your voice is at the heart of your music, and we're dedicated to capturing it with clarity and precision. Our <a href="/services/recording-studios/" target="vocal recording services">vocal recording services</a> are designed to bring out the best in your performance, ensuring that your voice stands out in the mix. Our skilled engineers also excel in <a href="/services/recording-studios/" target="mixing and mastering">mixing and mastering</a>, giving your tracks a polished, professional sound that's ready for distribution.
+
+### Promotional services
+We help to get your music and brand heard by the masses! We work with you to develop a promotional campaign to reach new fans across the globe or locally in your city.
+
+<img src="/images/services/philly-music-video-production.webp" loading="lazy" title="Philly Music Video Production" alt="Camera recording rapper smoking in studio" />
+
+## One-stop music production and distribution
+One-stop destination for all of your artistic production needs. We offer unparalleled assistance in producing and recording your masterpiece. Our expertise extends beyond audio engineering, as we seamlessly coordinate professional photoshoots and music video shoots, ensuring a visually captivating representation of your art. To complete the process, we facilitate the distribution of your work to streaming platforms while implementing effective promotional strategies. Trust us to elevate your creative vision to new heights.
