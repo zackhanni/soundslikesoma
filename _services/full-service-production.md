@@ -1,6 +1,6 @@
 ---
 title: 'Full Service Production'
-title-h1: 'Full-Service Music Production: Unleash Your Musical Potential'
+title-h1: 'Full-Service A1 Music Production: Unleash Your Musical Potential'
 weight: 8
 date: 2022-11-08
 intro_image: "images/best-philadelphia-recording-studios.webp"
@@ -24,7 +24,7 @@ Sounds Like Soma is a one-stop destination for all your artistic production need
 
 - Mastering - Tracks are radio and streaming ready.
 
-- <a href="/services/music-video-production/" target="Music Video Produciton">Music Video Produciton</a> - Record a full length 4k music video or lyric video for your song.
+- <a href="/services/music-video-production/" target="Music Video Produciton">Music Video Production</a> - Record a full length 4k music video or lyric video for your song.
 
 - Artist Photoshoot - Take promotional pictures and reinvent your image as an artist
 
