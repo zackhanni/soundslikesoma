@@ -15,12 +15,12 @@ Please don't hesitate to reach out and contact us with any questions. <a href="h
 | Day       | Opening Hours   |
 | --------- | --------------- |
 | Monday    | By Appointment Only |
-| Tuesday   | 02:00pm - 2:00am |
-| Wednesday | 12:00pm - 2:00am |
-| Thursday  | 12:00pm - 2:00am |
-| Friday    | 12:00pm - 2:00am |
-| Saturday  | 12:00pm - 2:00am |
-| Sunday    | 12:00pm - 2:00am |
+| Tuesday   | 10:00am - 2:00am |
+| Wednesday | 10:00am - 2:00am |
+| Thursday  | 10:00am - 2:00am |
+| Friday    | 10:00am - 2:00am |
+| Saturday  | 10:00am - 2:00am |
+| Sunday    | 10:00am - 2:00am |
 
 ## Contact Form
 
