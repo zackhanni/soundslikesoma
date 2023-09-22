@@ -12,7 +12,7 @@ World-class recording and professional mixing studio. Get your next music projec
 <img src="/images/best-philadelphia-recording-studios.webp" loading="lazy" title="Recording Studio with Keyboards and Sperkers" alt="Recording Studio with Keyboards and Sperkers" width="763" height="533"/>
 
 ## Studio A
-With Head Audio Engineer Zack Hanni
+With Audio Engineer
 
 - $65 / Hour ($80 After Midnight)
 - Vocal Booth and Private Recording Area
@@ -34,7 +34,7 @@ No matter if you are a full band, solo artist, or need instrumentals produced fo
 - - -
 
 ## Studio B
-With Sound Engineer Gage Bingham
+With Sound Engineer
 
 <img src="/images/services/music-mixing-studio-b.webp" loading="lazy" title="Mixing With Shamir" alt="Mixing Music In Studio B" width="1055" height="737" />
 
