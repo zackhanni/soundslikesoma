@@ -38,7 +38,7 @@ With Sound Engineer
 
 <img src="/images/services/music-mixing-studio-b.webp" loading="lazy" title="Mixing With Shamir" alt="Mixing Music In Studio B" width="1055" height="737" />
 
-- $45 / Hour ($60 After Midnight)
+- $55 / Hour ($70 After Midnight)
 - Industry Standard Plugins from Waves, Izotope, and Antares
 - Custom Beat Production
 - <a href="/services/gearlist/" target="Gear List">State-Of-The-Art Audio Equipment</a>
