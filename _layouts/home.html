@@ -2,6 +2,7 @@
 layout: default
 bodyClass: "page-home"
 ---
+
 <!-- schema -->
 {% include index-schema.html %}
 
@@ -9,14 +10,18 @@ bodyClass: "page-home"
   <div class="container">
     <div class="row justify-content-start">
       <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
-        {{ content }}
-        {% if page.show_call_box %}
-          {% include call.html show_button=true show_addr=false %}
-        {% endif %}
+        {{ content }} {% if page.show_call_box %} {% include call.html
+        show_button=true show_addr=false %} {% endif %}
       </div>
       {% if page.intro_image %}
-      <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
-        <img alt="{{ page.title }}" class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relURL }}" />
+      <div
+        class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative"
+      >
+        <img
+          alt="{{ page.title }}"
+          class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}"
+          src="{{ page.intro_image | relURL }}"
+        />
       </div>
       {% endif %}
     </div>
@@ -27,15 +32,17 @@ bodyClass: "page-home"
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
-      {% assign limit = site.home.limit_services | default: 6 %}
-      {% for service in site.services limit: limit %}
+      {% assign limit = site.home.limit_services | default: 6 %} {% for service
+      in site.services limit: limit %}
       <div class="col-12 col-md-4 mb-1">
         <div class="service service-summary">
           <div class="service-content">
             <h2 class="service-title">
               <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
             </h2>
-            <p>{{ service.content | markdownify | strip_html | truncate: 150 }}</p>
+            <p>
+              {{ service.content | markdownify | strip_html | truncate: 150 }}
+            </p>
           </div>
         </div>
       </div>
@@ -43,15 +50,28 @@ bodyClass: "page-home"
     </div>
     <div class="row justify-content-center">
       <div class="col-auto">
-        <a class="button button-primary" href="{{ "services/" | relative_url }}">View All Services</a>
+        <a class="button button-primary" href="{{ 'services/' | relative_url }}"
+          >View All Services</a
+        >
       </div>
     </div>
 
-  <div class="container pb-6 pt-6 pt-md-10">
-      <h2><a href="/services/full-service-production/" target="Full Service Production">NEW - Full-Service A1 Music Production</a></h2>
-      <p>From production and recording to photoshoots and music videos, we ensure a visually captivating representation of your art. Then, we facilitate the distribution of your work to streaming platforms while implementing effective promotional strategies to get your music heard! Trust us to elevate your creative vision to new heights.</p>
+    <div class="container pb-6 pt-6 pt-md-10">
+      <h2>
+        <a
+          href="/services/artist-epk-website-design/"
+          target="Full Service Production"
+          >NEW - Artist EPK Website Design</a
+        >
+      </h2>
+      <p>
+        An Electronic Press Kit (EPK) is a digital website portfolio that
+        showcases your music and personal brand. An essential tool for
+        musicians, bands, and solo artists to professionally present their
+        latest releases, upcoming projects, and personal brand to media,
+        promoters, venues, and fans.
+      </p>
     </div>
-
   </div>
 </div>
 
@@ -59,21 +79,45 @@ bodyClass: "page-home"
 <div class="content">
   <div class="row justify-content-center">
     <div class="col-12 col-md-6">
-      <img src="/images/best-philadelphia-recording-studios.webp" loading="lazy" title="Music Studios in Philadelphia" alt="Music Studios in Philadelphia">
+      <img
+        src="/images/best-philadelphia-recording-studios.webp"
+        loading="lazy"
+        title="Music Studios in Philadelphia"
+        alt="Music Studios in Philadelphia"
+      />
     </div>
   </div>
   <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
-      <div class="row justify-content-center">
-          <div class="col-12 col-md-6">
-            <h2>Music Studios in Philadelphia</h2>
-            <p>Sounds Like Soma is located in South Philadelphia, Point Breeze neighborhood. This area is rich in history and natural beauty. We are located 10 minutes from Center city and only a few blocks from Broad Street. Also, if you are coming from the Delaware or New Jersey area, we are only a quick drive away from your bridge of choice via the Schuylkill Expressway. If you are looking for a <strong>philadelphia music studio</strong> in the tri-state area or beyond, we are ready to work with you!</p>
-          </div>
-          <div class="col-12 col-md-4">
-            <a href="https://maps.google.com/maps?ll=39.932041,-75.179406&z=16&t=m&hl=en&gl=US&mapclient=embed&cid=3588667047185604349" target=”_blank”>
-              <img src="/images/soma-studios-google-maps.webp" loading="lazy" title="Find Soma On Google Maps" alt="Find Soma On Google Maps" width="350" height="275">
-            </a>
-          </div>
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-6">
+        <h2>Music Studios in Philadelphia</h2>
+        <p>
+          Sounds Like Soma is located in South Philadelphia, Point Breeze
+          neighborhood. This area is rich in history and natural beauty. We are
+          located 10 minutes from Center city and only a few blocks from Broad
+          Street. Also, if you are coming from the Delaware or New Jersey area,
+          we are only a quick drive away from your bridge of choice via the
+          Schuylkill Expressway. If you are looking for a
+          <strong>philadelphia music studio</strong> in the tri-state area or
+          beyond, we are ready to work with you!
+        </p>
       </div>
+      <div class="col-12 col-md-4">
+        <a
+          href="https://maps.google.com/maps?ll=39.932041,-75.179406&z=16&t=m&hl=en&gl=US&mapclient=embed&cid=3588667047185604349"
+          target="”_blank”"
+        >
+          <img
+            src="/images/soma-studios-google-maps.webp"
+            loading="lazy"
+            title="Find Soma On Google Maps"
+            alt="Find Soma On Google Maps"
+            width="350"
+            height="275"
+          />
+        </a>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -81,15 +125,23 @@ bodyClass: "page-home"
 {% if site.data.features %}
 <div class="strip strip-grey">
   <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
-        <div class="row justify-content-center">
-          <h3>We Help You Every Step Of The Way</h3>
-        </div>
+    <div class="row justify-content-center">
+      <h3>We Help You Every Step Of The Way</h3>
+    </div>
     <div class="row justify-content-center">
       {% for feature in site.data.features %}
       <div class="col-12 col-md-6 col-lg-4 mb-2">
         <div class="feature">
           {% if feature.image %}
-          <div class="feature-image"><img loading="lazy" alt="{{ feature.title }} logo" src="{{ feature.image.url | relative_url }}" width="{{ feature.image.width }}" height="{{ feature.image.height }}" /></div>
+          <div class="feature-image">
+            <img
+              loading="lazy"
+              alt="{{ feature.title }} logo"
+              src="{{ feature.image.url | relative_url }}"
+              width="{{ feature.image.width }}"
+              height="{{ feature.image.height }}"
+            />
+          </div>
           {% endif %}
           <h3 class="feature-title">{{ feature.title }}</h3>
           <div class="feature-content">{{ feature.description }}</div>
@@ -97,9 +149,15 @@ bodyClass: "page-home"
       </div>
       {% endfor %}
 
-      <div class=" content col-12 col-md-6">
+      <div class="content col-12 col-md-6">
         <h3>Get The True Soma Sound</h3>
-        <p>Soma Sound is a modern, 4 room creative facility located in the Point Breeze district of South Philadelphia, PA 19146. This 3 story building can accommodate all of your tracking needs, from bands to gospel choirs to voice over recordings. Come and see why some call us the best music studios in Philadelphia.</p>
+        <p>
+          Soma Sound is a modern, 4 room creative facility located in the Point
+          Breeze district of South Philadelphia, PA 19146. This 3 story building
+          can accommodate all of your tracking needs, from bands to gospel
+          choirs to voice over recordings. Come and see why some call us the
+          best music studios in Philadelphia.
+        </p>
       </div>
       <div class="col-12 col-md-4 my-auto">
         <div class="row justify-content-center align-self-center">
@@ -116,20 +174,50 @@ bodyClass: "page-home"
   <div class="row justify-content-center">
     <div class="col-12 col-md-6">
       <h2>Music Production</h2>
-      <p>We have everything you might possibly need to finish your musical endeavor. We can take care of everything for you, from pre production through recording, to post sound rooms. Our team and <strong>music studios in Philadelphia</strong> are prepared to handle whatever you throw at them!</p>
+      <p>
+        We have everything you might possibly need to finish your musical
+        endeavor. We can take care of everything for you, from pre production
+        through recording, to post sound rooms. Our team and
+        <strong>music studios in Philadelphia</strong> are prepared to handle
+        whatever you throw at them!
+      </p>
     </div>
     <div class="col-12 col-md-6">
       <h2>Music Studio Recording</h2>
-      <p>The purpose of our Philadelphia recording studios was to provide something new to the neighborhood. Our recording studio has ample room to accommodate projects of any size. To give our clients the greatest sound quality possible, the studio has undergone meticulous acoustical treatment. We have loaded up on every piece of cutting-edge equipment recording studios in Philadelphia needs to elevate the sound quality of any audio track.</p>
+      <p>
+        The purpose of our Philadelphia recording studios was to provide
+        something new to the neighborhood. Our recording studio has ample room
+        to accommodate projects of any size. To give our clients the greatest
+        sound quality possible, the studio has undergone meticulous acoustical
+        treatment. We have loaded up on every piece of cutting-edge equipment
+        recording studios in Philadelphia needs to elevate the sound quality of
+        any audio track.
+      </p>
     </div>
-<hr hr color="#fffff0">
+    <hr hr color="#fffff0" />
     <div class="col-12 col-md-12">
       <h2>Philadelphia Recording Studios</h2>
-      <p>Four cutting-edge recording spaces in our studio may be configured in a variety of ways to meet your needs. One studio could suit your needs more than the other, depending on what your project requires. When attempting to keep under budgetary constraints, many artists find that using both spaces together is ideal. You may customize the studio as big or as little as you like, and we can meet any requirements you may have. We have 24 hour, free street parking</p>
+      <p>
+        Four cutting-edge recording spaces in our studio may be configured in a
+        variety of ways to meet your needs. One studio could suit your needs
+        more than the other, depending on what your project requires. When
+        attempting to keep under budgetary constraints, many artists find that
+        using both spaces together is ideal. You may customize the studio as big
+        or as little as you like, and we can meet any requirements you may have.
+        We have 24 hour, free street parking
+      </p>
     </div>
     <div class="col-12 col-md-12">
       <h2>Philadelphia Audio Recording Studio</h2>
-      <p>We also have experience recording voice overs for TV, movies and podcasts. Our sound treated rooms and large TV screens allow the talent to visually see a video clip or script to more comfortably allow for accurate voice acting. We can tie in a remote producer to give live feedback on the talents performance. Our vocal booth area and sound treated rooms ensure your <strong>audio recordings</strong> have no background noise or humms in the signal chain.</p>
+      <p>
+        We also have experience recording voice overs for TV, movies and
+        podcasts. Our sound treated rooms and large TV screens allow the talent
+        to visually see a video clip or script to more comfortably allow for
+        accurate voice acting. We can tie in a remote producer to give live
+        feedback on the talents performance. Our vocal booth area and sound
+        treated rooms ensure your <strong>audio recordings</strong> have no
+        background noise or humms in the signal chain.
+      </p>
     </div>
   </div>
 </div>
@@ -138,7 +226,12 @@ bodyClass: "page-home"
 <div class="content">
   <div class="row justify-content-center">
     <div class="col-12 col-md-6">
-      <img src="/images/recording-studios-philadelphia.webp" loading="lazy" title="Recording Studios in Philadelphia" alt="Recording Studios in Philadelphia">
+      <img
+        src="/images/recording-studios-philadelphia.webp"
+        loading="lazy"
+        title="Recording Studios in Philadelphia"
+        alt="Recording Studios in Philadelphia"
+      />
     </div>
   </div>
   <div class="strip strip-grey">
@@ -146,7 +239,20 @@ bodyClass: "page-home"
       <div class="row justify-content-center">
         <div class="col-12 col-md-12">
           <h2>Music Album Mixing and Mastering</h2>
-          <p>Professional studio recordings can be very different from the recording you may already be doing in your home studio space. We have meticulously created acoustically treated rooms to inspire your musical group or band to develop their best creative works. The more planning we do beforehand, the better we can customize out spaces to optimally serve your needs. This way everything runs smoothly when recording and everyone is on the same page. This is where studio recording can be different from other recording situations as there are many stages when it comes to recording in the studio. There is pre production, production, and post production. It is important to allow the necessary time to utilize each of these steps to their fullest.</p>
+          <p>
+            Professional studio recordings can be very different from the
+            recording you may already be doing in your home studio space. We
+            have meticulously created acoustically treated rooms to inspire your
+            musical group or band to develop their best creative works. The more
+            planning we do beforehand, the better we can customize out spaces to
+            optimally serve your needs. This way everything runs smoothly when
+            recording and everyone is on the same page. This is where studio
+            recording can be different from other recording situations as there
+            are many stages when it comes to recording in the studio. There is
+            pre production, production, and post production. It is important to
+            allow the necessary time to utilize each of these steps to their
+            fullest.
+          </p>
         </div>
       </div>
     </div>
@@ -156,11 +262,28 @@ bodyClass: "page-home"
       <div class="col-12 col-md-8">
         <h2>FAQ</h2>
         <h3>How long have you been at this location?</h3>
-        <p>The recording studio has been located at its South Philadelphia, Point Breeze location since 2017. There have been several studio moves in the past. We have been in Tennessee, NJ and other parts of Philadelphia before finding a long-term home in South Philly.</p>
+        <p>
+          The recording studio has been located at its South Philadelphia, Point
+          Breeze location since 2017. There have been several studio moves in
+          the past. We have been in Tennessee, NJ and other parts of
+          Philadelphia before finding a long-term home in South Philly.
+        </p>
         <h3>How long have you been recording and mixing music?</h3>
-        <p>The head Engineer Zack has over 15 years of experience working with all genres of music from country & bluegrass, to Hip-hop, Rap and R&B. Having a diverse background in recording is what makes our music studios stand out among some of the others nearby</p>
+        <p>
+          The head Engineer Zack has over 15 years of experience working with
+          all genres of music from country & bluegrass, to Hip-hop, Rap and R&B.
+          Having a diverse background in recording is what makes our music
+          studios stand out among some of the others nearby
+        </p>
         <h3>Have you worked with any famous artists?</h3>
-        <p>Pop artists like Charli XCX, Rock bands like Cage the Elephant, Funk bands like Parliament Funkadelic, R&B artists like Jacob Banks, Electronic labels and artists like Mau5trap Records and Kindrid, Hip-Hop artists like Sean Smith, Bamahadia, Alt rock bands like Shamir, Nasty Cherry, and many more that we do not have the room to fit here! </p>
+        <p>
+          Pop artists like Charli XCX, Rock bands like Cage the Elephant, Funk
+          bands like Parliament Funkadelic, R&B artists like Jacob Banks,
+          Electronic labels and artists like Mau5trap Records and Kindrid,
+          Hip-Hop artists like Sean Smith, Bamahadia, Alt rock bands like
+          Shamir, Nasty Cherry, and many more that we do not have the room to
+          fit here!
+        </p>
       </div>
     </div>
   </div>
