@@ -1,23 +1,25 @@
 ---
 title: "Recording Studios"
-title-h1: 'Mix Music Recording Studios Philly'
+title-h1: "Mix Music Recording Studios Philly"
 weight: 1
 date: 2022-11-01
 intro_image: "images/best-philadelphia-recording-studios.webp"
 description: Enjoy a relaxed atmosphere and record through the amazing analog equipment at Sounds Like Soma Philadelphia recording studio
 tags: [recording studio near me, music studio, Philadelphia recording studio]
 ---
-World-class recording and professional mixing studio. Get your next music project completed by our Philly team with state-of-the-art audio equipment! 
+
+World-class recording and professional mixing studio. Get your next music project completed by our Philly team with state-of-the-art audio equipment!
 
 <img src="/images/best-philadelphia-recording-studios.webp" loading="lazy" title="Recording Studio with Keyboards and Sperkers" alt="Recording Studio with Keyboards and Sperkers" width="763" height="533"/>
 
 ## Studio A
-With Audio Engineer
 
-- $65 / Hour ($80 After Midnight)
+With Audio Engineer - Zack
+
+- $70 / Hour ($80 After Midnight)
 - Vocal Booth and Private Recording Area
 - Zero Latency Live Autotune and Audio Effects
-- 15+ Years Experience Mixing & Mastering
+- 17+ Years Experience Mixing & Mastering
 - High-End Analog Recording Equipment
 - Custom Beat Production
 - Clean, Comfortable, and Private Acoustically Treated Room
@@ -31,10 +33,11 @@ No matter if you are a full band, solo artist, or need instrumentals produced fo
 
 <p>{% include booking-buttons/studio-a.html %}</p>
 
-- - -
+---
 
 ## Studio B
-With Sound Engineer
+
+With Sound Engineer - Gage
 
 <img src="/images/services/music-mixing-studio-b.webp" loading="lazy" title="Mixing With Shamir" alt="Mixing Music In Studio B" width="1055" height="737" />
 
@@ -42,16 +45,17 @@ With Sound Engineer
 - Industry Standard Plugins from Waves, Izotope, and Antares
 - Custom Beat Production
 - <a href="/services/gearlist/" target="Gear List">State-Of-The-Art Audio Equipment</a>
- 
+
 Studio B is an intimate recording space with a strong red glow throughout. This private **sound studio** is also a treated, rentable space for producers, which includes 10-inch speakers that BUMP when you need them to.
 
 All Sessions booked will be run by engineer Gage Bingham, who is ready to professionally track and mix your song for radio and all digital streaming platforms.
 
 <p>{% include booking-buttons/studio-b.html %}</p>
 
-- - -
+---
 
 ## Or… Rent Our Recording Rooms
+
 Bring your own computer and record yourself - <a href="/services/rent-studio-space/" target="Rent our studio spaces">Rent Recording Studio C</a>
 
 We have all the equipment you need from speakers, interface, microphones, and even keyboards, synthesizers, and drum pads for music producers and beat makers! Our **recording spaces** are designed to be flexible to your musical needs.
@@ -64,13 +68,13 @@ When you complete recording, maybe you'll need a second pair of ears on it. Cons
 
 Due to our proximity to Philadelphia, we have the opportunity to work with the city's many great up-and-coming rappers, singers, and musicians. Especially with regard to RnB, this studio has been able to explore new techniques and continue to adapt to fusing and growing genres. So when someone asks if we are just another Philly hip hop recording studio, we can say that we do not define ourselves to just 1 style of music.
 
-We work in all genres including Electronic, House, Funk, Alternative, Pop, Bluegrass, Gospel, and more! By working with such a variety of clients on a day-to-day basis, we are able to combine ideas and mixing techniques when it comes to producing a song. We work closely with our music clients to build a work of art the artist and our studio can be proud of. 
+We work in all genres including Electronic, House, Funk, Alternative, Pop, Bluegrass, Gospel, and more! By working with such a variety of clients on a day-to-day basis, we are able to combine ideas and mixing techniques when it comes to producing a song. We work closely with our music clients to build a work of art the artist and our studio can be proud of.
 
 I hope that in the years to come, that we can all look back and see our contribution to the 'Philly Sound'.
 
 ## Music Recording Studios
 
-Our building houses 4 fully equipped music recording studios that are specially designed depending on your needs. Aside from Studio A and Studio B described above, we have Studio D which is a live room, podcast space, rehearsal studio, and live performance space (like a tiny desk concert). When you book studio time through us, we have access to every room and will move the session accordingly to best suit the needs of your session. 
+Our building houses 4 fully equipped music recording studios that are specially designed depending on your needs. Aside from Studio A and Studio B described above, we have Studio D which is a live room, podcast space, rehearsal studio, and live performance space (like a tiny desk concert). When you book studio time through us, we have access to every room and will move the session accordingly to best suit the needs of your session.
 
 ## FAQ
 
@@ -86,7 +90,6 @@ Booking online only allows you to book until midnight, but we do offer later ses
 
 We have a lot of experience working with Pop, Rock, R&B, Electronic and of course, Hip-Hop music. We believe having a broad palate gives us a competitive advantage when experimenting with different effects or mixing techniques. Furthermore, we will do our best to make your music stand out among the thousands of daily releases. Our **recording studios** are a cut above the rest.
 
-- - -
+---
 
 <img src="/images/services/band-recording-guitars.webp" loading="lazy" title="Recording Guitars" alt="2 Guitar Players Recording" width="7975" height="1300" />
-
