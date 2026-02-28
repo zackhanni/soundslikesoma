@@ -14,10 +14,10 @@ World-class recording and professional mixing studio. Get your next music projec
 
 ## Studio A
 
-With Audio Engineer - Zack
+Now mixing and mastering only. No in-person sessions.
 
-- $70 / Hour ($80 After Midnight)
-- Vocal Booth and Private Recording Area
+- $75 / Hour
+<!-- - Vocal Booth and Private Recording Area -->
 - Zero Latency Live Autotune and Audio Effects
 - 17+ Years Experience Mixing & Mastering
 - High-End Analog Recording Equipment
@@ -35,13 +35,15 @@ No matter if you are a full band, solo artist, or need instrumentals produced fo
 
 ---
 
+<img src="/images/services/music-mixing-studio-b.webp" loading="lazy" title="Mixing With Shamir" alt="Mixing Music In Studio B" width="1055" height="737" />
+
 ## Studio B
 
 With Sound Engineer - Gage
 
-<img src="/images/services/music-mixing-studio-b.webp" loading="lazy" title="Mixing With Shamir" alt="Mixing Music In Studio B" width="1055" height="737" />
-
-- $55 / Hour ($70 After Midnight)
+- $60 / Hour
+- **Vocal** Booth and Private Recording Area
+- Zero Latency Live Autotune and Audio Effects
 - Industry Standard Plugins from Waves, Izotope, and Antares
 - Custom Beat Production
 - <a href="/services/gearlist/" target="Gear List">State-Of-The-Art Audio Equipment</a>

@@ -1,12 +1,14 @@
 ---
-title: 'Band Rehearsals'
-title-h1: 'Philadelphia Band Rehearsal Studios'
+hidden: true
+title: "Band Rehearsals"
+title-h1: "Philadelphia Band Rehearsal Studios"
 weight: 6
 date: 2022-11-06
 intro_image: "images/services/band-rehearsal-guitar.webp"
-description: Philadelphia's best hourly band rehearsal studio. Equipped with drums, amps, keyboards, vocal mics and other instruments | Sounds Like Soma 
+description: Philadelphia's best hourly band rehearsal studio. Equipped with drums, amps, keyboards, vocal mics and other instruments | Sounds Like Soma
 tags: [rehearsal studio, practice space, band rehearsal, instrument rental]
 ---
+
 Philadelphia's Best Hourly Band Rehearsal Studios. Equipped With Drums, Amps, Keyboards, Vocal Mics And More.
 
 <img src="/images/services/band-rehearsal-guitar.webp" loading="lazy" title="Guitar Player In Band Rehearsal" alt="Guitar player in band rehearsal" />
@@ -31,7 +33,7 @@ Optional Add-ons:
 
 Book a space to rehearse for your next big performance, or just jam out in our live room for fun with friends.
 
-> Contact our engineers before paying to lock in a day and time for your session. Let us know what equipment you need us to have set up - stage mics, drums, amps, stands, etc. 
+> Contact our engineers before paying to lock in a day and time for your session. Let us know what equipment you need us to have set up - stage mics, drums, amps, stands, etc.
 
 {% include booking-buttons/rehearsal.html %}
 
@@ -72,7 +74,6 @@ Book a space to rehearse for your next big performance, or just jam out in our l
   </div>
 </div>
 
-
 ## Music Rehearsal FAQ
 
 ### Can I bring my own drum kit?
@@ -89,10 +90,10 @@ As long as the studio space is available, you can always add more time to an alr
 
 ### Are there any noise issues with neighbors?
 
-The building and room are insulated, so there are little to no noise issues from neighbors. We do ask that people schedule in advance for rehearsal time to avoid the occasional studio noise conflicts. For some podcasts or audiobook recordings, we will make the rehearsal space unavailable to book to avoid any background noise creeping into the recordings. 
+The building and room are insulated, so there are little to no noise issues from neighbors. We do ask that people schedule in advance for rehearsal time to avoid the occasional studio noise conflicts. For some podcasts or audiobook recordings, we will make the rehearsal space unavailable to book to avoid any background noise creeping into the recordings.
 
-- - -
+---
 
 > We are excited to work with you. Please let us know if you have any questions regarding how booking rehearsals works.
 
-> If your band is searching for a **rehearsal space** or **music practice room in Philly**, look no further!  Our Live room, Studio D, is the perfect place to jam out with lots of instruments and live sound equipment to use. If you have any special requests or need a specific configuration to your setup, just heat us know ahead of time and we will do everything we can to have it ready.
+> If your band is searching for a **rehearsal space** or **music practice room in Philly**, look no further! Our Live room, Studio D, is the perfect place to jam out with lots of instruments and live sound equipment to use. If you have any special requests or need a specific configuration to your setup, just heat us know ahead of time and we will do everything we can to have it ready.

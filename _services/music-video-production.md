@@ -1,12 +1,14 @@
 ---
-title: '4K Video Production'
-title-h1: '4K Video Production Services'
+hidden: true
+title: "4K Video Production"
+title-h1: "4K Video Production Services"
 weight: 6
 date: 2022-11-06
 intro_image: "images/services/outdoor-music-video-shoot.webp"
 description: Hire a videographer for music video production or social media promotions in Philadelphia. Get your video done today with Sounds Like Soma
 tags: [video, music video, filming, recording]
 ---
+
 Hire a videographer for music video production or social media promotions in Philadelphia. Get your video done today!
 
 <img src="/images/services/outdoor-music-video-shoot.webp" loading="lazy" title="Music Video Shoot On Balcony" alt="Music Video Shoot on Balcony" />
@@ -39,7 +41,7 @@ Please have **examples of your favorite music videos** or effects you like, so w
 
 <p>{% include booking-buttons/contact.html %}</p>
 
-- - -
+---
 
 <img src="/images/services/philly-music-video-production.webp" loading="lazy" title="Philly Music Video Production" alt="Camera recording rapper smoking in studio" />
 
@@ -52,19 +54,19 @@ What's included:
 - Color Correction
 - Green Screen or Black Theatre Curtain Backdrop
 - Color Changing LED Lights, Backlights
-- 1-2 Hour Turnaround If Shot In Our Studio 
+- 1-2 Hour Turnaround If Shot In Our Studio
 
 The typical 30s - 1-minute promo video costs between $65-$100
 
 <p>{% include booking-buttons/contact.html %}</p>
 
-- - -
+---
 
 ## Podcast Video Production
 
 Record a podcast, radio show, or livestream. Learn more about our <a href="/services/podcast-recording-studios/" target="Podcast recording studios">podcast recording studio</a> spaces available.
 
-- - -
+---
 
 ## Music Video Production FAQ
 

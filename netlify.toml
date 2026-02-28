@@ -4,6 +4,7 @@
 
 [build.environment]
   JEKYLL_ENV = "production"
+  RUBY_VERSION = "3.3.6"
 
 [[headers]]
 for = "/*" # This defines which paths this specific [[headers]] block will cover.

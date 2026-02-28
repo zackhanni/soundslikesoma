@@ -33,7 +33,7 @@ bodyClass: "page-home"
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
       {% assign limit = site.home.limit_services | default: 6 %} {% for service
-      in site.services limit: limit %}
+      in site.services limit: limit %} {% unless service.hidden %}
       <div class="col-12 col-md-4 mb-1">
         <div class="service service-summary">
           <div class="service-content">
@@ -46,7 +46,7 @@ bodyClass: "page-home"
           </div>
         </div>
       </div>
-      {% endfor %}
+      {% endunless %} {% endfor %}
     </div>
     <div class="row justify-content-center">
       <div class="col-auto">
@@ -105,7 +105,7 @@ bodyClass: "page-home"
       <div class="col-12 col-md-4">
         <a
           href="https://maps.google.com/maps?ll=39.932041,-75.179406&z=16&t=m&hl=en&gl=US&mapclient=embed&cid=3588667047185604349"
-          target="”_blank”"
+          target="_blank"
         >
           <img
             src="/images/soma-studios-google-maps.webp"
@@ -194,7 +194,7 @@ bodyClass: "page-home"
         any audio track.
       </p>
     </div>
-    <hr hr color="#fffff0" />
+    <hr color="#fffff0" />
     <div class="col-12 col-md-12">
       <h2>Philadelphia Recording Studios</h2>
       <p>
