@@ -328,10 +328,14 @@ These would replace the old entry's unproven results. The first 2 are the ones
   booked online per month, 2021 against 2023, or since the booking links went live. Even a
   yes ("artists book through the site's Book buttons") would put the online-booking result
   back in `results` (the 2026-10-18 audit took it out for want of any record of use).
-- **PageSpeed performance** — accessibility, best practices and SEO were measured locally on
-  2026-10-18 (Evidence). Performance still needs PageSpeed Insights (mobile) on
-  `www.soundslikesoma.com/` and `/services/recording-studios/`, saved with the date; the
-  keyless API is usually out of quota, so run it in the browser.
+- **PageSpeed performance** — PageSpeed Insights on the live home page gave 70, 83 and 78 on
+  mobile (best 83) and 99 on desktop (1 run) on 2026-10-18 (Evidence, not public). Mobile stays
+  out of the copy under 95. Every mobile run had a 0.25 layout shift from the hero's text
+  column, the first thing to fix before re-measuring. `/services/recording-studios/` is not
+  measured yet.
+- **Accessibility under Lighthouse 13** — PageSpeed Insights (Lighthouse 13.5) scores the home
+  page 98, not 100: it has no `<main>` landmark. The 100 in the copy is Lighthouse 12.8.2's,
+  the best recorded. Wrapping the page content in `<main>` would make both agree.
 - **Organic traffic** — GA4 (property `G-DDJ0JL5YQ0`): organic sessions per month, earliest
   available against the last 12 months.
 - **Hosting cost** — the Netlify plan in use (free tier or paid), for the "costs little to run"
@@ -355,4 +359,5 @@ These would replace the old entry's unproven results. The first 2 are the ones
 | Ruby upgrade | Ruby 2.6.5 → 3.3.6 (2026) | `git show f0d5cb1 -- .ruby-version` | 2026-10-18 |
 | Jekyll upgrade | Jekyll 4.3.1 → 4.4.1 (2026) | `git show f0d5cb1 -- Gemfile.lock \| grep 'jekyll ('` | 2026-10-18 |
 | Ruby 2.6 end of life | 2022-04-12 (2022) | https://www.ruby-lang.org/en/downloads/branches/ | 2026-10-18 |
+| PageSpeed Insights, live home page (not public) | mobile performance 70, 83 and 78 (best 83, of 3), CLS 0.25 on all 3; desktop 99 (1 run); accessibility 98 (fails `landmark-one-main`), best practices 100, SEO 100 on all 4 | `node scripts/pagespeed/psi.mjs --url=https://www.soundslikesoma.com/ --strategy=mobile` (and `desktop`) from the pfthw folder for its key, Lighthouse 13.5.0, 2026-10-18 17:22-17:23 UTC; 2 desktop calls hit the key's quota. The shift is the hero's `.col-12.col-md-7.col-lg-6` text column. Not published: mobile under 95 | 2026-10-18 |
 | Lighthouse, live pages | 100 accessibility and 100 SEO on `/` and `/services/recording-studios/` (mobile, Oct 2026); `/samples/` 91 / 79 / 100 and `/reviews/` 95 / 79 / 100 (accessibility / best practices / SEO); best practices 79 on all 4 (third-party cookies and browser issues from the embeds). Unchanged on `/` since 2026-09-24 | Lighthouse 12.8.2 CLI, mobile, one run per page: `npx -y lighthouse@12 <url> --only-categories=accessibility,best-practices,seo --form-factor=mobile --chrome-flags="--headless=new"` | 2026-10-18 |
